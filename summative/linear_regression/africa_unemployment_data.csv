@@ -1,0 +1,3499 @@
+country_name,sex,age_group,age_categories,year,unemployment_rate
+Algeria,Female,15-24,Youth,2014,39.169
+Algeria,Female,25+,Adults,2014,11.913
+Algeria,Female,Under 15,Children,2014,15.687
+Algeria,Male,15-24,Youth,2014,22.742
+Algeria,Male,25+,Adults,2014,6.491
+Algeria,Male,Under 15,Children,2014,9.021
+Angola,Female,15-24,Youth,2014,35.356
+Angola,Female,25+,Adults,2014,11.437
+Angola,Female,Under 15,Children,2014,17.59
+Angola,Male,15-24,Youth,2014,35.298
+Angola,Male,25+,Adults,2014,8.104
+Angola,Male,Under 15,Children,2014,15.053
+Benin,Female,15-24,Youth,2014,4.807
+Benin,Female,25+,Adults,2014,1.276
+Benin,Female,Under 15,Children,2014,2.05
+Benin,Male,15-24,Youth,2014,3.938
+Benin,Male,25+,Adults,2014,1.088
+Benin,Male,Under 15,Children,2014,1.587
+Botswana,Female,15-24,Youth,2014,38.785
+Botswana,Female,25+,Adults,2014,17.549
+Botswana,Female,Under 15,Children,2014,21.215
+Botswana,Male,15-24,Youth,2014,31.301
+Botswana,Male,25+,Adults,2014,12.367
+Botswana,Male,Under 15,Children,2014,15.945
+Burkina Faso,Female,15-24,Youth,2014,7.467
+Burkina Faso,Female,25+,Adults,2014,3.344
+Burkina Faso,Female,Under 15,Children,2014,4.458
+Burkina Faso,Male,15-24,Youth,2014,6.673
+Burkina Faso,Male,25+,Adults,2014,3.089
+Burkina Faso,Male,Under 15,Children,2014,4.134
+Burundi,Female,15-24,Youth,2014,1.918
+Burundi,Female,25+,Adults,2014,0.906
+Burundi,Female,Under 15,Children,2014,1.153
+Burundi,Male,15-24,Youth,2014,4.166
+Burundi,Male,25+,Adults,2014,1.435
+Burundi,Male,Under 15,Children,2014,2.02
+Cabo Verde,Female,15-24,Youth,2014,28.366
+Cabo Verde,Female,25+,Adults,2014,8.013
+Cabo Verde,Female,Under 15,Children,2014,12.084
+Cabo Verde,Male,15-24,Youth,2014,24.959
+Cabo Verde,Male,25+,Adults,2014,7.929
+Cabo Verde,Male,Under 15,Children,2014,11.436
+Cameroon,Female,15-24,Youth,2014,6.728
+Cameroon,Female,25+,Adults,2014,3.231
+Cameroon,Female,Under 15,Children,2014,4.047
+Cameroon,Male,15-24,Youth,2014,5.708
+Cameroon,Male,25+,Adults,2014,2.227
+Cameroon,Male,Under 15,Children,2014,3.073
+Central African Republic,Female,15-24,Youth,2014,11.557
+Central African Republic,Female,25+,Adults,2014,4.54
+Central African Republic,Female,Under 15,Children,2014,6.767
+Central African Republic,Male,15-24,Youth,2014,9.49
+Central African Republic,Male,25+,Adults,2014,3.406
+Central African Republic,Male,Under 15,Children,2014,5.078
+Chad,Female,15-24,Youth,2014,0.591
+Chad,Female,25+,Adults,2014,0.583
+Chad,Female,Under 15,Children,2014,0.585
+Chad,Male,15-24,Youth,2014,1.946
+Chad,Male,25+,Adults,2014,0.838
+Chad,Male,Under 15,Children,2014,1.093
+Comoros,Female,15-24,Youth,2014,9.962
+Comoros,Female,25+,Adults,2014,4.676
+Comoros,Female,Under 15,Children,2014,5.325
+Comoros,Male,15-24,Youth,2014,9.768
+Comoros,Male,25+,Adults,2014,3.803
+Comoros,Male,Under 15,Children,2014,4.433
+Congo,Female,15-24,Youth,2014,39.528
+Congo,Female,25+,Adults,2014,16.201
+Congo,Female,Under 15,Children,2014,20.988
+Congo,Male,15-24,Youth,2014,41.91
+Congo,Male,25+,Adults,2014,12.935
+Congo,Male,Under 15,Children,2014,18.457
+"Congo, Democratic Republic of the",Female,15-24,Youth,2014,6.467
+"Congo, Democratic Republic of the",Female,25+,Adults,2014,2.737
+"Congo, Democratic Republic of the",Female,Under 15,Children,2014,3.562
+"Congo, Democratic Republic of the",Male,15-24,Youth,2014,10.628
+"Congo, Democratic Republic of the",Male,25+,Adults,2014,4.106
+"Congo, Democratic Republic of the",Male,Under 15,Children,2014,5.227
+Ivory Coast,Female,15-24,Youth,2014,5.741
+Ivory Coast,Female,25+,Adults,2014,3.304
+Ivory Coast,Female,Under 15,Children,2014,3.94
+Ivory Coast,Male,15-24,Youth,2014,3.753
+Ivory Coast,Male,25+,Adults,2014,2.358
+Ivory Coast,Male,Under 15,Children,2014,2.691
+Djibouti,Female,15-24,Youth,2014,74.485
+Djibouti,Female,25+,Adults,2014,26.756
+Djibouti,Female,Under 15,Children,2014,36.384
+Djibouti,Male,15-24,Youth,2014,72.377
+Djibouti,Male,25+,Adults,2014,15.562
+Djibouti,Male,Under 15,Children,2014,22.374
+Egypt,Female,15-24,Youth,2014,45.236
+Egypt,Female,25+,Adults,2014,17.684
+Egypt,Female,Under 15,Children,2014,23.935
+Egypt,Male,15-24,Youth,2014,27.159
+Egypt,Male,25+,Adults,2014,5.778
+Egypt,Male,Under 15,Children,2014,9.704
+Equatorial Guinea,Female,15-24,Youth,2014,17.057
+Equatorial Guinea,Female,25+,Adults,2014,7.568
+Equatorial Guinea,Female,Under 15,Children,2014,9.226
+Equatorial Guinea,Male,15-24,Youth,2014,14.453
+Equatorial Guinea,Male,25+,Adults,2014,6.006
+Equatorial Guinea,Male,Under 15,Children,2014,7.224
+Eritrea,Female,15-24,Youth,2014,11.719
+Eritrea,Female,25+,Adults,2014,4.548
+Eritrea,Female,Under 15,Children,2014,6.749
+Eritrea,Male,15-24,Youth,2014,9.105
+Eritrea,Male,25+,Adults,2014,3.23
+Eritrea,Male,Under 15,Children,2014,5.069
+Eswatini,Female,15-24,Youth,2014,51.195
+Eswatini,Female,25+,Adults,2014,19.909
+Eswatini,Female,Under 15,Children,2014,25.827
+Eswatini,Male,15-24,Youth,2014,46.579
+Eswatini,Male,25+,Adults,2014,17.062
+Eswatini,Male,Under 15,Children,2014,21.96
+Ethiopia,Female,15-24,Youth,2014,4.685
+Ethiopia,Female,25+,Adults,2014,2.264
+Ethiopia,Female,Under 15,Children,2014,3.093
+Ethiopia,Male,15-24,Youth,2014,2.695
+Ethiopia,Male,25+,Adults,2014,1.224
+Ethiopia,Male,Under 15,Children,2014,1.713
+Gabon,Female,15-24,Youth,2014,41.588
+Gabon,Female,25+,Adults,2014,26.326
+Gabon,Female,Under 15,Children,2014,28.103
+Gabon,Male,15-24,Youth,2014,30.679
+Gabon,Male,25+,Adults,2014,12.316
+Gabon,Male,Under 15,Children,2014,14.186
+Gambia,Female,15-24,Youth,2014,14.205
+Gambia,Female,25+,Adults,2014,8.349
+Gambia,Female,Under 15,Children,2014,9.867
+Gambia,Male,15-24,Youth,2014,10.505
+Gambia,Male,25+,Adults,2014,5.686
+Gambia,Male,Under 15,Children,2014,6.859
+Ghana,Female,15-24,Youth,2014,9.309
+Ghana,Female,25+,Adults,2014,3.215
+Ghana,Female,Under 15,Children,2014,4.396
+Ghana,Male,15-24,Youth,2014,9.38
+Ghana,Male,25+,Adults,2014,3.118
+Ghana,Male,Under 15,Children,2014,4.378
+Guinea,Female,15-24,Youth,2014,7.109
+Guinea,Female,25+,Adults,2014,4.151
+Guinea,Female,Under 15,Children,2014,4.87
+Guinea,Male,15-24,Youth,2014,6.511
+Guinea,Male,25+,Adults,2014,5.215
+Guinea,Male,Under 15,Children,2014,5.458
+Guinea-Bissau,Female,15-24,Youth,2014,4.283
+Guinea-Bissau,Female,25+,Adults,2014,2.46
+Guinea-Bissau,Female,Under 15,Children,2014,2.848
+Guinea-Bissau,Male,15-24,Youth,2014,4.078
+Guinea-Bissau,Male,25+,Adults,2014,3.728
+Guinea-Bissau,Male,Under 15,Children,2014,3.807
+Kenya,Female,15-24,Youth,2014,7.304
+Kenya,Female,25+,Adults,2014,1.778
+Kenya,Female,Under 15,Children,2014,2.967
+Kenya,Male,15-24,Youth,2014,7.335
+Kenya,Male,25+,Adults,2014,1.345
+Kenya,Male,Under 15,Children,2014,2.606
+Lesotho,Female,15-24,Youth,2014,32.743
+Lesotho,Female,25+,Adults,2014,14.173
+Lesotho,Female,Under 15,Children,2014,18.101
+Lesotho,Male,15-24,Youth,2014,17.02
+Lesotho,Male,25+,Adults,2014,13.402
+Lesotho,Male,Under 15,Children,2014,14.272
+Liberia,Female,15-24,Youth,2014,1.197
+Liberia,Female,25+,Adults,2014,1.979
+Liberia,Female,Under 15,Children,2014,1.789
+Liberia,Male,15-24,Youth,2014,1.881
+Liberia,Male,25+,Adults,2014,2.496
+Liberia,Male,Under 15,Children,2014,2.345
+Libya,Female,15-24,Youth,2014,69.28
+Libya,Female,25+,Adults,2014,21.631
+Libya,Female,Under 15,Children,2014,25.356
+Libya,Male,15-24,Youth,2014,42.326
+Libya,Male,25+,Adults,2014,13.361
+Libya,Male,Under 15,Children,2014,16.131
+Madagascar,Female,15-24,Youth,2014,2.299
+Madagascar,Female,25+,Adults,2014,1.024
+Madagascar,Female,Under 15,Children,2014,1.409
+Madagascar,Male,15-24,Youth,2014,2.805
+Madagascar,Male,25+,Adults,2014,0.746
+Madagascar,Male,Under 15,Children,2014,1.369
+Malawi,Female,15-24,Youth,2014,7.07
+Malawi,Female,25+,Adults,2014,5.333
+Malawi,Female,Under 15,Children,2014,5.85
+Malawi,Male,15-24,Youth,2014,6.423
+Malawi,Male,25+,Adults,2014,3.148
+Malawi,Male,Under 15,Children,2014,4.095
+Mali,Female,15-24,Youth,2014,2.163
+Mali,Female,25+,Adults,2014,1.116
+Mali,Female,Under 15,Children,2014,1.45
+Mali,Male,15-24,Youth,2014,2.396
+Mali,Male,25+,Adults,2014,1.298
+Mali,Male,Under 15,Children,2014,1.623
+Mauritania,Female,15-24,Youth,2014,20.045
+Mauritania,Female,25+,Adults,2014,10.207
+Mauritania,Female,Under 15,Children,2014,12.098
+Mauritania,Male,15-24,Youth,2014,15.934
+Mauritania,Male,25+,Adults,2014,7.477
+Mauritania,Male,Under 15,Children,2014,8.996
+Mauritius,Female,15-24,Youth,2014,32.258
+Mauritius,Female,25+,Adults,2014,7.368
+Mauritius,Female,Under 15,Children,2014,10.858
+Mauritius,Male,15-24,Youth,2014,19.58
+Mauritius,Male,25+,Adults,2014,3.308
+Mauritius,Male,Under 15,Children,2014,5.374
+Morocco,Female,15-24,Youth,2014,17.545
+Morocco,Female,25+,Adults,2014,8.694
+Morocco,Female,Under 15,Children,2014,10.286
+Morocco,Male,15-24,Youth,2014,20.958
+Morocco,Male,25+,Adults,2014,7.255
+Morocco,Male,Under 15,Children,2014,9.496
+Mozambique,Female,15-24,Youth,2014,6.761
+Mozambique,Female,25+,Adults,2014,2.264
+Mozambique,Female,Under 15,Children,2014,3.546
+Mozambique,Male,15-24,Youth,2014,7.515
+Mozambique,Male,25+,Adults,2014,1.411
+Mozambique,Male,Under 15,Children,2014,3.202
+Namibia,Female,15-24,Youth,2014,42.434
+Namibia,Female,25+,Adults,2014,15.622
+Namibia,Female,Under 15,Children,2014,20.381
+Namibia,Male,15-24,Youth,2014,35.218
+Namibia,Male,25+,Adults,2014,12.334
+Namibia,Male,Under 15,Children,2014,16.711
+Niger,Female,15-24,Youth,2014,0.403
+Niger,Female,25+,Adults,2014,0.431
+Niger,Female,Under 15,Children,2014,0.423
+Niger,Male,15-24,Youth,2014,0.856
+Niger,Male,25+,Adults,2014,0.469
+Niger,Male,Under 15,Children,2014,0.59
+Nigeria,Female,15-24,Youth,2014,10.945
+Nigeria,Female,25+,Adults,2014,2.255
+Nigeria,Female,Under 15,Children,2014,3.548
+Nigeria,Male,15-24,Youth,2014,9.417
+Nigeria,Male,25+,Adults,2014,3.276
+Nigeria,Male,Under 15,Children,2014,4.163
+Rwanda,Female,15-24,Youth,2014,17.85
+Rwanda,Female,25+,Adults,2014,10.846
+Rwanda,Female,Under 15,Children,2014,12.637
+Rwanda,Male,15-24,Youth,2014,15.403
+Rwanda,Male,25+,Adults,2014,9.818
+Rwanda,Male,Under 15,Children,2014,11.176
+Sao Tome and Principe,Female,15-24,Youth,2014,32.269
+Sao Tome and Principe,Female,25+,Adults,2014,18.641
+Sao Tome and Principe,Female,Under 15,Children,2014,21.228
+Sao Tome and Principe,Male,15-24,Youth,2014,14.901
+Sao Tome and Principe,Male,25+,Adults,2014,8.028
+Sao Tome and Principe,Male,Under 15,Children,2014,9.589
+Senegal,Female,15-24,Youth,2014,11.573
+Senegal,Female,25+,Adults,2014,8.138
+Senegal,Female,Under 15,Children,2014,8.901
+Senegal,Male,15-24,Youth,2014,7.698
+Senegal,Male,25+,Adults,2014,6.633
+Senegal,Male,Under 15,Children,2014,6.864
+Sierra Leone,Female,15-24,Youth,2014,5.953
+Sierra Leone,Female,25+,Adults,2014,3.29
+Sierra Leone,Female,Under 15,Children,2014,3.836
+Sierra Leone,Male,15-24,Youth,2014,14.464
+Sierra Leone,Male,25+,Adults,2014,4.028
+Sierra Leone,Male,Under 15,Children,2014,5.517
+Somalia,Female,15-24,Youth,2014,37.032
+Somalia,Female,25+,Adults,2014,21.162
+Somalia,Female,Under 15,Children,2014,24.531
+Somalia,Male,15-24,Youth,2014,32.173
+Somalia,Male,25+,Adults,2014,13.296
+Somalia,Male,Under 15,Children,2014,16.407
+South Africa,Female,15-24,Youth,2014,47.622
+South Africa,Female,25+,Adults,2014,20.674
+South Africa,Female,Under 15,Children,2014,24.249
+South Africa,Male,15-24,Youth,2014,41.031
+South Africa,Male,25+,Adults,2014,17.863
+South Africa,Male,Under 15,Children,2014,21.192
+South Sudan,Female,15-24,Youth,2014,17.814
+South Sudan,Female,25+,Adults,2014,11.838
+South Sudan,Female,Under 15,Children,2014,13.597
+South Sudan,Male,15-24,Youth,2014,21.027
+South Sudan,Male,25+,Adults,2014,7.902
+South Sudan,Male,Under 15,Children,2014,11.505
+Sudan,Female,15-24,Youth,2014,44.194
+Sudan,Female,25+,Adults,2014,26.555
+Sudan,Female,Under 15,Children,2014,30.664
+Sudan,Male,15-24,Youth,2014,27.71
+Sudan,Male,25+,Adults,2014,8.679
+Sudan,Male,Under 15,Children,2014,12.351
+"Tanzania, United Republic of",Female,15-24,Youth,2014,4.431
+"Tanzania, United Republic of",Female,25+,Adults,2014,1.922
+"Tanzania, United Republic of",Female,Under 15,Children,2014,2.687
+"Tanzania, United Republic of",Male,15-24,Youth,2014,3.053
+"Tanzania, United Republic of",Male,25+,Adults,2014,0.981
+"Tanzania, United Republic of",Male,Under 15,Children,2014,1.568
+Togo,Female,15-24,Youth,2014,3.995
+Togo,Female,25+,Adults,2014,1.187
+Togo,Female,Under 15,Children,2014,1.662
+Togo,Male,15-24,Youth,2014,3.944
+Togo,Male,25+,Adults,2014,2.367
+Togo,Male,Under 15,Children,2014,2.567
+Tunisia,Female,15-24,Youth,2014,39.985
+Tunisia,Female,25+,Adults,2014,17.925
+Tunisia,Female,Under 15,Children,2014,21.516
+Tunisia,Male,15-24,Youth,2014,35.472
+Tunisia,Male,25+,Adults,2014,7.722
+Tunisia,Male,Under 15,Children,2014,11.457
+Uganda,Female,15-24,Youth,2014,4.029
+Uganda,Female,25+,Adults,2014,2.49
+Uganda,Female,Under 15,Children,2014,2.991
+Uganda,Male,15-24,Youth,2014,2.96
+Uganda,Male,25+,Adults,2014,1.37
+Uganda,Male,Under 15,Children,2014,1.897
+Zambia,Female,15-24,Youth,2014,16.951
+Zambia,Female,25+,Adults,2014,5.39
+Zambia,Female,Under 15,Children,2014,8.323
+Zambia,Male,15-24,Youth,2014,17.386
+Zambia,Male,25+,Adults,2014,5.136
+Zambia,Male,Under 15,Children,2014,7.984
+Zimbabwe,Female,15-24,Youth,2014,8.027
+Zimbabwe,Female,25+,Adults,2014,4.262
+Zimbabwe,Female,Under 15,Children,2014,5.174
+Zimbabwe,Male,15-24,Youth,2014,6.007
+Zimbabwe,Male,25+,Adults,2014,3.677
+Zimbabwe,Male,Under 15,Children,2014,4.355
+Algeria,Female,15-24,Youth,2015,44.598
+Algeria,Female,25+,Adults,2015,12.301
+Algeria,Female,Under 15,Children,2015,16.605
+Algeria,Male,15-24,Youth,2015,27.05
+Algeria,Male,25+,Adults,2015,7.15
+Algeria,Male,Under 15,Children,2015,9.941
+Angola,Female,15-24,Youth,2015,34.368
+Angola,Female,25+,Adults,2015,11.707
+Angola,Female,Under 15,Children,2015,17.486
+Angola,Male,15-24,Youth,2015,35.222
+Angola,Male,25+,Adults,2015,8.691
+Angola,Male,Under 15,Children,2015,15.416
+Benin,Female,15-24,Youth,2015,4.866
+Benin,Female,25+,Adults,2015,1.296
+Benin,Female,Under 15,Children,2015,2.062
+Benin,Male,15-24,Youth,2015,3.849
+Benin,Male,25+,Adults,2015,1.12
+Benin,Male,Under 15,Children,2015,1.587
+Botswana,Female,15-24,Youth,2015,38.355
+Botswana,Female,25+,Adults,2015,18.189
+Botswana,Female,Under 15,Children,2015,21.524
+Botswana,Male,15-24,Youth,2015,32.385
+Botswana,Male,25+,Adults,2015,13.025
+Botswana,Male,Under 15,Children,2015,16.565
+Burkina Faso,Female,15-24,Youth,2015,7.724
+Burkina Faso,Female,25+,Adults,2015,3.504
+Burkina Faso,Female,Under 15,Children,2015,4.637
+Burkina Faso,Male,15-24,Youth,2015,7.111
+Burkina Faso,Male,25+,Adults,2015,3.344
+Burkina Faso,Male,Under 15,Children,2015,4.435
+Burundi,Female,15-24,Youth,2015,1.835
+Burundi,Female,25+,Adults,2015,0.929
+Burundi,Female,Under 15,Children,2015,1.146
+Burundi,Male,15-24,Youth,2015,3.86
+Burundi,Male,25+,Adults,2015,1.38
+Burundi,Male,Under 15,Children,2015,1.913
+Cabo Verde,Female,15-24,Youth,2015,30.39
+Cabo Verde,Female,25+,Adults,2015,8.136
+Cabo Verde,Female,Under 15,Children,2015,12.371
+Cabo Verde,Male,15-24,Youth,2015,26.231
+Cabo Verde,Male,25+,Adults,2015,8.085
+Cabo Verde,Male,Under 15,Children,2015,11.63
+Cameroon,Female,15-24,Youth,2015,6.714
+Cameroon,Female,25+,Adults,2015,3.214
+Cameroon,Female,Under 15,Children,2015,4.021
+Cameroon,Male,15-24,Youth,2015,5.699
+Cameroon,Male,25+,Adults,2015,2.216
+Cameroon,Male,Under 15,Children,2015,3.051
+Central African Republic,Female,15-24,Youth,2015,11.741
+Central African Republic,Female,25+,Adults,2015,4.623
+Central African Republic,Female,Under 15,Children,2015,6.914
+Central African Republic,Male,15-24,Youth,2015,9.712
+Central African Republic,Male,25+,Adults,2015,3.555
+Central African Republic,Male,Under 15,Children,2015,5.281
+Chad,Female,15-24,Youth,2015,0.614
+Chad,Female,25+,Adults,2015,0.624
+Chad,Female,Under 15,Children,2015,0.621
+Chad,Male,15-24,Youth,2015,2.002
+Chad,Male,25+,Adults,2015,0.894
+Chad,Male,Under 15,Children,2015,1.148
+Comoros,Female,15-24,Youth,2015,10.197
+Comoros,Female,25+,Adults,2015,4.798
+Comoros,Female,Under 15,Children,2015,5.452
+Comoros,Male,15-24,Youth,2015,9.748
+Comoros,Male,25+,Adults,2015,3.912
+Comoros,Male,Under 15,Children,2015,4.517
+Congo,Female,15-24,Youth,2015,40.54
+Congo,Female,25+,Adults,2015,16.721
+Congo,Female,Under 15,Children,2015,21.577
+Congo,Male,15-24,Youth,2015,43.076
+Congo,Male,25+,Adults,2015,13.387
+Congo,Male,Under 15,Children,2015,19.001
+"Congo, Democratic Republic of the",Female,15-24,Youth,2015,6.479
+"Congo, Democratic Republic of the",Female,25+,Adults,2015,2.744
+"Congo, Democratic Republic of the",Female,Under 15,Children,2015,3.569
+"Congo, Democratic Republic of the",Male,15-24,Youth,2015,10.648
+"Congo, Democratic Republic of the",Male,25+,Adults,2015,4.118
+"Congo, Democratic Republic of the",Male,Under 15,Children,2015,5.237
+Ivory Coast,Female,15-24,Youth,2015,4.363
+Ivory Coast,Female,25+,Adults,2015,2.698
+Ivory Coast,Female,Under 15,Children,2015,3.128
+Ivory Coast,Male,15-24,Youth,2015,2.523
+Ivory Coast,Male,25+,Adults,2015,1.989
+Ivory Coast,Male,Under 15,Children,2015,2.116
+Djibouti,Female,15-24,Youth,2015,74.655
+Djibouti,Female,25+,Adults,2015,26.733
+Djibouti,Female,Under 15,Children,2015,36.106
+Djibouti,Male,15-24,Youth,2015,72.474
+Djibouti,Male,25+,Adults,2015,15.532
+Djibouti,Male,Under 15,Children,2015,22.198
+Egypt,Female,15-24,Youth,2015,39.867
+Egypt,Female,25+,Adults,2015,19.663
+Egypt,Female,Under 15,Children,2015,24.711
+Egypt,Male,15-24,Youth,2015,31.453
+Egypt,Male,25+,Adults,2015,4.975
+Egypt,Male,Under 15,Children,2015,9.352
+Equatorial Guinea,Female,15-24,Youth,2015,17.325
+Equatorial Guinea,Female,25+,Adults,2015,7.664
+Equatorial Guinea,Female,Under 15,Children,2015,9.295
+Equatorial Guinea,Male,15-24,Youth,2015,14.75
+Equatorial Guinea,Male,25+,Adults,2015,6.193
+Equatorial Guinea,Male,Under 15,Children,2015,7.374
+Eritrea,Female,15-24,Youth,2015,11.847
+Eritrea,Female,25+,Adults,2015,4.601
+Eritrea,Female,Under 15,Children,2015,6.851
+Eritrea,Male,15-24,Youth,2015,9.299
+Eritrea,Male,25+,Adults,2015,3.356
+Eritrea,Male,Under 15,Children,2015,5.231
+Eswatini,Female,15-24,Youth,2015,50.088
+Eswatini,Female,25+,Adults,2015,19.626
+Eswatini,Female,Under 15,Children,2015,25.195
+Eswatini,Male,15-24,Youth,2015,45.713
+Eswatini,Male,25+,Adults,2015,16.95
+Eswatini,Male,Under 15,Children,2015,21.56
+Ethiopia,Female,15-24,Youth,2015,4.908
+Ethiopia,Female,25+,Adults,2015,2.316
+Ethiopia,Female,Under 15,Children,2015,3.19
+Ethiopia,Male,15-24,Youth,2015,2.782
+Ethiopia,Male,25+,Adults,2015,1.236
+Ethiopia,Male,Under 15,Children,2015,1.742
+Gabon,Female,15-24,Youth,2015,41.769
+Gabon,Female,25+,Adults,2015,26.479
+Gabon,Female,Under 15,Children,2015,28.225
+Gabon,Male,15-24,Youth,2015,30.883
+Gabon,Male,25+,Adults,2015,12.417
+Gabon,Male,Under 15,Children,2015,14.251
+Gambia,Female,15-24,Youth,2015,12.289
+Gambia,Female,25+,Adults,2015,6.835
+Gambia,Female,Under 15,Children,2015,8.251
+Gambia,Male,15-24,Youth,2015,9.981
+Gambia,Male,25+,Adults,2015,5.376
+Gambia,Male,Under 15,Children,2015,6.476
+Ghana,Female,15-24,Youth,2015,13.7
+Ghana,Female,25+,Adults,2015,4.918
+Ghana,Female,Under 15,Children,2015,6.58
+Ghana,Male,15-24,Youth,2015,14.789
+Ghana,Male,25+,Adults,2015,5.105
+Ghana,Male,Under 15,Children,2015,7.019
+Guinea,Female,15-24,Youth,2015,7.462
+Guinea,Female,25+,Adults,2015,4.371
+Guinea,Female,Under 15,Children,2015,5.107
+Guinea,Male,15-24,Youth,2015,6.602
+Guinea,Male,25+,Adults,2015,5.371
+Guinea,Male,Under 15,Children,2015,5.595
+Guinea-Bissau,Female,15-24,Youth,2015,4.193
+Guinea-Bissau,Female,25+,Adults,2015,2.36
+Guinea-Bissau,Female,Under 15,Children,2015,2.748
+Guinea-Bissau,Male,15-24,Youth,2015,3.99
+Guinea-Bissau,Male,25+,Adults,2015,3.557
+Guinea-Bissau,Male,Under 15,Children,2015,3.654
+Kenya,Female,15-24,Youth,2015,7.341
+Kenya,Female,25+,Adults,2015,1.783
+Kenya,Female,Under 15,Children,2015,2.956
+Kenya,Male,15-24,Youth,2015,7.364
+Kenya,Male,25+,Adults,2015,1.348
+Kenya,Male,Under 15,Children,2015,2.596
+Lesotho,Female,15-24,Youth,2015,33.321
+Lesotho,Female,25+,Adults,2015,14.485
+Lesotho,Female,Under 15,Children,2015,18.349
+Lesotho,Male,15-24,Youth,2015,17.242
+Lesotho,Male,25+,Adults,2015,13.639
+Lesotho,Male,Under 15,Children,2015,14.478
+Liberia,Female,15-24,Youth,2015,1.684
+Liberia,Female,25+,Adults,2015,2.167
+Liberia,Female,Under 15,Children,2015,2.05
+Liberia,Male,15-24,Youth,2015,2.133
+Liberia,Male,25+,Adults,2015,3.302
+Liberia,Male,Under 15,Children,2015,3.017
+Libya,Female,15-24,Youth,2015,70.024
+Libya,Female,25+,Adults,2015,21.985
+Libya,Female,Under 15,Children,2015,25.713
+Libya,Male,15-24,Youth,2015,42.904
+Libya,Male,25+,Adults,2015,13.637
+Libya,Male,Under 15,Children,2015,16.412
+Madagascar,Female,15-24,Youth,2015,2.94
+Madagascar,Female,25+,Adults,2015,1.315
+Madagascar,Female,Under 15,Children,2015,1.806
+Madagascar,Male,15-24,Youth,2015,3.713
+Madagascar,Male,25+,Adults,2015,0.935
+Madagascar,Male,Under 15,Children,2015,1.775
+Malawi,Female,15-24,Youth,2015,7.057
+Malawi,Female,25+,Adults,2015,5.307
+Malawi,Female,Under 15,Children,2015,5.823
+Malawi,Male,15-24,Youth,2015,6.397
+Malawi,Male,25+,Adults,2015,3.124
+Malawi,Male,Under 15,Children,2015,4.074
+Mali,Female,15-24,Youth,2015,2.048
+Mali,Female,25+,Adults,2015,0.993
+Mali,Female,Under 15,Children,2015,1.348
+Mali,Male,15-24,Youth,2015,2.317
+Mali,Male,25+,Adults,2015,1.15
+Mali,Male,Under 15,Children,2015,1.484
+Mauritania,Female,15-24,Youth,2015,21.602
+Mauritania,Female,25+,Adults,2015,9.667
+Mauritania,Female,Under 15,Children,2015,11.877
+Mauritania,Male,15-24,Youth,2015,16.88
+Mauritania,Male,25+,Adults,2015,7.567
+Mauritania,Male,Under 15,Children,2015,9.213
+Mauritius,Female,15-24,Youth,2015,31.285
+Mauritius,Female,25+,Adults,2015,7.145
+Mauritius,Female,Under 15,Children,2015,10.717
+Mauritius,Male,15-24,Youth,2015,21.328
+Mauritius,Male,25+,Adults,2015,2.968
+Mauritius,Male,Under 15,Children,2015,5.298
+Morocco,Female,15-24,Youth,2015,21.3
+Morocco,Female,25+,Adults,2015,8.149
+Morocco,Female,Under 15,Children,2015,10.413
+Morocco,Male,15-24,Youth,2015,20.692
+Morocco,Male,25+,Adults,2015,7.086
+Morocco,Male,Under 15,Children,2015,9.13
+Mozambique,Female,15-24,Youth,2015,7.037
+Mozambique,Female,25+,Adults,2015,2.365
+Mozambique,Female,Under 15,Children,2015,3.683
+Mozambique,Male,15-24,Youth,2015,7.43
+Mozambique,Male,25+,Adults,2015,1.401
+Mozambique,Male,Under 15,Children,2015,3.162
+Namibia,Female,15-24,Youth,2015,46.704
+Namibia,Female,25+,Adults,2015,16.933
+Namibia,Female,Under 15,Children,2015,22.507
+Namibia,Male,15-24,Youth,2015,35.979
+Namibia,Male,25+,Adults,2015,14.947
+Namibia,Male,Under 15,Children,2015,19.084
+Niger,Female,15-24,Youth,2015,0.413
+Niger,Female,25+,Adults,2015,0.47
+Niger,Female,Under 15,Children,2015,0.453
+Niger,Male,15-24,Youth,2015,0.886
+Niger,Male,25+,Adults,2015,0.532
+Niger,Male,Under 15,Children,2015,0.643
+Nigeria,Female,15-24,Youth,2015,11.382
+Nigeria,Female,25+,Adults,2015,2.454
+Nigeria,Female,Under 15,Children,2015,3.784
+Nigeria,Male,15-24,Youth,2015,9.877
+Nigeria,Male,25+,Adults,2015,3.46
+Nigeria,Male,Under 15,Children,2015,4.38
+Rwanda,Female,15-24,Youth,2015,17.876
+Rwanda,Female,25+,Adults,2015,10.857
+Rwanda,Female,Under 15,Children,2015,12.623
+Rwanda,Male,15-24,Youth,2015,15.416
+Rwanda,Male,25+,Adults,2015,9.822
+Rwanda,Male,Under 15,Children,2015,11.162
+Sao Tome and Principe,Female,15-24,Youth,2015,32.391
+Sao Tome and Principe,Female,25+,Adults,2015,18.554
+Sao Tome and Principe,Female,Under 15,Children,2015,21.16
+Sao Tome and Principe,Male,15-24,Youth,2015,14.837
+Sao Tome and Principe,Male,25+,Adults,2015,8.038
+Sao Tome and Principe,Male,Under 15,Children,2015,9.557
+Senegal,Female,15-24,Youth,2015,9.007
+Senegal,Female,25+,Adults,2015,6.842
+Senegal,Female,Under 15,Children,2015,7.314
+Senegal,Male,15-24,Youth,2015,7.392
+Senegal,Male,25+,Adults,2015,6.141
+Senegal,Male,Under 15,Children,2015,6.402
+Sierra Leone,Female,15-24,Youth,2015,5.358
+Sierra Leone,Female,25+,Adults,2015,3.306
+Sierra Leone,Female,Under 15,Children,2015,3.735
+Sierra Leone,Male,15-24,Youth,2015,12.612
+Sierra Leone,Male,25+,Adults,2015,4.471
+Sierra Leone,Male,Under 15,Children,2015,5.723
+Somalia,Female,15-24,Youth,2015,36.222
+Somalia,Female,25+,Adults,2015,20.566
+Somalia,Female,Under 15,Children,2015,23.884
+Somalia,Male,15-24,Youth,2015,31.437
+Somalia,Male,25+,Adults,2015,12.901
+Somalia,Male,Under 15,Children,2015,15.953
+South Africa,Female,15-24,Youth,2015,46.809
+South Africa,Female,25+,Adults,2015,21.498
+South Africa,Female,Under 15,Children,2015,24.836
+South Africa,Male,15-24,Youth,2015,38.311
+South Africa,Male,25+,Adults,2015,18.206
+South Africa,Male,Under 15,Children,2015,21.179
+South Sudan,Female,15-24,Youth,2015,17.685
+South Sudan,Female,25+,Adults,2015,11.698
+South Sudan,Female,Under 15,Children,2015,13.433
+South Sudan,Male,15-24,Youth,2015,20.891
+South Sudan,Male,25+,Adults,2015,7.811
+South Sudan,Male,Under 15,Children,2015,11.357
+Sudan,Female,15-24,Youth,2015,42.903
+Sudan,Female,25+,Adults,2015,25.507
+Sudan,Female,Under 15,Children,2015,29.465
+Sudan,Male,15-24,Youth,2015,26.948
+Sudan,Male,25+,Adults,2015,8.344
+Sudan,Male,Under 15,Children,2015,11.843
+"Tanzania, United Republic of",Female,15-24,Youth,2015,4.364
+"Tanzania, United Republic of",Female,25+,Adults,2015,2.044
+"Tanzania, United Republic of",Female,Under 15,Children,2015,2.738
+"Tanzania, United Republic of",Male,15-24,Youth,2015,2.911
+"Tanzania, United Republic of",Male,25+,Adults,2015,0.987
+"Tanzania, United Republic of",Male,Under 15,Children,2015,1.538
+Togo,Female,15-24,Youth,2015,4.554
+Togo,Female,25+,Adults,2015,1.102
+Togo,Female,Under 15,Children,2015,1.678
+Togo,Male,15-24,Youth,2015,3.968
+Togo,Male,25+,Adults,2015,2.49
+Togo,Male,Under 15,Children,2015,2.676
+Tunisia,Female,15-24,Youth,2015,37.436
+Tunisia,Female,25+,Adults,2015,19.655
+Tunisia,Female,Under 15,Children,2015,22.192
+Tunisia,Male,15-24,Youth,2015,33.958
+Tunisia,Male,25+,Adults,2015,9.379
+Tunisia,Male,Under 15,Children,2015,12.39
+Uganda,Female,15-24,Youth,2015,4.588
+Uganda,Female,25+,Adults,2015,2.718
+Uganda,Female,Under 15,Children,2015,3.329
+Uganda,Male,15-24,Youth,2015,3.707
+Uganda,Male,25+,Adults,2015,1.568
+Uganda,Male,Under 15,Children,2015,2.281
+Zambia,Female,15-24,Youth,2015,17.069
+Zambia,Female,25+,Adults,2015,5.782
+Zambia,Female,Under 15,Children,2015,8.599
+Zambia,Male,15-24,Youth,2015,17.578
+Zambia,Male,25+,Adults,2015,5.341
+Zambia,Male,Under 15,Children,2015,8.127
+Zimbabwe,Female,15-24,Youth,2015,9.035
+Zimbabwe,Female,25+,Adults,2015,4.586
+Zimbabwe,Female,Under 15,Children,2015,5.666
+Zimbabwe,Male,15-24,Youth,2015,7.131
+Zimbabwe,Male,25+,Adults,2015,4.325
+Zimbabwe,Male,Under 15,Children,2015,5.152
+Algeria,Female,15-24,Youth,2016,43.664
+Algeria,Female,25+,Adults,2016,14.918
+Algeria,Female,Under 15,Children,2016,18.309
+Algeria,Male,15-24,Youth,2016,22.346
+Algeria,Male,25+,Adults,2016,6.042
+Algeria,Male,Under 15,Children,2016,8.206
+Angola,Female,15-24,Youth,2016,33.342
+Angola,Female,25+,Adults,2016,11.968
+Angola,Female,Under 15,Children,2016,17.375
+Angola,Male,15-24,Youth,2016,35.129
+Angola,Male,25+,Adults,2016,9.277
+Angola,Male,Under 15,Children,2016,15.785
+Benin,Female,15-24,Youth,2016,4.969
+Benin,Female,25+,Adults,2016,1.344
+Benin,Female,Under 15,Children,2016,2.105
+Benin,Male,15-24,Youth,2016,3.77
+Benin,Male,25+,Adults,2016,1.182
+Benin,Male,Under 15,Children,2016,1.615
+Botswana,Female,15-24,Youth,2016,37.799
+Botswana,Female,25+,Adults,2016,18.783
+Botswana,Female,Under 15,Children,2016,21.804
+Botswana,Male,15-24,Youth,2016,33.422
+Botswana,Male,25+,Adults,2016,13.669
+Botswana,Male,Under 15,Children,2016,17.168
+Burkina Faso,Female,15-24,Youth,2016,7.837
+Burkina Faso,Female,25+,Adults,2016,3.555
+Burkina Faso,Female,Under 15,Children,2016,4.697
+Burkina Faso,Male,15-24,Youth,2016,7.407
+Burkina Faso,Male,25+,Adults,2016,3.482
+Burkina Faso,Male,Under 15,Children,2016,4.613
+Burundi,Female,15-24,Youth,2016,1.699
+Burundi,Female,25+,Adults,2016,0.896
+Burundi,Female,Under 15,Children,2016,1.087
+Burundi,Male,15-24,Youth,2016,3.426
+Burundi,Male,25+,Adults,2016,1.221
+Burundi,Male,Under 15,Children,2016,1.698
+Cabo Verde,Female,15-24,Youth,2016,32.359
+Cabo Verde,Female,25+,Adults,2016,8.199
+Cabo Verde,Female,Under 15,Children,2016,12.556
+Cabo Verde,Male,15-24,Youth,2016,27.379
+Cabo Verde,Male,25+,Adults,2016,8.171
+Cabo Verde,Male,Under 15,Children,2016,11.717
+Cameroon,Female,15-24,Youth,2016,6.749
+Cameroon,Female,25+,Adults,2016,3.238
+Cameroon,Female,Under 15,Children,2016,4.038
+Cameroon,Male,15-24,Youth,2016,5.737
+Cameroon,Male,25+,Adults,2016,2.236
+Cameroon,Male,Under 15,Children,2016,3.065
+Central African Republic,Female,15-24,Youth,2016,11.769
+Central African Republic,Female,25+,Adults,2016,4.625
+Central African Republic,Female,Under 15,Children,2016,6.938
+Central African Republic,Male,15-24,Youth,2016,9.732
+Central African Republic,Male,25+,Adults,2016,3.626
+Central African Republic,Male,Under 15,Children,2016,5.349
+Chad,Female,15-24,Youth,2016,0.643
+Chad,Female,25+,Adults,2016,0.695
+Chad,Female,Under 15,Children,2016,0.681
+Chad,Male,15-24,Youth,2016,2.078
+Chad,Male,25+,Adults,2016,1.019
+Chad,Male,Under 15,Children,2016,1.26
+Comoros,Female,15-24,Youth,2016,10.395
+Comoros,Female,25+,Adults,2016,4.892
+Comoros,Female,Under 15,Children,2016,5.549
+Comoros,Male,15-24,Youth,2016,9.68
+Comoros,Male,25+,Adults,2016,3.993
+Comoros,Male,Under 15,Children,2016,4.574
+Congo,Female,15-24,Youth,2016,41.311
+Congo,Female,25+,Adults,2016,17.12
+Congo,Female,Under 15,Children,2016,22.033
+Congo,Male,15-24,Youth,2016,44.017
+Congo,Male,25+,Adults,2016,13.75
+Congo,Male,Under 15,Children,2016,19.422
+"Congo, Democratic Republic of the",Female,15-24,Youth,2016,6.594
+"Congo, Democratic Republic of the",Female,25+,Adults,2016,2.828
+"Congo, Democratic Republic of the",Female,Under 15,Children,2016,3.659
+"Congo, Democratic Republic of the",Male,15-24,Youth,2016,10.848
+"Congo, Democratic Republic of the",Male,25+,Adults,2016,4.259
+"Congo, Democratic Republic of the",Male,Under 15,Children,2016,5.386
+Ivory Coast,Female,15-24,Youth,2016,3.011
+Ivory Coast,Female,25+,Adults,2016,2.131
+Ivory Coast,Female,Under 15,Children,2016,2.356
+Ivory Coast,Male,15-24,Youth,2016,1.274
+Ivory Coast,Male,25+,Adults,2016,1.663
+Ivory Coast,Male,Under 15,Children,2016,1.571
+Djibouti,Female,15-24,Youth,2016,74.72
+Djibouti,Female,25+,Adults,2016,26.699
+Djibouti,Female,Under 15,Children,2016,35.896
+Djibouti,Male,15-24,Youth,2016,72.47
+Djibouti,Male,25+,Adults,2016,15.497
+Djibouti,Male,Under 15,Children,2016,22.065
+Egypt,Female,15-24,Youth,2016,40.561
+Egypt,Female,25+,Adults,2016,18.199
+Egypt,Female,Under 15,Children,2016,23.547
+Egypt,Male,15-24,Youth,2016,30.393
+Egypt,Male,25+,Adults,2016,4.696
+Egypt,Male,Under 15,Children,2016,8.845
+Equatorial Guinea,Female,15-24,Youth,2016,17.527
+Equatorial Guinea,Female,25+,Adults,2016,7.741
+Equatorial Guinea,Female,Under 15,Children,2016,9.341
+Equatorial Guinea,Male,15-24,Youth,2016,14.856
+Equatorial Guinea,Male,25+,Adults,2016,6.335
+Equatorial Guinea,Male,Under 15,Children,2016,7.471
+Eritrea,Female,15-24,Youth,2016,11.901
+Eritrea,Female,25+,Adults,2016,4.615
+Eritrea,Female,Under 15,Children,2016,6.88
+Eritrea,Male,15-24,Youth,2016,9.339
+Eritrea,Male,25+,Adults,2016,3.433
+Eritrea,Male,Under 15,Children,2016,5.302
+Eswatini,Female,15-24,Youth,2016,49.002
+Eswatini,Female,25+,Adults,2016,19.341
+Eswatini,Female,Under 15,Children,2016,24.526
+Eswatini,Male,15-24,Youth,2016,44.887
+Eswatini,Male,25+,Adults,2016,16.843
+Eswatini,Male,Under 15,Children,2016,21.121
+Ethiopia,Female,15-24,Youth,2016,5.185
+Ethiopia,Female,25+,Adults,2016,2.415
+Ethiopia,Female,Under 15,Children,2016,3.335
+Ethiopia,Male,15-24,Youth,2016,2.903
+Ethiopia,Male,25+,Adults,2016,1.276
+Ethiopia,Male,Under 15,Children,2016,1.802
+Gabon,Female,15-24,Youth,2016,42.156
+Gabon,Female,25+,Adults,2016,26.823
+Gabon,Female,Under 15,Children,2016,28.568
+Gabon,Male,15-24,Youth,2016,31.206
+Gabon,Male,25+,Adults,2016,12.596
+Gabon,Male,Under 15,Children,2016,14.432
+Gambia,Female,15-24,Youth,2016,10.379
+Gambia,Female,25+,Adults,2016,5.3
+Gambia,Female,Under 15,Children,2016,6.62
+Gambia,Male,15-24,Youth,2016,9.459
+Gambia,Male,25+,Adults,2016,5.055
+Gambia,Male,Under 15,Children,2016,6.087
+Ghana,Female,15-24,Youth,2016,10.24
+Ghana,Female,25+,Adults,2016,4.076
+Ghana,Female,Under 15,Children,2016,5.228
+Ghana,Male,15-24,Youth,2016,10.991
+Ghana,Male,25+,Adults,2016,3.994
+Ghana,Male,Under 15,Children,2016,5.357
+Guinea,Female,15-24,Youth,2016,7.342
+Guinea,Female,25+,Adults,2016,4.141
+Guinea,Female,Under 15,Children,2016,4.885
+Guinea,Male,15-24,Youth,2016,6.29
+Guinea,Male,25+,Adults,2016,4.946
+Guinea,Male,Under 15,Children,2016,5.181
+Guinea-Bissau,Female,15-24,Youth,2016,4.161
+Guinea-Bissau,Female,25+,Adults,2016,2.325
+Guinea-Bissau,Female,Under 15,Children,2016,2.711
+Guinea-Bissau,Male,15-24,Youth,2016,3.958
+Guinea-Bissau,Male,25+,Adults,2016,3.495
+Guinea-Bissau,Male,Under 15,Children,2016,3.598
+Kenya,Female,15-24,Youth,2016,7.371
+Kenya,Female,25+,Adults,2016,1.787
+Kenya,Female,Under 15,Children,2016,2.945
+Kenya,Male,15-24,Youth,2016,7.378
+Kenya,Male,25+,Adults,2016,1.347
+Kenya,Male,Under 15,Children,2016,2.584
+Lesotho,Female,15-24,Youth,2016,33.259
+Lesotho,Female,25+,Adults,2016,14.439
+Lesotho,Female,Under 15,Children,2016,18.21
+Lesotho,Male,15-24,Youth,2016,17.148
+Lesotho,Male,25+,Adults,2016,13.545
+Lesotho,Male,Under 15,Children,2016,14.363
+Liberia,Female,15-24,Youth,2016,2.194
+Liberia,Female,25+,Adults,2016,2.386
+Liberia,Female,Under 15,Children,2016,2.339
+Liberia,Male,15-24,Youth,2016,2.394
+Liberia,Male,25+,Adults,2016,4.196
+Liberia,Male,Under 15,Children,2016,3.757
+Libya,Female,15-24,Youth,2016,69.47
+Libya,Female,25+,Adults,2016,21.711
+Libya,Female,Under 15,Children,2016,25.389
+Libya,Male,15-24,Youth,2016,42.48
+Libya,Male,25+,Adults,2016,13.425
+Libya,Male,Under 15,Children,2016,16.161
+Madagascar,Female,15-24,Youth,2016,2.926
+Madagascar,Female,25+,Adults,2016,1.3
+Madagascar,Female,Under 15,Children,2016,1.786
+Madagascar,Male,15-24,Youth,2016,3.697
+Madagascar,Male,25+,Adults,2016,0.922
+Madagascar,Male,Under 15,Children,2016,1.753
+Malawi,Female,15-24,Youth,2016,7.129
+Malawi,Female,25+,Adults,2016,5.388
+Malawi,Female,Under 15,Children,2016,5.897
+Malawi,Male,15-24,Youth,2016,6.46
+Malawi,Male,25+,Adults,2016,3.174
+Malawi,Male,Under 15,Children,2016,4.132
+Mali,Female,15-24,Youth,2016,2.003
+Mali,Female,25+,Adults,2016,0.945
+Mali,Female,Under 15,Children,2016,1.301
+Mali,Male,15-24,Youth,2016,2.259
+Mali,Male,25+,Adults,2016,1.079
+Mali,Male,Under 15,Children,2016,1.421
+Mauritania,Female,15-24,Youth,2016,23.44
+Mauritania,Female,25+,Adults,2016,9.28
+Mauritania,Female,Under 15,Children,2016,11.805
+Mauritania,Male,15-24,Youth,2016,18.023
+Mauritania,Male,25+,Adults,2016,7.776
+Mauritania,Male,Under 15,Children,2016,9.558
+Mauritius,Female,15-24,Youth,2016,29.752
+Mauritius,Female,25+,Adults,2016,7.087
+Mauritius,Female,Under 15,Children,2016,10.433
+Mauritius,Male,15-24,Youth,2016,17.776
+Mauritius,Male,25+,Adults,2016,2.688
+Mauritius,Male,Under 15,Children,2016,4.53
+Morocco,Female,15-24,Youth,2016,22.613
+Morocco,Female,25+,Adults,2016,8.49
+Morocco,Female,Under 15,Children,2016,10.691
+Morocco,Male,15-24,Youth,2016,22.209
+Morocco,Male,25+,Adults,2016,6.591
+Morocco,Male,Under 15,Children,2016,8.835
+Mozambique,Female,15-24,Youth,2016,7.142
+Mozambique,Female,25+,Adults,2016,2.428
+Mozambique,Female,Under 15,Children,2016,3.756
+Mozambique,Male,15-24,Youth,2016,7.585
+Mozambique,Male,25+,Adults,2016,1.45
+Mozambique,Male,Under 15,Children,2016,3.233
+Namibia,Female,15-24,Youth,2016,51.623
+Namibia,Female,25+,Adults,2016,18.522
+Namibia,Female,Under 15,Children,2016,25.01
+Namibia,Male,15-24,Youth,2016,37.342
+Namibia,Male,25+,Adults,2016,17.904
+Namibia,Male,Under 15,Children,2016,21.806
+Niger,Female,15-24,Youth,2016,0.412
+Niger,Female,25+,Adults,2016,0.467
+Niger,Female,Under 15,Children,2016,0.45
+Niger,Male,15-24,Youth,2016,0.882
+Niger,Male,25+,Adults,2016,0.526
+Niger,Male,Under 15,Children,2016,0.638
+Nigeria,Female,15-24,Youth,2016,12.152
+Nigeria,Female,25+,Adults,2016,2.782
+Nigeria,Female,Under 15,Children,2016,4.18
+Nigeria,Male,15-24,Youth,2016,10.644
+Nigeria,Male,25+,Adults,2016,3.832
+Nigeria,Male,Under 15,Children,2016,4.802
+Rwanda,Female,15-24,Youth,2016,17.849
+Rwanda,Female,25+,Adults,2016,10.826
+Rwanda,Female,Under 15,Children,2016,12.567
+Rwanda,Male,15-24,Youth,2016,15.384
+Rwanda,Male,25+,Adults,2016,9.786
+Rwanda,Male,Under 15,Children,2016,11.109
+Sao Tome and Principe,Female,15-24,Youth,2016,32.755
+Sao Tome and Principe,Female,25+,Adults,2016,18.592
+Sao Tome and Principe,Female,Under 15,Children,2016,21.24
+Sao Tome and Principe,Male,15-24,Youth,2016,14.853
+Sao Tome and Principe,Male,25+,Adults,2016,8.113
+Sao Tome and Principe,Male,Under 15,Children,2016,9.595
+Senegal,Female,15-24,Youth,2016,6.674
+Senegal,Female,25+,Adults,2016,4.222
+Senegal,Female,Under 15,Children,2016,4.764
+Senegal,Male,15-24,Youth,2016,6.176
+Senegal,Male,25+,Adults,2016,3.651
+Senegal,Male,Under 15,Children,2016,4.253
+Sierra Leone,Female,15-24,Youth,2016,4.507
+Sierra Leone,Female,25+,Adults,2016,3.048
+Sierra Leone,Female,Under 15,Children,2016,3.359
+Sierra Leone,Male,15-24,Youth,2016,10.15
+Sierra Leone,Male,25+,Adults,2016,4.591
+Sierra Leone,Male,Under 15,Children,2016,5.509
+Somalia,Female,15-24,Youth,2016,36.043
+Somalia,Female,25+,Adults,2016,20.431
+Somalia,Female,Under 15,Children,2016,23.749
+Somalia,Male,15-24,Youth,2016,31.269
+Somalia,Male,25+,Adults,2016,12.81
+Somalia,Male,Under 15,Children,2016,15.859
+South Africa,Female,15-24,Youth,2016,49.764
+South Africa,Female,25+,Adults,2016,22.534
+South Africa,Female,Under 15,Children,2016,26.011
+South Africa,Male,15-24,Youth,2016,39.47
+South Africa,Male,25+,Adults,2016,19.46
+South Africa,Male,Under 15,Children,2016,22.315
+South Sudan,Female,15-24,Youth,2016,18.501
+South Sudan,Female,25+,Adults,2016,12.437
+South Sudan,Female,Under 15,Children,2016,14.183
+South Sudan,Male,15-24,Youth,2016,21.955
+South Sudan,Male,25+,Adults,2016,8.359
+South Sudan,Male,Under 15,Children,2016,12.036
+Sudan,Female,15-24,Youth,2016,42.895
+Sudan,Female,25+,Adults,2016,25.458
+Sudan,Female,Under 15,Children,2016,29.34
+Sudan,Male,15-24,Youth,2016,27.038
+Sudan,Male,25+,Adults,2016,8.356
+Sudan,Male,Under 15,Children,2016,11.791
+"Tanzania, United Republic of",Female,15-24,Youth,2016,4.365
+"Tanzania, United Republic of",Female,25+,Adults,2016,2.224
+"Tanzania, United Republic of",Female,Under 15,Children,2016,2.852
+"Tanzania, United Republic of",Male,15-24,Youth,2016,2.827
+"Tanzania, United Republic of",Male,25+,Adults,2016,1.027
+"Tanzania, United Republic of",Male,Under 15,Children,2016,1.55
+Togo,Female,15-24,Youth,2016,5.742
+Togo,Female,25+,Adults,2016,1.514
+Togo,Female,Under 15,Children,2016,2.212
+Togo,Male,15-24,Youth,2016,8.038
+Togo,Male,25+,Adults,2016,3.018
+Togo,Male,Under 15,Children,2016,3.638
+Tunisia,Female,15-24,Youth,2016,38.155
+Tunisia,Female,25+,Adults,2016,20.793
+Tunisia,Female,Under 15,Children,2016,23.451
+Tunisia,Male,15-24,Youth,2016,33.791
+Tunisia,Male,25+,Adults,2016,9.332
+Tunisia,Male,Under 15,Children,2016,12.365
+Uganda,Female,15-24,Youth,2016,5.142
+Uganda,Female,25+,Adults,2016,2.943
+Uganda,Female,Under 15,Children,2016,3.663
+Uganda,Male,15-24,Youth,2016,4.436
+Uganda,Male,25+,Adults,2016,1.761
+Uganda,Male,Under 15,Children,2016,2.656
+Zambia,Female,15-24,Youth,2016,16.919
+Zambia,Female,25+,Adults,2016,6.115
+Zambia,Female,Under 15,Children,2016,8.764
+Zambia,Male,15-24,Youth,2016,17.511
+Zambia,Male,25+,Adults,2016,5.469
+Zambia,Male,Under 15,Children,2016,8.155
+Zimbabwe,Female,15-24,Youth,2016,9.869
+Zimbabwe,Female,25+,Adults,2016,4.773
+Zimbabwe,Female,Under 15,Children,2016,6.014
+Zimbabwe,Male,15-24,Youth,2016,8.119
+Zimbabwe,Male,25+,Adults,2016,4.843
+Zimbabwe,Male,Under 15,Children,2016,5.821
+Algeria,Female,15-24,Youth,2017,45.734
+Algeria,Female,25+,Adults,2017,17.576
+Algeria,Female,Under 15,Children,2017,20.785
+Algeria,Male,15-24,Youth,2017,26.877
+Algeria,Male,25+,Adults,2017,7.369
+Algeria,Male,Under 15,Children,2017,9.858
+Angola,Female,15-24,Youth,2017,32.167
+Angola,Female,25+,Adults,2017,12.162
+Angola,Female,Under 15,Children,2017,17.189
+Angola,Male,15-24,Youth,2017,34.889
+Angola,Male,25+,Adults,2017,9.814
+Angola,Male,Under 15,Children,2017,16.092
+Benin,Female,15-24,Youth,2017,4.9
+Benin,Female,25+,Adults,2017,1.276
+Benin,Female,Under 15,Children,2017,2.021
+Benin,Male,15-24,Youth,2017,3.562
+Benin,Male,25+,Adults,2017,1.121
+Benin,Male,Under 15,Children,2017,1.519
+Botswana,Female,15-24,Youth,2017,37.037
+Botswana,Female,25+,Adults,2017,19.266
+Botswana,Female,Under 15,Children,2017,21.981
+Botswana,Male,15-24,Youth,2017,34.319
+Botswana,Male,25+,Adults,2017,14.247
+Botswana,Male,Under 15,Children,2017,17.692
+Burkina Faso,Female,15-24,Youth,2017,7.856
+Burkina Faso,Female,25+,Adults,2017,3.533
+Burkina Faso,Female,Under 15,Children,2017,4.679
+Burkina Faso,Male,15-24,Youth,2017,7.602
+Burkina Faso,Male,25+,Adults,2017,3.536
+Burkina Faso,Male,Under 15,Children,2017,4.702
+Burundi,Female,15-24,Youth,2017,1.571
+Burundi,Female,25+,Adults,2017,0.871
+Burundi,Female,Under 15,Children,2017,1.037
+Burundi,Male,15-24,Youth,2017,3.015
+Burundi,Male,25+,Adults,2017,1.077
+Burundi,Male,Under 15,Children,2017,1.502
+Cabo Verde,Female,15-24,Youth,2017,34.551
+Cabo Verde,Female,25+,Adults,2017,8.294
+Cabo Verde,Female,Under 15,Children,2017,12.76
+Cabo Verde,Male,15-24,Youth,2017,28.644
+Cabo Verde,Male,25+,Adults,2017,8.285
+Cabo Verde,Male,Under 15,Children,2017,11.82
+Cameroon,Female,15-24,Youth,2017,6.842
+Cameroon,Female,25+,Adults,2017,3.308
+Cameroon,Female,Under 15,Children,2017,4.103
+Cameroon,Male,15-24,Youth,2017,5.83
+Cameroon,Male,25+,Adults,2017,2.294
+Cameroon,Male,Under 15,Children,2017,3.12
+Central African Republic,Female,15-24,Youth,2017,11.714
+Central African Republic,Female,25+,Adults,2017,4.63
+Central African Republic,Female,Under 15,Children,2017,6.932
+Central African Republic,Male,15-24,Youth,2017,9.877
+Central African Republic,Male,25+,Adults,2017,3.681
+Central African Republic,Male,Under 15,Children,2017,5.436
+Chad,Female,15-24,Youth,2017,0.669
+Chad,Female,25+,Adults,2017,0.765
+Chad,Female,Under 15,Children,2017,0.739
+Chad,Male,15-24,Youth,2017,2.133
+Chad,Male,25+,Adults,2017,1.144
+Chad,Male,Under 15,Children,2017,1.368
+Comoros,Female,15-24,Youth,2017,10.467
+Comoros,Female,25+,Adults,2017,4.888
+Comoros,Female,Under 15,Children,2017,5.541
+Comoros,Male,15-24,Youth,2017,9.49
+Comoros,Male,25+,Adults,2017,3.987
+Comoros,Male,Under 15,Children,2017,4.535
+Congo,Female,15-24,Youth,2017,42.169
+Congo,Female,25+,Adults,2017,17.566
+Congo,Female,Under 15,Children,2017,22.548
+Congo,Male,15-24,Youth,2017,45.03
+Congo,Male,25+,Adults,2017,14.147
+Congo,Male,Under 15,Children,2017,19.899
+"Congo, Democratic Republic of the",Female,15-24,Youth,2017,6.71
+"Congo, Democratic Republic of the",Female,25+,Adults,2017,2.911
+"Congo, Democratic Republic of the",Female,Under 15,Children,2017,3.747
+"Congo, Democratic Republic of the",Male,15-24,Youth,2017,11.05
+"Congo, Democratic Republic of the",Male,25+,Adults,2017,4.401
+"Congo, Democratic Republic of the",Male,Under 15,Children,2017,5.533
+Ivory Coast,Female,15-24,Youth,2017,6.167
+Ivory Coast,Female,25+,Adults,2017,3.063
+Ivory Coast,Female,Under 15,Children,2017,3.85
+Ivory Coast,Male,15-24,Youth,2017,4.387
+Ivory Coast,Male,25+,Adults,2017,2.371
+Ivory Coast,Male,Under 15,Children,2017,2.845
+Djibouti,Female,15-24,Youth,2017,75.416
+Djibouti,Female,25+,Adults,2017,26.916
+Djibouti,Female,Under 15,Children,2017,35.969
+Djibouti,Male,15-24,Youth,2017,73.127
+Djibouti,Male,25+,Adults,2017,15.62
+Djibouti,Male,Under 15,Children,2017,22.112
+Egypt,Female,15-24,Youth,2017,40.022
+Egypt,Female,25+,Adults,2017,17.713
+Egypt,Female,Under 15,Children,2017,22.863
+Egypt,Male,15-24,Youth,2017,29.098
+Egypt,Male,25+,Adults,2017,4.44
+Egypt,Male,Under 15,Children,2017,8.176
+Equatorial Guinea,Female,15-24,Youth,2017,17.584
+Equatorial Guinea,Female,25+,Adults,2017,7.813
+Equatorial Guinea,Female,Under 15,Children,2017,9.356
+Equatorial Guinea,Male,15-24,Youth,2017,15.175
+Equatorial Guinea,Male,25+,Adults,2017,6.472
+Equatorial Guinea,Male,Under 15,Children,2017,7.593
+Eritrea,Female,15-24,Youth,2017,11.811
+Eritrea,Female,25+,Adults,2017,4.607
+Eritrea,Female,Under 15,Children,2017,6.861
+Eritrea,Male,15-24,Youth,2017,9.455
+Eritrea,Male,25+,Adults,2017,3.476
+Eritrea,Male,Under 15,Children,2017,5.377
+Eswatini,Female,15-24,Youth,2017,49.29
+Eswatini,Female,25+,Adults,2017,19.444
+Eswatini,Female,Under 15,Children,2017,24.45
+Eswatini,Male,15-24,Youth,2017,45.16
+Eswatini,Male,25+,Adults,2017,16.934
+Eswatini,Male,Under 15,Children,2017,21.053
+Ethiopia,Female,15-24,Youth,2017,5.459
+Ethiopia,Female,25+,Adults,2017,2.508
+Ethiopia,Female,Under 15,Children,2017,3.473
+Ethiopia,Male,15-24,Youth,2017,3.022
+Ethiopia,Male,25+,Adults,2017,1.313
+Ethiopia,Male,Under 15,Children,2017,1.857
+Gabon,Female,15-24,Youth,2017,42.568
+Gabon,Female,25+,Adults,2017,27.184
+Gabon,Female,Under 15,Children,2017,28.93
+Gabon,Male,15-24,Youth,2017,31.55
+Gabon,Male,25+,Adults,2017,12.785
+Gabon,Male,Under 15,Children,2017,14.624
+Gambia,Female,15-24,Youth,2017,8.24
+Gambia,Female,25+,Adults,2017,3.589
+Gambia,Female,Under 15,Children,2017,4.8
+Gambia,Male,15-24,Youth,2017,8.682
+Gambia,Male,25+,Adults,2017,4.514
+Gambia,Male,Under 15,Children,2017,5.47
+Ghana,Female,15-24,Youth,2017,6.155
+Ghana,Female,25+,Adults,2017,2.887
+Ghana,Female,Under 15,Children,2017,3.491
+Ghana,Male,15-24,Youth,2017,6.487
+Ghana,Male,25+,Adults,2017,2.493
+Ghana,Male,Under 15,Children,2017,3.26
+Guinea,Female,15-24,Youth,2017,7.243
+Guinea,Female,25+,Adults,2017,3.949
+Guinea,Female,Under 15,Children,2017,4.696
+Guinea,Male,15-24,Youth,2017,6.011
+Guinea,Male,25+,Adults,2017,4.588
+Guinea,Male,Under 15,Children,2017,4.828
+Guinea-Bissau,Female,15-24,Youth,2017,4.106
+Guinea-Bissau,Female,25+,Adults,2017,2.267
+Guinea-Bissau,Female,Under 15,Children,2017,2.652
+Guinea-Bissau,Male,15-24,Youth,2017,3.904
+Guinea-Bissau,Male,25+,Adults,2017,3.395
+Guinea-Bissau,Male,Under 15,Children,2017,3.508
+Kenya,Female,15-24,Youth,2017,9.379
+Kenya,Female,25+,Adults,2017,2.331
+Kenya,Female,Under 15,Children,2017,3.765
+Kenya,Male,15-24,Youth,2017,8.877
+Kenya,Male,25+,Adults,2017,1.989
+Kenya,Male,Under 15,Children,2017,3.364
+Lesotho,Female,15-24,Youth,2017,33.979
+Lesotho,Female,25+,Adults,2017,14.843
+Lesotho,Female,Under 15,Children,2017,18.593
+Lesotho,Male,15-24,Youth,2017,17.468
+Lesotho,Male,25+,Adults,2017,13.89
+Lesotho,Male,Under 15,Children,2017,14.681
+Liberia,Female,15-24,Youth,2017,2.189
+Liberia,Female,25+,Adults,2017,2.374
+Liberia,Female,Under 15,Children,2017,2.329
+Liberia,Male,15-24,Youth,2017,2.389
+Liberia,Male,25+,Adults,2017,4.172
+Liberia,Male,Under 15,Children,2017,3.738
+Libya,Female,15-24,Youth,2017,68.449
+Libya,Female,25+,Adults,2017,21.222
+Libya,Female,Under 15,Children,2017,24.84
+Libya,Male,15-24,Youth,2017,41.705
+Libya,Male,25+,Adults,2017,13.05
+Libya,Male,Under 15,Children,2017,15.736
+Madagascar,Female,15-24,Youth,2017,2.929
+Madagascar,Female,25+,Adults,2017,1.298
+Madagascar,Female,Under 15,Children,2017,1.781
+Madagascar,Male,15-24,Youth,2017,3.709
+Madagascar,Male,25+,Adults,2017,0.923
+Madagascar,Male,Under 15,Children,2017,1.747
+Malawi,Female,15-24,Youth,2017,7.176
+Malawi,Female,25+,Adults,2017,5.438
+Malawi,Female,Under 15,Children,2017,5.943
+Malawi,Male,15-24,Youth,2017,6.498
+Malawi,Male,25+,Adults,2017,3.204
+Malawi,Male,Under 15,Children,2017,4.167
+Mali,Female,15-24,Youth,2017,2.078
+Mali,Female,25+,Adults,2017,1.101
+Mali,Female,Under 15,Children,2017,1.428
+Mali,Male,15-24,Youth,2017,2.362
+Mali,Male,25+,Adults,2017,1.204
+Mali,Male,Under 15,Children,2017,1.543
+Mauritania,Female,15-24,Youth,2017,25.043
+Mauritania,Female,25+,Adults,2017,8.746
+Mauritania,Female,Under 15,Children,2017,11.543
+Mauritania,Male,15-24,Youth,2017,18.936
+Mauritania,Male,25+,Adults,2017,7.842
+Mauritania,Male,Under 15,Children,2017,9.739
+Mauritius,Female,15-24,Youth,2017,31.102
+Mauritius,Female,25+,Adults,2017,6.511
+Mauritius,Female,Under 15,Children,2017,10.066
+Mauritius,Male,15-24,Youth,2017,18.843
+Mauritius,Male,25+,Adults,2017,2.755
+Mauritius,Male,Under 15,Children,2017,4.652
+Morocco,Female,15-24,Youth,2017,23.17
+Morocco,Female,25+,Adults,2017,8.849
+Morocco,Female,Under 15,Children,2017,11.044
+Morocco,Male,15-24,Youth,2017,22.89
+Morocco,Male,25+,Adults,2017,6.972
+Morocco,Male,Under 15,Children,2017,9.243
+Mozambique,Female,15-24,Youth,2017,7.271
+Mozambique,Female,25+,Adults,2017,2.504
+Mozambique,Female,Under 15,Children,2017,3.843
+Mozambique,Male,15-24,Youth,2017,7.775
+Mozambique,Male,25+,Adults,2017,1.511
+Mozambique,Male,Under 15,Children,2017,3.318
+Namibia,Female,15-24,Youth,2017,45.831
+Namibia,Female,25+,Adults,2017,17.149
+Namibia,Female,Under 15,Children,2017,21.975
+Namibia,Male,15-24,Youth,2017,37.691
+Namibia,Male,25+,Adults,2017,18.02
+Namibia,Male,Under 15,Children,2017,21.601
+Niger,Female,15-24,Youth,2017,0.415
+Niger,Female,25+,Adults,2017,0.478
+Niger,Female,Under 15,Children,2017,0.458
+Niger,Male,15-24,Youth,2017,0.889
+Niger,Male,25+,Adults,2017,0.544
+Niger,Male,Under 15,Children,2017,0.654
+Nigeria,Female,15-24,Youth,2017,12.795
+Nigeria,Female,25+,Adults,2017,3.084
+Nigeria,Female,Under 15,Children,2017,4.538
+Nigeria,Male,15-24,Youth,2017,11.317
+Nigeria,Male,25+,Adults,2017,4.155
+Nigeria,Male,Under 15,Children,2017,5.169
+Rwanda,Female,15-24,Youth,2017,17.968
+Rwanda,Female,25+,Adults,2017,10.921
+Rwanda,Female,Under 15,Children,2017,12.65
+Rwanda,Male,15-24,Youth,2017,15.486
+Rwanda,Male,25+,Adults,2017,9.874
+Rwanda,Male,Under 15,Children,2017,11.187
+Sao Tome and Principe,Female,15-24,Youth,2017,33.032
+Sao Tome and Principe,Female,25+,Adults,2017,18.92
+Sao Tome and Principe,Female,Under 15,Children,2017,21.543
+Sao Tome and Principe,Male,15-24,Youth,2017,15.08
+Sao Tome and Principe,Male,25+,Adults,2017,8.264
+Sao Tome and Principe,Male,Under 15,Children,2017,9.741
+Senegal,Female,15-24,Youth,2017,4.858
+Senegal,Female,25+,Adults,2017,3.337
+Senegal,Female,Under 15,Children,2017,3.623
+Senegal,Male,15-24,Youth,2017,6.464
+Senegal,Male,25+,Adults,2017,3.873
+Senegal,Male,Under 15,Children,2017,4.389
+Sierra Leone,Female,15-24,Youth,2017,3.542
+Sierra Leone,Female,25+,Adults,2017,2.622
+Sierra Leone,Female,Under 15,Children,2017,2.822
+Sierra Leone,Male,15-24,Youth,2017,7.485
+Sierra Leone,Male,25+,Adults,2017,4.483
+Sierra Leone,Male,Under 15,Children,2017,5.014
+Somalia,Female,15-24,Youth,2017,36.356
+Somalia,Female,25+,Adults,2017,20.65
+Somalia,Female,Under 15,Children,2017,23.992
+Somalia,Male,15-24,Youth,2017,31.555
+Somalia,Male,25+,Adults,2017,12.956
+Somalia,Male,Under 15,Children,2017,16.031
+South Africa,Female,15-24,Youth,2017,47.727
+South Africa,Female,25+,Adults,2017,22.584
+South Africa,Female,Under 15,Children,2017,25.689
+South Africa,Male,15-24,Youth,2017,38.899
+South Africa,Male,25+,Adults,2017,19.925
+South Africa,Male,Under 15,Children,2017,22.503
+South Sudan,Female,15-24,Youth,2017,18.816
+South Sudan,Female,25+,Adults,2017,12.714
+South Sudan,Female,Under 15,Children,2017,14.467
+South Sudan,Male,15-24,Youth,2017,22.282
+South Sudan,Male,25+,Adults,2017,8.534
+South Sudan,Male,Under 15,Children,2017,12.294
+Sudan,Female,15-24,Youth,2017,43.292
+Sudan,Female,25+,Adults,2017,25.709
+Sudan,Female,Under 15,Children,2017,29.534
+Sudan,Male,15-24,Youth,2017,27.399
+Sudan,Male,25+,Adults,2017,8.475
+Sudan,Male,Under 15,Children,2017,11.874
+"Tanzania, United Republic of",Female,15-24,Youth,2017,4.353
+"Tanzania, United Republic of",Female,25+,Adults,2017,2.406
+"Tanzania, United Republic of",Female,Under 15,Children,2017,2.967
+"Tanzania, United Republic of",Male,15-24,Youth,2017,2.745
+"Tanzania, United Republic of",Male,25+,Adults,2017,1.071
+"Tanzania, United Republic of",Male,Under 15,Children,2017,1.562
+Togo,Female,15-24,Youth,2017,7.002
+Togo,Female,25+,Adults,2017,1.94
+Togo,Female,Under 15,Children,2017,2.765
+Togo,Male,15-24,Youth,2017,12.033
+Togo,Male,25+,Adults,2017,3.614
+Togo,Male,Under 15,Children,2017,4.638
+Tunisia,Female,15-24,Youth,2017,37.508
+Tunisia,Female,25+,Adults,2017,20.216
+Tunisia,Female,Under 15,Children,2017,22.61
+Tunisia,Male,15-24,Youth,2017,34.513
+Tunisia,Male,25+,Adults,2017,9.354
+Tunisia,Male,Under 15,Children,2017,12.379
+Uganda,Female,15-24,Youth,2017,5.835
+Uganda,Female,25+,Adults,2017,3.32
+Uganda,Female,Under 15,Children,2017,4.144
+Uganda,Male,15-24,Youth,2017,5.312
+Uganda,Male,25+,Adults,2017,2.068
+Uganda,Male,Under 15,Children,2017,3.153
+Zambia,Female,15-24,Youth,2017,16.683
+Zambia,Female,25+,Adults,2017,6.476
+Zambia,Female,Under 15,Children,2017,8.928
+Zambia,Male,15-24,Youth,2017,17.393
+Zambia,Male,25+,Adults,2017,5.612
+Zambia,Male,Under 15,Children,2017,8.179
+Zimbabwe,Female,15-24,Youth,2017,10.617
+Zimbabwe,Female,25+,Adults,2017,4.9
+Zimbabwe,Female,Under 15,Children,2017,6.289
+Zimbabwe,Male,15-24,Youth,2017,9.029
+Zimbabwe,Male,25+,Adults,2017,5.287
+Zimbabwe,Male,Under 15,Children,2017,6.41
+Algeria,Female,15-24,Youth,2018,46.235
+Algeria,Female,25+,Adults,2018,17.879
+Algeria,Female,Under 15,Children,2018,21.02
+Algeria,Male,15-24,Youth,2018,27.36
+Algeria,Male,25+,Adults,2018,7.56
+Algeria,Male,Under 15,Children,2018,10.0
+Angola,Female,15-24,Youth,2018,30.859
+Angola,Female,25+,Adults,2018,12.284
+Angola,Female,Under 15,Children,2018,16.926
+Angola,Male,15-24,Youth,2018,34.5
+Angola,Male,25+,Adults,2018,10.292
+Angola,Male,Under 15,Children,2018,16.328
+Benin,Female,15-24,Youth,2018,4.532
+Benin,Female,25+,Adults,2018,1.036
+Benin,Female,Under 15,Children,2018,1.74
+Benin,Male,15-24,Youth,2018,3.171
+Benin,Male,25+,Adults,2018,0.883
+Benin,Male,Under 15,Children,2018,1.247
+Botswana,Female,15-24,Youth,2018,35.581
+Botswana,Female,25+,Adults,2018,19.275
+Botswana,Female,Under 15,Children,2018,21.672
+Botswana,Male,15-24,Youth,2018,34.539
+Botswana,Male,25+,Adults,2018,14.46
+Botswana,Male,Under 15,Children,2018,17.798
+Burkina Faso,Female,15-24,Youth,2018,7.83
+Burkina Faso,Female,25+,Adults,2018,3.478
+Burkina Faso,Female,Under 15,Children,2018,4.624
+Burkina Faso,Male,15-24,Youth,2018,7.743
+Burkina Faso,Male,25+,Adults,2018,3.548
+Burkina Faso,Male,Under 15,Children,2018,4.744
+Burundi,Female,15-24,Youth,2018,1.442
+Burundi,Female,25+,Adults,2018,0.844
+Burundi,Female,Under 15,Children,2018,0.986
+Burundi,Male,15-24,Youth,2018,2.608
+Burundi,Male,25+,Adults,2018,0.934
+Burundi,Male,Under 15,Children,2018,1.307
+Cabo Verde,Female,15-24,Youth,2018,31.035
+Cabo Verde,Female,25+,Adults,2018,7.942
+Cabo Verde,Female,Under 15,Children,2018,11.553
+Cabo Verde,Male,15-24,Youth,2018,24.13
+Cabo Verde,Male,25+,Adults,2018,10.393
+Cabo Verde,Male,Under 15,Children,2018,12.663
+Cameroon,Female,15-24,Youth,2018,6.918
+Cameroon,Female,25+,Adults,2018,3.366
+Cameroon,Female,Under 15,Children,2018,4.156
+Cameroon,Male,15-24,Youth,2018,5.909
+Cameroon,Male,25+,Adults,2018,2.342
+Cameroon,Male,Under 15,Children,2018,3.165
+Central African Republic,Female,15-24,Youth,2018,11.389
+Central African Republic,Female,25+,Adults,2018,4.6
+Central African Republic,Female,Under 15,Children,2018,6.811
+Central African Republic,Male,15-24,Youth,2018,9.675
+Central African Republic,Male,25+,Adults,2018,3.667
+Central African Republic,Male,Under 15,Children,2018,5.37
+Chad,Female,15-24,Youth,2018,0.685
+Chad,Female,25+,Adults,2018,0.786
+Chad,Female,Under 15,Children,2018,0.76
+Chad,Male,15-24,Youth,2018,2.153
+Chad,Male,25+,Adults,2018,1.162
+Chad,Male,Under 15,Children,2018,1.384
+Comoros,Female,15-24,Youth,2018,10.507
+Comoros,Female,25+,Adults,2018,4.861
+Comoros,Female,Under 15,Children,2018,5.504
+Comoros,Male,15-24,Youth,2018,9.275
+Comoros,Male,25+,Adults,2018,3.962
+Comoros,Male,Under 15,Children,2018,4.471
+Congo,Female,15-24,Youth,2018,42.297
+Congo,Female,25+,Adults,2018,17.628
+Congo,Female,Under 15,Children,2018,22.612
+Congo,Male,15-24,Youth,2018,45.233
+Congo,Male,25+,Adults,2018,14.219
+Congo,Male,Under 15,Children,2018,19.959
+"Congo, Democratic Republic of the",Female,15-24,Youth,2018,6.745
+"Congo, Democratic Republic of the",Female,25+,Adults,2018,2.934
+"Congo, Democratic Republic of the",Female,Under 15,Children,2018,3.769
+"Congo, Democratic Republic of the",Male,15-24,Youth,2018,11.113
+"Congo, Democratic Republic of the",Male,25+,Adults,2018,4.441
+"Congo, Democratic Republic of the",Male,Under 15,Children,2018,5.57
+Ivory Coast,Female,15-24,Youth,2018,5.483
+Ivory Coast,Female,25+,Adults,2018,2.736
+Ivory Coast,Female,Under 15,Children,2018,3.426
+Ivory Coast,Male,15-24,Youth,2018,3.818
+Ivory Coast,Male,25+,Adults,2018,1.954
+Ivory Coast,Male,Under 15,Children,2018,2.39
+Djibouti,Female,15-24,Youth,2018,76.395
+Djibouti,Female,25+,Adults,2018,27.236
+Djibouti,Female,Under 15,Children,2018,36.127
+Djibouti,Male,15-24,Youth,2018,74.0
+Djibouti,Male,25+,Adults,2018,15.791
+Djibouti,Male,Under 15,Children,2018,22.214
+Egypt,Female,15-24,Youth,2018,52.923
+Egypt,Female,25+,Adults,2018,15.028
+Egypt,Female,Under 15,Children,2018,21.378
+Egypt,Male,15-24,Youth,2018,17.941
+Egypt,Male,25+,Adults,2018,4.932
+Egypt,Male,Under 15,Children,2018,6.78
+Equatorial Guinea,Female,15-24,Youth,2018,17.185
+Equatorial Guinea,Female,25+,Adults,2018,7.793
+Equatorial Guinea,Female,Under 15,Children,2018,9.231
+Equatorial Guinea,Male,15-24,Youth,2018,14.932
+Equatorial Guinea,Male,25+,Adults,2018,6.473
+Equatorial Guinea,Male,Under 15,Children,2018,7.531
+Eritrea,Female,15-24,Youth,2018,11.386
+Eritrea,Female,25+,Adults,2018,4.523
+Eritrea,Female,Under 15,Children,2018,6.686
+Eritrea,Male,15-24,Youth,2018,9.176
+Eritrea,Male,25+,Adults,2018,3.418
+Eritrea,Male,Under 15,Children,2018,5.263
+Eswatini,Female,15-24,Youth,2018,49.655
+Eswatini,Female,25+,Adults,2018,19.586
+Eswatini,Female,Under 15,Children,2018,24.436
+Eswatini,Male,15-24,Youth,2018,45.502
+Eswatini,Male,25+,Adults,2018,17.061
+Eswatini,Male,Under 15,Children,2018,21.04
+Ethiopia,Female,15-24,Youth,2018,5.799
+Ethiopia,Female,25+,Adults,2018,2.655
+Ethiopia,Female,Under 15,Children,2018,3.668
+Ethiopia,Male,15-24,Youth,2018,3.181
+Ethiopia,Male,25+,Adults,2018,1.383
+Ethiopia,Male,Under 15,Children,2018,1.946
+Gabon,Female,15-24,Youth,2018,42.901
+Gabon,Female,25+,Adults,2018,27.473
+Gabon,Female,Under 15,Children,2018,29.218
+Gabon,Male,15-24,Youth,2018,31.829
+Gabon,Male,25+,Adults,2018,12.936
+Gabon,Male,Under 15,Children,2018,14.776
+Gambia,Female,15-24,Youth,2018,6.31
+Gambia,Female,25+,Adults,2018,2.038
+Gambia,Female,Under 15,Children,2018,3.153
+Gambia,Male,15-24,Youth,2018,8.073
+Gambia,Male,25+,Adults,2018,4.101
+Gambia,Male,Under 15,Children,2018,4.993
+Ghana,Female,15-24,Youth,2018,6.024
+Ghana,Female,25+,Adults,2018,2.785
+Ghana,Female,Under 15,Children,2018,3.376
+Ghana,Male,15-24,Youth,2018,6.339
+Ghana,Male,25+,Adults,2018,2.395
+Ghana,Male,Under 15,Children,2018,3.142
+Guinea,Female,15-24,Youth,2018,7.356
+Guinea,Female,25+,Adults,2018,3.948
+Guinea,Female,Under 15,Children,2018,4.701
+Guinea,Male,15-24,Youth,2018,5.91
+Guinea,Male,25+,Adults,2018,4.476
+Guinea,Male,Under 15,Children,2018,4.709
+Guinea-Bissau,Female,15-24,Youth,2018,4.167
+Guinea-Bissau,Female,25+,Adults,2018,2.329
+Guinea-Bissau,Female,Under 15,Children,2018,2.712
+Guinea-Bissau,Male,15-24,Youth,2018,3.96
+Guinea-Bissau,Male,25+,Adults,2018,3.497
+Guinea-Bissau,Male,Under 15,Children,2018,3.599
+Kenya,Female,15-24,Youth,2018,11.284
+Kenya,Female,25+,Adults,2018,2.831
+Kenya,Female,Under 15,Children,2018,4.519
+Kenya,Male,15-24,Youth,2018,10.281
+Kenya,Male,25+,Adults,2018,2.585
+Kenya,Male,Under 15,Children,2018,4.08
+Lesotho,Female,15-24,Youth,2018,34.478
+Lesotho,Female,25+,Adults,2018,15.127
+Lesotho,Female,Under 15,Children,2018,18.841
+Lesotho,Male,15-24,Youth,2018,17.675
+Lesotho,Male,25+,Adults,2018,14.121
+Lesotho,Male,Under 15,Children,2018,14.888
+Liberia,Female,15-24,Youth,2018,2.186
+Liberia,Female,25+,Adults,2018,2.367
+Liberia,Female,Under 15,Children,2018,2.323
+Liberia,Male,15-24,Youth,2018,2.386
+Liberia,Male,25+,Adults,2018,4.158
+Liberia,Male,Under 15,Children,2018,3.726
+Libya,Female,15-24,Youth,2018,68.138
+Libya,Female,25+,Adults,2018,21.075
+Libya,Female,Under 15,Children,2018,24.67
+Libya,Male,15-24,Youth,2018,41.472
+Libya,Male,25+,Adults,2018,12.938
+Libya,Male,Under 15,Children,2018,15.606
+Madagascar,Female,15-24,Youth,2018,2.939
+Madagascar,Female,25+,Adults,2018,1.303
+Madagascar,Female,Under 15,Children,2018,1.782
+Madagascar,Male,15-24,Youth,2018,3.734
+Madagascar,Male,25+,Adults,2018,0.929
+Madagascar,Male,Under 15,Children,2018,1.749
+Malawi,Female,15-24,Youth,2018,7.135
+Malawi,Female,25+,Adults,2018,5.387
+Malawi,Female,Under 15,Children,2018,5.9
+Malawi,Male,15-24,Youth,2018,6.424
+Malawi,Male,25+,Adults,2018,3.153
+Malawi,Male,Under 15,Children,2018,4.134
+Mali,Female,15-24,Youth,2018,2.155
+Mali,Female,25+,Adults,2018,1.266
+Mali,Female,Under 15,Children,2018,1.555
+Mali,Male,15-24,Youth,2018,2.473
+Mali,Male,25+,Adults,2018,1.34
+Mali,Male,Under 15,Children,2018,1.664
+Mauritania,Female,15-24,Youth,2018,27.818
+Mauritania,Female,25+,Adults,2018,10.468
+Mauritania,Female,Under 15,Children,2018,13.411
+Mauritania,Male,15-24,Youth,2018,19.57
+Mauritania,Male,25+,Adults,2018,6.814
+Mauritania,Male,Under 15,Children,2018,8.985
+Mauritius,Female,15-24,Youth,2018,28.133
+Mauritius,Female,25+,Adults,2018,6.308
+Mauritius,Female,Under 15,Children,2018,9.549
+Mauritius,Male,15-24,Youth,2018,21.005
+Mauritius,Male,25+,Adults,2018,2.222
+Mauritius,Male,Under 15,Children,2018,4.428
+Morocco,Female,15-24,Youth,2018,23.418
+Morocco,Female,25+,Adults,2018,8.967
+Morocco,Female,Under 15,Children,2018,11.09
+Morocco,Male,15-24,Youth,2018,23.153
+Morocco,Male,25+,Adults,2018,7.077
+Morocco,Male,Under 15,Children,2018,9.294
+Mozambique,Female,15-24,Youth,2018,7.393
+Mozambique,Female,25+,Adults,2018,2.577
+Mozambique,Female,Under 15,Children,2018,3.923
+Mozambique,Male,15-24,Youth,2018,7.959
+Mozambique,Male,25+,Adults,2018,1.569
+Mozambique,Male,Under 15,Children,2018,3.397
+Namibia,Female,15-24,Youth,2018,38.546
+Namibia,Female,25+,Adults,2018,15.265
+Namibia,Female,Under 15,Children,2018,18.595
+Namibia,Male,15-24,Youth,2018,37.517
+Namibia,Male,25+,Adults,2018,17.905
+Namibia,Male,Under 15,Children,2018,21.136
+Niger,Female,15-24,Youth,2018,0.41
+Niger,Female,25+,Adults,2018,0.458
+Niger,Female,Under 15,Children,2018,0.444
+Niger,Male,15-24,Youth,2018,0.875
+Niger,Male,25+,Adults,2018,0.511
+Niger,Male,Under 15,Children,2018,0.627
+Nigeria,Female,15-24,Youth,2018,13.175
+Nigeria,Female,25+,Adults,2018,3.298
+Nigeria,Female,Under 15,Children,2018,4.781
+Nigeria,Male,15-24,Youth,2018,11.773
+Nigeria,Male,25+,Adults,2018,4.344
+Nigeria,Male,Under 15,Children,2018,5.389
+Rwanda,Female,15-24,Youth,2018,16.817
+Rwanda,Female,25+,Adults,2018,9.663
+Rwanda,Female,Under 15,Children,2018,11.356
+Rwanda,Male,15-24,Youth,2018,15.666
+Rwanda,Male,25+,Adults,2018,8.574
+Rwanda,Male,Under 15,Children,2018,10.234
+Sao Tome and Principe,Female,15-24,Youth,2018,33.086
+Sao Tome and Principe,Female,25+,Adults,2018,19.046
+Sao Tome and Principe,Female,Under 15,Children,2018,21.642
+Sao Tome and Principe,Male,15-24,Youth,2018,15.181
+Sao Tome and Principe,Male,25+,Adults,2018,8.323
+Sao Tome and Principe,Male,Under 15,Children,2018,9.789
+Senegal,Female,15-24,Youth,2018,8.483
+Senegal,Female,25+,Adults,2018,3.626
+Senegal,Female,Under 15,Children,2018,4.341
+Senegal,Male,15-24,Youth,2018,4.77
+Senegal,Male,25+,Adults,2018,2.647
+Senegal,Male,Under 15,Children,2018,3.073
+Sierra Leone,Female,15-24,Youth,2018,2.499
+Sierra Leone,Female,25+,Adults,2018,2.022
+Sierra Leone,Female,Under 15,Children,2018,2.127
+Sierra Leone,Male,15-24,Youth,2018,4.723
+Sierra Leone,Male,25+,Adults,2018,4.037
+Sierra Leone,Male,Under 15,Children,2018,4.167
+Somalia,Female,15-24,Youth,2018,36.839
+Somalia,Female,25+,Adults,2018,20.985
+Somalia,Female,Under 15,Children,2018,24.338
+Somalia,Male,15-24,Youth,2018,32.004
+Somalia,Male,25+,Adults,2018,13.183
+Somalia,Male,Under 15,Children,2018,16.274
+South Africa,Female,15-24,Youth,2018,48.744
+South Africa,Female,25+,Adults,2018,22.99
+South Africa,Female,Under 15,Children,2018,25.884
+South Africa,Male,15-24,Youth,2018,39.891
+South Africa,Male,25+,Adults,2018,20.292
+South Africa,Male,Under 15,Children,2018,22.767
+South Sudan,Female,15-24,Youth,2018,18.527
+South Sudan,Female,25+,Adults,2018,12.443
+South Sudan,Female,Under 15,Children,2018,14.219
+South Sudan,Male,15-24,Youth,2018,21.77
+South Sudan,Male,25+,Adults,2018,8.283
+South Sudan,Male,Under 15,Children,2018,12.069
+Sudan,Female,15-24,Youth,2018,43.747
+Sudan,Female,25+,Adults,2018,26.011
+Sudan,Female,Under 15,Children,2018,29.776
+Sudan,Male,15-24,Youth,2018,27.814
+Sudan,Male,25+,Adults,2018,8.616
+Sudan,Male,Under 15,Children,2018,11.977
+"Tanzania, United Republic of",Female,15-24,Youth,2018,4.358
+"Tanzania, United Republic of",Female,25+,Adults,2018,2.624
+"Tanzania, United Republic of",Female,Under 15,Children,2018,3.117
+"Tanzania, United Republic of",Male,15-24,Youth,2018,2.69
+"Tanzania, United Republic of",Male,25+,Adults,2018,1.138
+"Tanzania, United Republic of",Male,Under 15,Children,2018,1.596
+Togo,Female,15-24,Youth,2018,7.06
+Togo,Female,25+,Adults,2018,1.96
+Togo,Female,Under 15,Children,2018,2.78
+Togo,Male,15-24,Youth,2018,12.131
+Togo,Male,25+,Adults,2018,3.654
+Togo,Male,Under 15,Children,2018,4.666
+Tunisia,Female,15-24,Youth,2018,36.642
+Tunisia,Female,25+,Adults,2018,20.612
+Tunisia,Female,Under 15,Children,2018,22.752
+Tunisia,Male,15-24,Youth,2018,34.991
+Tunisia,Male,25+,Adults,2018,9.542
+Tunisia,Male,Under 15,Children,2018,12.495
+Uganda,Female,15-24,Youth,2018,5.695
+Uganda,Female,25+,Adults,2018,3.032
+Uganda,Female,Under 15,Children,2018,3.89
+Uganda,Male,15-24,Youth,2018,4.799
+Uganda,Male,25+,Adults,2018,1.956
+Uganda,Male,Under 15,Children,2018,2.889
+Zambia,Female,15-24,Youth,2018,8.041
+Zambia,Female,25+,Adults,2018,4.183
+Zambia,Female,Under 15,Children,2018,5.09
+Zambia,Male,15-24,Youth,2018,9.364
+Zambia,Male,25+,Adults,2018,3.796
+Zambia,Male,Under 15,Children,2018,4.98
+Zimbabwe,Female,15-24,Youth,2018,11.353
+Zimbabwe,Female,25+,Adults,2018,5.027
+Zimbabwe,Female,Under 15,Children,2018,6.555
+Zimbabwe,Male,15-24,Youth,2018,9.927
+Zimbabwe,Male,25+,Adults,2018,5.722
+Zimbabwe,Male,Under 15,Children,2018,6.984
+Algeria,Female,15-24,Youth,2019,46.65
+Algeria,Female,25+,Adults,2019,18.138
+Algeria,Female,Under 15,Children,2019,21.23
+Algeria,Male,15-24,Youth,2019,27.767
+Algeria,Male,25+,Adults,2019,7.726
+Algeria,Male,Under 15,Children,2019,10.126
+Angola,Female,15-24,Youth,2019,29.378
+Angola,Female,25+,Adults,2019,12.303
+Angola,Female,Under 15,Children,2019,16.55
+Angola,Male,15-24,Youth,2019,33.9
+Angola,Male,25+,Adults,2019,10.675
+Angola,Male,Under 15,Children,2019,16.45
+Benin,Female,15-24,Youth,2019,4.374
+Benin,Female,25+,Adults,2019,0.952
+Benin,Female,Under 15,Children,2019,1.634
+Benin,Male,15-24,Youth,2019,3.072
+Benin,Male,25+,Adults,2019,0.799
+Benin,Male,Under 15,Children,2019,1.156
+Botswana,Female,15-24,Youth,2019,34.908
+Botswana,Female,25+,Adults,2019,19.828
+Botswana,Female,Under 15,Children,2019,21.966
+Botswana,Male,15-24,Youth,2019,35.579
+Botswana,Male,25+,Adults,2019,15.123
+Botswana,Male,Under 15,Children,2019,18.422
+Burkina Faso,Female,15-24,Youth,2019,7.862
+Burkina Faso,Female,25+,Adults,2019,3.499
+Burkina Faso,Female,Under 15,Children,2019,4.641
+Burkina Faso,Male,15-24,Youth,2019,7.775
+Burkina Faso,Male,25+,Adults,2019,3.57
+Burkina Faso,Male,Under 15,Children,2019,4.763
+Burundi,Female,15-24,Youth,2019,1.317
+Burundi,Female,25+,Adults,2019,0.819
+Burundi,Female,Under 15,Children,2019,0.939
+Burundi,Male,15-24,Youth,2019,2.206
+Burundi,Male,25+,Adults,2019,0.794
+Burundi,Male,Under 15,Children,2019,1.119
+Cabo Verde,Female,15-24,Youth,2019,32.518
+Cabo Verde,Female,25+,Adults,2019,8.279
+Cabo Verde,Female,Under 15,Children,2019,11.533
+Cabo Verde,Male,15-24,Youth,2019,24.393
+Cabo Verde,Male,25+,Adults,2019,10.452
+Cabo Verde,Male,Under 15,Children,2019,12.64
+Cameroon,Female,15-24,Youth,2019,6.972
+Cameroon,Female,25+,Adults,2019,3.406
+Cameroon,Female,Under 15,Children,2019,4.19
+Cameroon,Male,15-24,Youth,2019,5.965
+Cameroon,Male,25+,Adults,2019,2.376
+Cameroon,Male,Under 15,Children,2019,3.195
+Central African Republic,Female,15-24,Youth,2019,11.508
+Central African Republic,Female,25+,Adults,2019,4.652
+Central African Republic,Female,Under 15,Children,2019,6.884
+Central African Republic,Male,15-24,Youth,2019,9.745
+Central African Republic,Male,25+,Adults,2019,3.706
+Central African Republic,Male,Under 15,Children,2019,5.415
+Chad,Female,15-24,Youth,2019,0.676
+Chad,Female,25+,Adults,2019,0.735
+Chad,Female,Under 15,Children,2019,0.72
+Chad,Male,15-24,Youth,2019,2.127
+Chad,Male,25+,Adults,2019,1.051
+Chad,Male,Under 15,Children,2019,1.289
+Comoros,Female,15-24,Youth,2019,10.736
+Comoros,Female,25+,Adults,2019,4.978
+Comoros,Female,Under 15,Children,2019,5.616
+Comoros,Male,15-24,Youth,2019,9.232
+Comoros,Male,25+,Adults,2019,4.067
+Comoros,Male,Under 15,Children,2019,4.541
+Congo,Female,15-24,Youth,2019,41.541
+Congo,Female,25+,Adults,2019,17.222
+Congo,Female,Under 15,Children,2019,22.123
+Congo,Male,15-24,Youth,2019,44.423
+Congo,Male,25+,Adults,2019,13.884
+Congo,Male,Under 15,Children,2019,19.506
+"Congo, Democratic Republic of the",Female,15-24,Youth,2019,6.727
+"Congo, Democratic Republic of the",Female,25+,Adults,2019,2.915
+"Congo, Democratic Republic of the",Female,Under 15,Children,2019,3.745
+"Congo, Democratic Republic of the",Male,15-24,Youth,2019,11.086
+"Congo, Democratic Republic of the",Male,25+,Adults,2019,4.41
+"Congo, Democratic Republic of the",Male,Under 15,Children,2019,5.53
+Ivory Coast,Female,15-24,Youth,2019,4.807
+Ivory Coast,Female,25+,Adults,2019,2.416
+Ivory Coast,Female,Under 15,Children,2019,3.011
+Ivory Coast,Male,15-24,Youth,2019,3.26
+Ivory Coast,Male,25+,Adults,2019,1.54
+Ivory Coast,Male,Under 15,Children,2019,1.941
+Djibouti,Female,15-24,Youth,2019,77.173
+Djibouti,Female,25+,Adults,2019,27.475
+Djibouti,Female,Under 15,Children,2019,36.196
+Djibouti,Male,15-24,Youth,2019,74.686
+Djibouti,Male,25+,Adults,2019,15.916
+Djibouti,Male,Under 15,Children,2019,22.26
+Egypt,Female,15-24,Youth,2019,52.014
+Egypt,Female,25+,Adults,2019,15.978
+Egypt,Female,Under 15,Children,2019,21.343
+Egypt,Male,15-24,Youth,2019,12.939
+Egypt,Male,25+,Adults,2019,3.455
+Egypt,Male,Under 15,Children,2019,4.757
+Equatorial Guinea,Female,15-24,Youth,2019,17.434
+Equatorial Guinea,Female,25+,Adults,2019,7.911
+Equatorial Guinea,Female,Under 15,Children,2019,9.335
+Equatorial Guinea,Male,15-24,Youth,2019,15.081
+Equatorial Guinea,Male,25+,Adults,2019,6.557
+Equatorial Guinea,Male,Under 15,Children,2019,7.599
+Eritrea,Female,15-24,Youth,2019,11.408
+Eritrea,Female,25+,Adults,2019,4.519
+Eritrea,Female,Under 15,Children,2019,6.701
+Eritrea,Male,15-24,Youth,2019,9.155
+Eritrea,Male,25+,Adults,2019,3.406
+Eritrea,Male,Under 15,Children,2019,5.255
+Eswatini,Female,15-24,Youth,2019,49.836
+Eswatini,Female,25+,Adults,2019,19.641
+Eswatini,Female,Under 15,Children,2019,24.327
+Eswatini,Male,15-24,Youth,2019,45.678
+Eswatini,Male,25+,Adults,2019,17.111
+Eswatini,Male,Under 15,Children,2019,20.942
+Ethiopia,Female,15-24,Youth,2019,6.094
+Ethiopia,Female,25+,Adults,2019,2.762
+Ethiopia,Female,Under 15,Children,2019,3.818
+Ethiopia,Male,15-24,Youth,2019,3.311
+Ethiopia,Male,25+,Adults,2019,1.428
+Ethiopia,Male,Under 15,Children,2019,2.009
+Gabon,Female,15-24,Youth,2019,42.737
+Gabon,Female,25+,Adults,2019,27.339
+Gabon,Female,Under 15,Children,2019,29.072
+Gabon,Male,15-24,Youth,2019,31.711
+Gabon,Male,25+,Adults,2019,12.873
+Gabon,Male,Under 15,Children,2019,14.699
+Gambia,Female,15-24,Youth,2019,6.211
+Gambia,Female,25+,Adults,2019,1.991
+Gambia,Female,Under 15,Children,2019,3.087
+Gambia,Male,15-24,Youth,2019,7.94
+Gambia,Male,25+,Adults,2019,3.997
+Gambia,Male,Under 15,Children,2019,4.879
+Ghana,Female,15-24,Youth,2019,5.928
+Ghana,Female,25+,Adults,2019,2.711
+Ghana,Female,Under 15,Children,2019,3.293
+Ghana,Male,15-24,Youth,2019,6.232
+Ghana,Male,25+,Adults,2019,2.325
+Ghana,Male,Under 15,Children,2019,3.057
+Guinea,Female,15-24,Youth,2019,7.879
+Guinea,Female,25+,Adults,2019,4.296
+Guinea,Female,Under 15,Children,2019,5.067
+Guinea,Male,15-24,Youth,2019,6.126
+Guinea,Male,25+,Adults,2019,4.777
+Guinea,Male,Under 15,Children,2019,4.987
+Guinea-Bissau,Female,15-24,Youth,2019,4.194
+Guinea-Bissau,Female,25+,Adults,2019,2.355
+Guinea-Bissau,Female,Under 15,Children,2019,2.735
+Guinea-Bissau,Male,15-24,Youth,2019,3.981
+Guinea-Bissau,Male,25+,Adults,2019,3.537
+Guinea-Bissau,Male,Under 15,Children,2019,3.635
+Kenya,Female,15-24,Youth,2019,13.167
+Kenya,Female,25+,Adults,2019,3.32
+Kenya,Female,Under 15,Children,2019,5.252
+Kenya,Male,15-24,Youth,2019,11.672
+Kenya,Male,25+,Adults,2019,3.165
+Kenya,Male,Under 15,Children,2019,4.773
+Lesotho,Female,15-24,Youth,2019,34.925
+Lesotho,Female,25+,Adults,2019,15.384
+Lesotho,Female,Under 15,Children,2019,19.063
+Lesotho,Male,15-24,Youth,2019,17.858
+Lesotho,Male,25+,Adults,2019,14.328
+Lesotho,Male,Under 15,Children,2019,15.072
+Liberia,Female,15-24,Youth,2019,2.19
+Liberia,Female,25+,Adults,2019,2.378
+Liberia,Female,Under 15,Children,2019,2.332
+Liberia,Male,15-24,Youth,2019,2.389
+Liberia,Male,25+,Adults,2019,4.177
+Liberia,Male,Under 15,Children,2019,3.743
+Libya,Female,15-24,Youth,2019,68.464
+Libya,Female,25+,Adults,2019,21.228
+Libya,Female,Under 15,Children,2019,24.826
+Libya,Male,15-24,Youth,2019,41.719
+Libya,Male,25+,Adults,2019,13.056
+Libya,Male,Under 15,Children,2019,15.729
+Madagascar,Female,15-24,Youth,2019,2.946
+Madagascar,Female,25+,Adults,2019,1.304
+Madagascar,Female,Under 15,Children,2019,1.78
+Madagascar,Male,15-24,Youth,2019,3.753
+Madagascar,Male,25+,Adults,2019,0.932
+Madagascar,Male,Under 15,Children,2019,1.746
+Malawi,Female,15-24,Youth,2019,7.062
+Malawi,Female,25+,Adults,2019,5.295
+Malawi,Female,Under 15,Children,2019,5.819
+Malawi,Male,15-24,Youth,2019,6.319
+Malawi,Male,25+,Adults,2019,3.076
+Malawi,Male,Under 15,Children,2019,4.071
+Mali,Female,15-24,Youth,2019,4.325
+Mali,Female,25+,Adults,2019,1.515
+Mali,Female,Under 15,Children,2019,2.394
+Mali,Male,15-24,Youth,2019,3.933
+Mali,Male,25+,Adults,2019,1.686
+Mali,Male,Under 15,Children,2019,2.314
+Mauritania,Female,15-24,Youth,2019,30.21
+Mauritania,Female,25+,Adults,2019,12.016
+Mauritania,Female,Under 15,Children,2019,15.06
+Mauritania,Male,15-24,Youth,2019,20.065
+Mauritania,Male,25+,Adults,2019,5.637
+Mauritania,Male,Under 15,Children,2019,8.083
+Mauritius,Female,15-24,Youth,2019,28.615
+Mauritius,Female,25+,Adults,2019,6.818
+Mauritius,Female,Under 15,Children,2019,9.72
+Mauritius,Male,15-24,Youth,2019,17.095
+Mauritius,Male,25+,Adults,2019,2.443
+Mauritius,Male,Under 15,Children,2019,4.117
+Morocco,Female,15-24,Youth,2019,23.517
+Morocco,Female,25+,Adults,2019,8.991
+Morocco,Female,Under 15,Children,2019,11.045
+Morocco,Male,15-24,Youth,2019,23.232
+Morocco,Male,25+,Adults,2019,7.081
+Morocco,Male,Under 15,Children,2019,9.239
+Mozambique,Female,15-24,Youth,2019,7.462
+Mozambique,Female,25+,Adults,2019,2.615
+Mozambique,Female,Under 15,Children,2019,3.963
+Mozambique,Male,15-24,Youth,2019,8.073
+Mozambique,Male,25+,Adults,2019,1.603
+Mozambique,Male,Under 15,Children,2019,3.436
+Namibia,Female,15-24,Youth,2019,38.843
+Namibia,Female,25+,Adults,2019,15.395
+Namibia,Female,Under 15,Children,2019,18.666
+Namibia,Male,15-24,Youth,2019,37.789
+Namibia,Male,25+,Adults,2019,18.052
+Namibia,Male,Under 15,Children,2019,21.22
+Niger,Female,15-24,Youth,2019,0.41
+Niger,Female,25+,Adults,2019,0.457
+Niger,Female,Under 15,Children,2019,0.442
+Niger,Male,15-24,Youth,2019,0.873
+Niger,Male,25+,Adults,2019,0.508
+Niger,Male,Under 15,Children,2019,0.625
+Nigeria,Female,15-24,Youth,2019,13.289
+Nigeria,Female,25+,Adults,2019,3.407
+Nigeria,Female,Under 15,Children,2019,4.895
+Nigeria,Male,15-24,Youth,2019,11.996
+Nigeria,Male,25+,Adults,2019,4.386
+Nigeria,Male,Under 15,Children,2019,5.449
+Rwanda,Female,15-24,Youth,2019,16.676
+Rwanda,Female,25+,Adults,2019,10.589
+Rwanda,Female,Under 15,Children,2019,12.078
+Rwanda,Male,15-24,Youth,2019,15.409
+Rwanda,Male,25+,Adults,2019,9.033
+Rwanda,Male,Under 15,Children,2019,10.516
+Sao Tome and Principe,Female,15-24,Youth,2019,33.385
+Sao Tome and Principe,Female,25+,Adults,2019,19.251
+Sao Tome and Principe,Female,Under 15,Children,2019,21.853
+Sao Tome and Principe,Male,15-24,Youth,2019,15.325
+Sao Tome and Principe,Male,25+,Adults,2019,8.435
+Sao Tome and Principe,Male,Under 15,Children,2019,9.891
+Senegal,Female,15-24,Youth,2019,6.607
+Senegal,Female,25+,Adults,2019,2.33
+Senegal,Female,Under 15,Children,2019,3.044
+Senegal,Male,15-24,Youth,2019,2.858
+Senegal,Male,25+,Adults,2019,2.711
+Senegal,Male,Under 15,Children,2019,2.744
+Sierra Leone,Female,15-24,Youth,2019,2.509
+Sierra Leone,Female,25+,Adults,2019,2.031
+Sierra Leone,Female,Under 15,Children,2019,2.135
+Sierra Leone,Male,15-24,Youth,2019,4.742
+Sierra Leone,Male,25+,Adults,2019,4.057
+Sierra Leone,Male,Under 15,Children,2019,4.184
+Somalia,Female,15-24,Youth,2019,36.965
+Somalia,Female,25+,Adults,2019,21.058
+Somalia,Female,Under 15,Children,2019,24.386
+Somalia,Male,15-24,Youth,2019,32.137
+Somalia,Male,25+,Adults,2019,13.239
+Somalia,Male,Under 15,Children,2019,16.308
+South Africa,Female,15-24,Youth,2019,51.711
+South Africa,Female,25+,Adults,2019,23.968
+South Africa,Female,Under 15,Children,2019,27.068
+South Africa,Male,15-24,Youth,2019,43.911
+South Africa,Male,25+,Adults,2019,21.493
+South Africa,Male,Under 15,Children,2019,24.2
+South Sudan,Female,15-24,Youth,2019,18.024
+South Sudan,Female,25+,Adults,2019,11.994
+South Sudan,Female,Under 15,Children,2019,13.81
+South Sudan,Male,15-24,Youth,2019,20.999
+South Sudan,Male,25+,Adults,2019,7.907
+South Sudan,Male,Under 15,Children,2019,11.699
+Sudan,Female,15-24,Youth,2019,44.288
+Sudan,Female,25+,Adults,2019,26.401
+Sudan,Female,Under 15,Children,2019,30.104
+Sudan,Male,15-24,Youth,2019,28.311
+Sudan,Male,25+,Adults,2019,8.795
+Sudan,Male,Under 15,Children,2019,12.117
+"Tanzania, United Republic of",Female,15-24,Youth,2019,4.362
+"Tanzania, United Republic of",Female,25+,Adults,2019,2.866
+"Tanzania, United Republic of",Female,Under 15,Children,2019,3.288
+"Tanzania, United Republic of",Male,15-24,Youth,2019,2.642
+"Tanzania, United Republic of",Male,25+,Adults,2019,1.22
+"Tanzania, United Republic of",Male,Under 15,Children,2019,1.64
+Togo,Female,15-24,Youth,2019,7.106
+Togo,Female,25+,Adults,2019,1.974
+Togo,Female,Under 15,Children,2019,2.787
+Togo,Male,15-24,Youth,2019,12.208
+Togo,Male,25+,Adults,2019,3.679
+Togo,Male,Under 15,Children,2019,4.678
+Tunisia,Female,15-24,Youth,2019,39.537
+Tunisia,Female,25+,Adults,2019,23.174
+Tunisia,Female,Under 15,Children,2019,25.294
+Tunisia,Male,15-24,Youth,2019,38.801
+Tunisia,Male,25+,Adults,2019,10.662
+Tunisia,Male,Under 15,Children,2019,13.836
+Uganda,Female,15-24,Youth,2019,5.539
+Uganda,Female,25+,Adults,2019,2.731
+Uganda,Female,Under 15,Children,2019,3.618
+Uganda,Male,15-24,Youth,2019,4.266
+Uganda,Male,25+,Adults,2019,1.831
+Uganda,Male,Under 15,Children,2019,2.612
+Zambia,Female,15-24,Youth,2019,8.188
+Zambia,Female,25+,Adults,2019,4.338
+Zambia,Female,Under 15,Children,2019,5.215
+Zambia,Male,15-24,Youth,2019,12.128
+Zambia,Male,25+,Adults,2019,4.026
+Zambia,Male,Under 15,Children,2019,5.804
+Zimbabwe,Female,15-24,Youth,2019,12.306
+Zimbabwe,Female,25+,Adults,2019,5.309
+Zimbabwe,Female,Under 15,Children,2019,6.99
+Zimbabwe,Male,15-24,Youth,2019,11.048
+Zimbabwe,Male,25+,Adults,2019,6.362
+Zimbabwe,Male,Under 15,Children,2019,7.76
+Algeria,Female,15-24,Youth,2020,52.886
+Algeria,Female,25+,Adults,2020,20.163
+Algeria,Female,Under 15,Children,2020,23.536
+Algeria,Male,15-24,Youth,2020,31.682
+Algeria,Male,25+,Adults,2020,9.19
+Algeria,Male,Under 15,Children,2020,11.773
+Angola,Female,15-24,Youth,2020,30.112
+Angola,Female,25+,Adults,2020,12.206
+Angola,Female,Under 15,Children,2020,16.601
+Angola,Male,15-24,Youth,2020,34.835
+Angola,Male,25+,Adults,2020,10.801
+Angola,Male,Under 15,Children,2020,16.796
+Benin,Female,15-24,Youth,2020,5.148
+Benin,Female,25+,Adults,2020,1.02
+Benin,Female,Under 15,Children,2020,1.84
+Benin,Male,15-24,Youth,2020,3.445
+Benin,Male,25+,Adults,2020,1.059
+Benin,Male,Under 15,Children,2020,1.431
+Botswana,Female,15-24,Youth,2020,44.196
+Botswana,Female,25+,Adults,2020,18.934
+Botswana,Female,Under 15,Children,2020,22.65
+Botswana,Male,15-24,Youth,2020,39.342
+Botswana,Male,25+,Adults,2020,15.89
+Botswana,Male,Under 15,Children,2020,19.578
+Burkina Faso,Female,15-24,Youth,2020,8.84
+Burkina Faso,Female,25+,Adults,2020,3.566
+Burkina Faso,Female,Under 15,Children,2020,4.948
+Burkina Faso,Male,15-24,Youth,2020,8.576
+Burkina Faso,Male,25+,Adults,2020,4.021
+Burkina Faso,Male,Under 15,Children,2020,5.313
+Burundi,Female,15-24,Youth,2020,1.388
+Burundi,Female,25+,Adults,2020,0.842
+Burundi,Female,Under 15,Children,2020,0.976
+Burundi,Male,15-24,Youth,2020,2.02
+Burundi,Male,25+,Adults,2020,0.793
+Burundi,Male,Under 15,Children,2020,1.086
+Cabo Verde,Female,15-24,Youth,2020,39.862
+Cabo Verde,Female,25+,Adults,2020,9.834
+Cabo Verde,Female,Under 15,Children,2020,13.628
+Cabo Verde,Male,15-24,Youth,2020,29.298
+Cabo Verde,Male,25+,Adults,2020,12.911
+Cabo Verde,Male,Under 15,Children,2020,15.356
+Cameroon,Female,15-24,Youth,2020,7.849
+Cameroon,Female,25+,Adults,2020,3.529
+Cameroon,Female,Under 15,Children,2020,4.476
+Cameroon,Male,15-24,Youth,2020,6.54
+Cameroon,Male,25+,Adults,2020,2.686
+Cameroon,Male,Under 15,Children,2020,3.563
+Central African Republic,Female,15-24,Youth,2020,12.999
+Central African Republic,Female,25+,Adults,2020,4.79
+Central African Republic,Female,Under 15,Children,2020,7.48
+Central African Republic,Male,15-24,Youth,2020,10.759
+Central African Republic,Male,25+,Adults,2020,4.08
+Central African Republic,Male,Under 15,Children,2020,5.982
+Chad,Female,15-24,Youth,2020,0.902
+Chad,Female,25+,Adults,2020,1.049
+Chad,Female,Under 15,Children,2020,1.011
+Chad,Male,15-24,Youth,2020,2.543
+Chad,Male,25+,Adults,2020,2.034
+Chad,Male,Under 15,Children,2020,2.147
+Comoros,Female,15-24,Youth,2020,12.905
+Comoros,Female,25+,Adults,2020,5.62
+Comoros,Female,Under 15,Children,2020,6.415
+Comoros,Male,15-24,Youth,2020,10.378
+Comoros,Male,25+,Adults,2020,4.901
+Comoros,Male,Under 15,Children,2020,5.393
+Congo,Female,15-24,Youth,2020,46.006
+Congo,Female,25+,Adults,2020,18.319
+Congo,Female,Under 15,Children,2020,23.893
+Congo,Male,15-24,Youth,2020,48.672
+Congo,Male,25+,Adults,2020,15.32
+Congo,Male,Under 15,Children,2020,21.458
+"Congo, Democratic Republic of the",Female,15-24,Youth,2020,7.987
+"Congo, Democratic Republic of the",Female,25+,Adults,2020,3.229
+"Congo, Democratic Republic of the",Female,Under 15,Children,2020,4.263
+"Congo, Democratic Republic of the",Male,15-24,Youth,2020,12.843
+"Congo, Democratic Republic of the",Male,25+,Adults,2020,5.381
+"Congo, Democratic Republic of the",Male,Under 15,Children,2020,6.629
+Ivory Coast,Female,15-24,Youth,2020,5.44
+Ivory Coast,Female,25+,Adults,2020,2.504
+Ivory Coast,Female,Under 15,Children,2020,3.234
+Ivory Coast,Male,15-24,Youth,2020,3.587
+Ivory Coast,Male,25+,Adults,2020,1.759
+Ivory Coast,Male,Under 15,Children,2020,2.186
+Djibouti,Female,15-24,Youth,2020,83.99
+Djibouti,Female,25+,Adults,2020,28.611
+Djibouti,Female,Under 15,Children,2020,38.015
+Djibouti,Male,15-24,Youth,2020,80.463
+Djibouti,Male,25+,Adults,2020,17.051
+Djibouti,Male,Under 15,Children,2020,23.708
+Egypt,Female,15-24,Youth,2020,46.175
+Egypt,Female,25+,Adults,2020,13.343
+Egypt,Female,Under 15,Children,2020,17.646
+Egypt,Male,15-24,Youth,2020,13.13
+Egypt,Male,25+,Adults,2020,4.738
+Egypt,Male,Under 15,Children,2020,5.928
+Equatorial Guinea,Female,15-24,Youth,2020,20.146
+Equatorial Guinea,Female,25+,Adults,2020,8.367
+Equatorial Guinea,Female,Under 15,Children,2020,10.056
+Equatorial Guinea,Male,15-24,Youth,2020,16.669
+Equatorial Guinea,Male,25+,Adults,2020,7.174
+Equatorial Guinea,Male,Under 15,Children,2020,8.296
+Eritrea,Female,15-24,Youth,2020,12.853
+Eritrea,Female,25+,Adults,2020,4.623
+Eritrea,Female,Under 15,Children,2020,7.233
+Eritrea,Male,15-24,Youth,2020,10.058
+Eritrea,Male,25+,Adults,2020,3.72
+Eritrea,Male,Under 15,Children,2020,5.764
+Eswatini,Female,15-24,Youth,2020,56.03
+Eswatini,Female,25+,Adults,2020,21.247
+Eswatini,Female,Under 15,Children,2020,26.501
+Eswatini,Male,15-24,Youth,2020,50.607
+Eswatini,Male,25+,Adults,2020,19.1
+Eswatini,Male,Under 15,Children,2020,23.234
+Ethiopia,Female,15-24,Youth,2020,8.107
+Ethiopia,Female,25+,Adults,2020,3.716
+Ethiopia,Female,Under 15,Children,2020,5.096
+Ethiopia,Male,15-24,Youth,2020,4.337
+Ethiopia,Male,25+,Adults,2020,2.225
+Ethiopia,Male,Under 15,Children,2020,2.871
+Gabon,Female,15-24,Youth,2020,46.658
+Gabon,Female,25+,Adults,2020,28.379
+Gabon,Female,Under 15,Children,2020,30.353
+Gabon,Male,15-24,Youth,2020,33.867
+Gabon,Male,25+,Adults,2020,13.736
+Gabon,Male,Under 15,Children,2020,15.622
+Gambia,Female,15-24,Youth,2020,7.356
+Gambia,Female,25+,Adults,2020,2.225
+Gambia,Female,Under 15,Children,2020,3.547
+Gambia,Male,15-24,Youth,2020,9.312
+Gambia,Male,25+,Adults,2020,4.849
+Gambia,Male,Under 15,Children,2020,5.838
+Ghana,Female,15-24,Youth,2020,6.647
+Ghana,Female,25+,Adults,2020,2.796
+Ghana,Female,Under 15,Children,2020,3.486
+Ghana,Male,15-24,Youth,2020,6.792
+Ghana,Male,25+,Adults,2020,2.573
+Ghana,Male,Under 15,Children,2020,3.359
+Guinea,Female,15-24,Youth,2020,9.547
+Guinea,Female,25+,Adults,2020,4.955
+Guinea,Female,Under 15,Children,2020,5.937
+Guinea,Male,15-24,Youth,2020,7.163
+Guinea,Male,25+,Adults,2020,5.97
+Guinea,Male,Under 15,Children,2020,6.153
+Guinea-Bissau,Female,15-24,Youth,2020,4.951
+Guinea-Bissau,Female,25+,Adults,2020,2.54
+Guinea-Bissau,Female,Under 15,Children,2020,3.039
+Guinea-Bissau,Male,15-24,Youth,2020,4.504
+Guinea-Bissau,Male,25+,Adults,2020,4.215
+Guinea-Bissau,Male,Under 15,Children,2020,4.278
+Kenya,Female,15-24,Youth,2020,15.919
+Kenya,Female,25+,Adults,2020,4.307
+Kenya,Female,Under 15,Children,2020,6.582
+Kenya,Male,15-24,Youth,2020,10.697
+Kenya,Male,25+,Adults,2020,3.294
+Kenya,Male,Under 15,Children,2020,4.696
+Lesotho,Female,15-24,Youth,2020,39.0
+Lesotho,Female,25+,Adults,2020,16.431
+Lesotho,Female,Under 15,Children,2020,20.629
+Lesotho,Male,15-24,Youth,2020,19.613
+Lesotho,Male,25+,Adults,2020,15.882
+Lesotho,Male,Under 15,Children,2020,16.658
+Liberia,Female,15-24,Youth,2020,2.816
+Liberia,Female,25+,Adults,2020,3.013
+Liberia,Female,Under 15,Children,2020,2.965
+Liberia,Male,15-24,Youth,2020,2.865
+Liberia,Male,25+,Adults,2020,5.934
+Liberia,Male,Under 15,Children,2020,5.188
+Libya,Female,15-24,Youth,2020,73.061
+Libya,Female,25+,Adults,2020,21.69
+Libya,Female,Under 15,Children,2020,25.494
+Libya,Male,15-24,Youth,2020,43.964
+Libya,Male,25+,Adults,2020,13.75
+Libya,Male,Under 15,Children,2020,16.505
+Madagascar,Female,15-24,Youth,2020,3.612
+Madagascar,Female,25+,Adults,2020,1.565
+Madagascar,Female,Under 15,Children,2020,2.15
+Madagascar,Male,15-24,Youth,2020,4.627
+Madagascar,Male,25+,Adults,2020,1.323
+Madagascar,Male,Under 15,Children,2020,2.268
+Malawi,Female,15-24,Youth,2020,8.282
+Malawi,Female,25+,Adults,2020,5.941
+Malawi,Female,Under 15,Children,2020,6.65
+Malawi,Male,15-24,Youth,2020,7.255
+Malawi,Male,25+,Adults,2020,3.772
+Malawi,Male,Under 15,Children,2020,4.875
+Mali,Female,15-24,Youth,2020,7.577
+Mali,Female,25+,Adults,2020,1.791
+Mali,Female,Under 15,Children,2020,3.542
+Mali,Male,15-24,Youth,2020,6.167
+Mali,Male,25+,Adults,2020,2.522
+Mali,Male,Under 15,Children,2020,3.522
+Mauritania,Female,15-24,Youth,2020,33.45
+Mauritania,Female,25+,Adults,2020,12.47
+Mauritania,Female,Under 15,Children,2020,15.933
+Mauritania,Male,15-24,Youth,2020,21.749
+Mauritania,Male,25+,Adults,2020,6.127
+Mauritania,Male,Under 15,Children,2020,8.77
+Mauritius,Female,15-24,Youth,2020,28.154
+Mauritius,Female,25+,Adults,2020,7.623
+Mauritius,Female,Under 15,Children,2020,10.217
+Mauritius,Male,15-24,Youth,2020,22.048
+Mauritius,Male,25+,Adults,2020,5.955
+Mauritius,Male,Under 15,Children,2020,7.602
+Morocco,Female,15-24,Youth,2020,27.436
+Morocco,Female,25+,Adults,2020,10.384
+Morocco,Female,Under 15,Children,2020,12.671
+Morocco,Male,15-24,Youth,2020,27.451
+Morocco,Male,25+,Adults,2020,9.092
+Morocco,Male,Under 15,Children,2020,11.44
+Mozambique,Female,15-24,Youth,2020,8.328
+Mozambique,Female,25+,Adults,2020,2.697
+Mozambique,Female,Under 15,Children,2020,4.26
+Mozambique,Male,15-24,Youth,2020,8.976
+Mozambique,Male,25+,Adults,2020,1.868
+Mozambique,Male,Under 15,Children,2020,3.876
+Namibia,Female,15-24,Youth,2020,42.656
+Namibia,Female,25+,Adults,2020,16.076
+Namibia,Female,Under 15,Children,2020,19.593
+Namibia,Male,15-24,Youth,2020,40.705
+Namibia,Male,25+,Adults,2020,19.382
+Namibia,Male,Under 15,Children,2020,22.661
+Niger,Female,15-24,Youth,2020,0.501
+Niger,Female,25+,Adults,2020,0.488
+Niger,Female,Under 15,Children,2020,0.492
+Niger,Male,15-24,Youth,2020,0.979
+Niger,Male,25+,Adults,2020,0.678
+Niger,Male,Under 15,Children,2020,0.775
+Nigeria,Female,15-24,Youth,2020,13.698
+Nigeria,Female,25+,Adults,2020,4.555
+Nigeria,Female,Under 15,Children,2020,5.926
+Nigeria,Male,15-24,Youth,2020,11.504
+Nigeria,Male,25+,Adults,2020,4.413
+Nigeria,Male,Under 15,Children,2020,5.404
+Rwanda,Female,15-24,Youth,2020,17.295
+Rwanda,Female,25+,Adults,2020,11.396
+Rwanda,Female,Under 15,Children,2020,12.904
+Rwanda,Male,15-24,Youth,2020,14.67
+Rwanda,Male,25+,Adults,2020,9.597
+Rwanda,Male,Under 15,Children,2020,10.872
+Sao Tome and Principe,Female,15-24,Youth,2020,37.914
+Sao Tome and Principe,Female,25+,Adults,2020,20.375
+Sao Tome and Principe,Female,Under 15,Children,2020,23.616
+Sao Tome and Principe,Male,15-24,Youth,2020,16.805
+Sao Tome and Principe,Male,25+,Adults,2020,9.344
+Sao Tome and Principe,Male,Under 15,Children,2020,10.923
+Senegal,Female,15-24,Youth,2020,7.815
+Senegal,Female,25+,Adults,2020,2.596
+Senegal,Female,Under 15,Children,2020,3.464
+Senegal,Male,15-24,Youth,2020,3.293
+Senegal,Male,25+,Adults,2020,3.25
+Senegal,Male,Under 15,Children,2020,3.26
+Sierra Leone,Female,15-24,Youth,2020,2.917
+Sierra Leone,Female,25+,Adults,2020,2.136
+Sierra Leone,Female,Under 15,Children,2020,2.305
+Sierra Leone,Male,15-24,Youth,2020,5.29
+Sierra Leone,Male,25+,Adults,2020,4.605
+Sierra Leone,Male,Under 15,Children,2020,4.731
+Somalia,Female,15-24,Youth,2020,39.631
+Somalia,Female,25+,Adults,2020,21.267
+Somalia,Female,Under 15,Children,2020,25.104
+Somalia,Male,15-24,Youth,2020,33.908
+Somalia,Male,25+,Adults,2020,13.827
+Somalia,Male,Under 15,Children,2020,17.082
+South Africa,Female,15-24,Youth,2020,48.41
+South Africa,Female,25+,Adults,2020,22.987
+South Africa,Female,Under 15,Children,2020,25.584
+South Africa,Male,15-24,Youth,2020,39.563
+South Africa,Male,25+,Adults,2020,21.217
+South Africa,Male,Under 15,Children,2020,23.256
+South Sudan,Female,15-24,Youth,2020,20.46
+South Sudan,Female,25+,Adults,2020,13.084
+South Sudan,Female,Under 15,Children,2020,15.39
+South Sudan,Male,15-24,Youth,2020,23.498
+South Sudan,Male,25+,Adults,2020,9.067
+South Sudan,Male,Under 15,Children,2020,13.389
+Sudan,Female,15-24,Youth,2020,49.63
+Sudan,Female,25+,Adults,2020,28.33
+Sudan,Female,Under 15,Children,2020,32.692
+Sudan,Male,15-24,Youth,2020,31.316
+Sudan,Male,25+,Adults,2020,9.82
+Sudan,Male,Under 15,Children,2020,13.435
+"Tanzania, United Republic of",Female,15-24,Youth,2020,4.906
+"Tanzania, United Republic of",Female,25+,Adults,2020,3.239
+"Tanzania, United Republic of",Female,Under 15,Children,2020,3.708
+"Tanzania, United Republic of",Male,15-24,Youth,2020,2.823
+"Tanzania, United Republic of",Male,25+,Adults,2020,1.51
+"Tanzania, United Republic of",Male,Under 15,Children,2020,1.899
+Togo,Female,15-24,Youth,2020,8.131
+Togo,Female,25+,Adults,2020,2.015
+Togo,Female,Under 15,Children,2020,2.982
+Togo,Male,15-24,Youth,2020,13.545
+Togo,Male,25+,Adults,2020,4.186
+Togo,Male,Under 15,Children,2020,5.281
+Tunisia,Female,15-24,Youth,2020,43.413
+Tunisia,Female,25+,Adults,2020,24.609
+Tunisia,Female,Under 15,Children,2020,26.922
+Tunisia,Male,15-24,Youth,2020,42.567
+Tunisia,Male,25+,Adults,2020,11.962
+Tunisia,Male,Under 15,Children,2020,15.263
+Uganda,Female,15-24,Youth,2020,6.906
+Uganda,Female,25+,Adults,2020,3.193
+Uganda,Female,Under 15,Children,2020,4.355
+Uganda,Male,15-24,Youth,2020,4.759
+Uganda,Male,25+,Adults,2020,2.595
+Uganda,Male,Under 15,Children,2020,3.282
+Zambia,Female,15-24,Youth,2020,10.762
+Zambia,Female,25+,Adults,2020,5.211
+Zambia,Female,Under 15,Children,2020,6.558
+Zambia,Male,15-24,Youth,2020,11.258
+Zambia,Male,25+,Adults,2020,3.934
+Zambia,Male,Under 15,Children,2020,5.585
+Zimbabwe,Female,15-24,Youth,2020,15.088
+Zimbabwe,Female,25+,Adults,2020,6.345
+Zimbabwe,Female,Under 15,Children,2020,8.494
+Zimbabwe,Male,15-24,Youth,2020,13.191
+Zimbabwe,Male,25+,Adults,2020,6.996
+Zimbabwe,Male,Under 15,Children,2020,8.809
+Algeria,Female,15-24,Youth,2021,50.507
+Algeria,Female,25+,Adults,2021,19.887
+Algeria,Female,Under 15,Children,2021,23.017
+Algeria,Male,15-24,Youth,2021,30.337
+Algeria,Male,25+,Adults,2021,8.995
+Algeria,Male,Under 15,Children,2021,11.446
+Angola,Female,15-24,Youth,2021,27.502
+Angola,Female,25+,Adults,2021,12.044
+Angola,Female,Under 15,Children,2021,15.78
+Angola,Male,15-24,Youth,2021,32.405
+Angola,Male,25+,Adults,2021,10.272
+Angola,Male,Under 15,Children,2021,15.82
+Benin,Female,15-24,Youth,2021,5.061
+Benin,Female,25+,Adults,2021,1.295
+Benin,Female,Under 15,Children,2021,2.052
+Benin,Male,15-24,Youth,2021,3.575
+Benin,Male,25+,Adults,2021,1.188
+Benin,Male,Under 15,Children,2021,1.564
+Botswana,Female,15-24,Youth,2021,50.666
+Botswana,Female,25+,Adults,2021,21.594
+Botswana,Female,Under 15,Children,2021,26.158
+Botswana,Male,15-24,Youth,2021,39.017
+Botswana,Male,25+,Adults,2021,16.832
+Botswana,Male,Under 15,Children,2021,20.37
+Burkina Faso,Female,15-24,Youth,2021,8.745
+Burkina Faso,Female,25+,Adults,2021,3.949
+Burkina Faso,Female,Under 15,Children,2021,5.191
+Burkina Faso,Male,15-24,Youth,2021,8.594
+Burkina Faso,Male,25+,Adults,2021,4.272
+Burkina Faso,Male,Under 15,Children,2021,5.499
+Burundi,Female,15-24,Youth,2021,1.416
+Burundi,Female,25+,Adults,2021,0.948
+Burundi,Female,Under 15,Children,2021,1.063
+Burundi,Male,15-24,Youth,2021,2.155
+Burundi,Male,25+,Adults,2021,0.918
+Burundi,Male,Under 15,Children,2021,1.216
+Cabo Verde,Female,15-24,Youth,2021,37.424
+Cabo Verde,Female,25+,Adults,2021,9.896
+Cabo Verde,Female,Under 15,Children,2021,13.286
+Cabo Verde,Male,15-24,Youth,2021,27.56
+Cabo Verde,Male,25+,Adults,2021,12.536
+Cabo Verde,Male,Under 15,Children,2021,14.749
+Cameroon,Female,15-24,Youth,2021,7.719
+Cameroon,Female,25+,Adults,2021,3.806
+Cameroon,Female,Under 15,Children,2021,4.661
+Cameroon,Male,15-24,Youth,2021,6.543
+Cameroon,Male,25+,Adults,2021,2.827
+Cameroon,Male,Under 15,Children,2021,3.678
+Central African Republic,Female,15-24,Youth,2021,13.035
+Central African Republic,Female,25+,Adults,2021,5.163
+Central African Republic,Female,Under 15,Children,2021,7.736
+Central African Republic,Male,15-24,Youth,2021,10.696
+Central African Republic,Male,25+,Adults,2021,4.18
+Central African Republic,Male,Under 15,Children,2021,6.044
+Chad,Female,15-24,Youth,2021,0.87
+Chad,Female,25+,Adults,2021,1.155
+Chad,Female,Under 15,Children,2021,1.081
+Chad,Male,15-24,Youth,2021,2.856
+Chad,Male,25+,Adults,2021,1.68
+Chad,Male,Under 15,Children,2021,1.943
+Comoros,Female,15-24,Youth,2021,12.514
+Comoros,Female,25+,Adults,2021,5.881
+Comoros,Female,Under 15,Children,2021,6.584
+Comoros,Male,15-24,Youth,2021,9.796
+Comoros,Male,25+,Adults,2021,5.005
+Comoros,Male,Under 15,Children,2021,5.423
+Congo,Female,15-24,Youth,2021,44.774
+Congo,Female,25+,Adults,2021,18.694
+Congo,Female,Under 15,Children,2021,23.905
+Congo,Male,15-24,Youth,2021,47.465
+Congo,Male,25+,Adults,2021,15.46
+Congo,Male,Under 15,Children,2021,21.344
+"Congo, Democratic Republic of the",Female,15-24,Youth,2021,7.764
+"Congo, Democratic Republic of the",Female,25+,Adults,2021,3.463
+"Congo, Democratic Republic of the",Female,Under 15,Children,2021,4.385
+"Congo, Democratic Republic of the",Male,15-24,Youth,2021,12.354
+"Congo, Democratic Republic of the",Male,25+,Adults,2021,5.403
+"Congo, Democratic Republic of the",Male,Under 15,Children,2021,6.557
+Ivory Coast,Female,15-24,Youth,2021,5.368
+Ivory Coast,Female,25+,Adults,2021,2.684
+Ivory Coast,Female,Under 15,Children,2021,3.341
+Ivory Coast,Male,15-24,Youth,2021,3.616
+Ivory Coast,Male,25+,Adults,2021,1.803
+Ivory Coast,Male,Under 15,Children,2021,2.23
+Djibouti,Female,15-24,Youth,2021,82.135
+Djibouti,Female,25+,Adults,2021,29.239
+Djibouti,Female,Under 15,Children,2021,38.097
+Djibouti,Male,15-24,Youth,2021,78.706
+Djibouti,Male,25+,Adults,2021,17.246
+Djibouti,Male,Under 15,Children,2021,23.744
+Egypt,Female,15-24,Youth,2021,42.902
+Egypt,Female,25+,Adults,2021,11.632
+Egypt,Female,Under 15,Children,2021,15.932
+Egypt,Male,15-24,Youth,2021,13.137
+Egypt,Male,25+,Adults,2021,4.304
+Egypt,Male,Under 15,Children,2021,5.575
+Equatorial Guinea,Female,15-24,Youth,2021,19.762
+Equatorial Guinea,Female,25+,Adults,2021,8.741
+Equatorial Guinea,Female,Under 15,Children,2021,10.329
+Equatorial Guinea,Male,15-24,Youth,2021,16.415
+Equatorial Guinea,Male,25+,Adults,2021,7.253
+Equatorial Guinea,Male,Under 15,Children,2021,8.348
+Eritrea,Female,15-24,Youth,2021,12.763
+Eritrea,Female,25+,Adults,2021,4.91
+Eritrea,Female,Under 15,Children,2021,7.385
+Eritrea,Male,15-24,Youth,2021,9.931
+Eritrea,Male,25+,Adults,2021,3.761
+Eritrea,Male,Under 15,Children,2021,5.738
+Eswatini,Female,15-24,Youth,2021,53.667
+Eswatini,Female,25+,Adults,2021,21.352
+Eswatini,Female,Under 15,Children,2021,26.132
+Eswatini,Male,15-24,Youth,2021,48.697
+Eswatini,Male,25+,Adults,2021,18.925
+Eswatini,Male,Under 15,Children,2021,22.788
+Ethiopia,Female,15-24,Youth,2021,8.104
+Ethiopia,Female,25+,Adults,2021,3.837
+Ethiopia,Female,Under 15,Children,2021,5.149
+Ethiopia,Male,15-24,Youth,2021,4.378
+Ethiopia,Male,25+,Adults,2021,2.208
+Ethiopia,Male,Under 15,Children,2021,2.863
+Gabon,Female,15-24,Youth,2021,44.929
+Gabon,Female,25+,Adults,2021,28.504
+Gabon,Female,Under 15,Children,2021,30.273
+Gabon,Male,15-24,Youth,2021,33.089
+Gabon,Male,25+,Adults,2021,13.738
+Gabon,Male,Under 15,Children,2021,15.56
+Gambia,Female,15-24,Youth,2021,7.162
+Gambia,Female,25+,Adults,2021,2.306
+Gambia,Female,Under 15,Children,2021,3.544
+Gambia,Male,15-24,Youth,2021,8.985
+Gambia,Male,25+,Adults,2021,4.837
+Gambia,Male,Under 15,Children,2021,5.76
+Ghana,Female,15-24,Youth,2021,6.535
+Ghana,Female,25+,Adults,2021,2.999
+Ghana,Female,Under 15,Children,2021,3.629
+Ghana,Male,15-24,Youth,2021,6.784
+Ghana,Male,25+,Adults,2021,2.736
+Ghana,Male,Under 15,Children,2021,3.49
+Guinea,Female,15-24,Youth,2021,9.123
+Guinea,Female,25+,Adults,2021,5.088
+Guinea,Female,Under 15,Children,2021,5.954
+Guinea,Male,15-24,Youth,2021,6.981
+Guinea,Male,25+,Adults,2021,5.802
+Guinea,Male,Under 15,Children,2021,5.981
+Guinea-Bissau,Female,15-24,Youth,2021,4.811
+Guinea-Bissau,Female,25+,Adults,2021,2.761
+Guinea-Bissau,Female,Under 15,Children,2021,3.179
+Guinea-Bissau,Male,15-24,Youth,2021,4.469
+Guinea-Bissau,Male,25+,Adults,2021,4.293
+Guinea-Bissau,Male,Under 15,Children,2021,4.331
+Kenya,Female,15-24,Youth,2021,16.147
+Kenya,Female,25+,Adults,2021,5.458
+Kenya,Female,Under 15,Children,2021,7.518
+Kenya,Male,15-24,Youth,2021,7.936
+Kenya,Male,25+,Adults,2021,2.935
+Kenya,Male,Under 15,Children,2021,3.878
+Lesotho,Female,15-24,Youth,2021,37.954
+Lesotho,Female,25+,Adults,2021,16.833
+Lesotho,Female,Under 15,Children,2021,20.665
+Lesotho,Male,15-24,Youth,2021,19.362
+Lesotho,Male,25+,Adults,2021,15.896
+Lesotho,Male,Under 15,Children,2021,16.602
+Liberia,Female,15-24,Youth,2021,2.674
+Liberia,Female,25+,Adults,2021,3.081
+Liberia,Female,Under 15,Children,2021,2.983
+Liberia,Male,15-24,Youth,2021,2.966
+Liberia,Male,25+,Adults,2021,5.481
+Liberia,Male,Under 15,Children,2021,4.863
+Libya,Female,15-24,Youth,2021,70.865
+Libya,Female,25+,Adults,2021,21.917
+Libya,Female,Under 15,Children,2021,25.548
+Libya,Male,15-24,Youth,2021,42.889
+Libya,Male,25+,Adults,2021,13.762
+Libya,Male,Under 15,Children,2021,16.438
+Madagascar,Female,15-24,Youth,2021,3.568
+Madagascar,Female,25+,Adults,2021,1.677
+Madagascar,Female,Under 15,Children,2021,2.207
+Madagascar,Male,15-24,Youth,2021,4.608
+Madagascar,Male,25+,Adults,2021,1.371
+Madagascar,Male,Under 15,Children,2021,2.284
+Malawi,Female,15-24,Youth,2021,8.056
+Malawi,Female,25+,Adults,2021,6.115
+Malawi,Female,Under 15,Children,2021,6.702
+Malawi,Male,15-24,Youth,2021,7.122
+Malawi,Male,25+,Adults,2021,3.802
+Malawi,Male,Under 15,Children,2021,4.863
+Mali,Female,15-24,Youth,2021,3.975
+Mali,Female,25+,Adults,2021,1.743
+Mali,Female,Under 15,Children,2021,2.418
+Mali,Male,15-24,Youth,2021,3.755
+Mali,Male,25+,Adults,2021,1.957
+Mali,Male,Under 15,Children,2021,2.453
+Mauritania,Female,15-24,Youth,2021,32.637
+Mauritania,Female,25+,Adults,2021,12.946
+Mauritania,Female,Under 15,Children,2021,16.188
+Mauritania,Male,15-24,Youth,2021,21.491
+Mauritania,Male,25+,Adults,2021,6.254
+Mauritania,Male,Under 15,Children,2021,8.861
+Mauritius,Female,15-24,Youth,2021,25.535
+Mauritius,Female,25+,Adults,2021,6.418
+Mauritius,Female,Under 15,Children,2021,8.655
+Mauritius,Male,15-24,Youth,2021,24.261
+Mauritius,Male,25+,Adults,2021,5.429
+Mauritius,Male,Under 15,Children,2021,7.113
+Morocco,Female,15-24,Youth,2021,26.426
+Morocco,Female,25+,Adults,2021,10.379
+Morocco,Female,Under 15,Children,2021,12.509
+Morocco,Male,15-24,Youth,2021,25.915
+Morocco,Male,25+,Adults,2021,8.634
+Morocco,Male,Under 15,Children,2021,10.836
+Mozambique,Female,15-24,Youth,2021,8.341
+Mozambique,Female,25+,Adults,2021,3.021
+Mozambique,Female,Under 15,Children,2021,4.489
+Mozambique,Male,15-24,Youth,2021,9.007
+Mozambique,Male,25+,Adults,2021,2.03
+Mozambique,Male,Under 15,Children,2021,3.997
+Namibia,Female,15-24,Youth,2021,41.522
+Namibia,Female,25+,Adults,2021,16.42
+Namibia,Female,Under 15,Children,2021,19.665
+Namibia,Male,15-24,Youth,2021,39.809
+Namibia,Male,25+,Adults,2021,19.534
+Namibia,Male,Under 15,Children,2021,22.617
+Niger,Female,15-24,Youth,2021,0.806
+Niger,Female,25+,Adults,2021,0.873
+Niger,Female,Under 15,Children,2021,0.852
+Niger,Male,15-24,Youth,2021,0.932
+Niger,Male,25+,Adults,2021,0.839
+Niger,Male,Under 15,Children,2021,0.869
+Nigeria,Female,15-24,Youth,2021,11.147
+Nigeria,Female,25+,Adults,2021,5.624
+Nigeria,Female,Under 15,Children,2021,6.451
+Nigeria,Male,15-24,Youth,2021,8.929
+Nigeria,Male,25+,Adults,2021,3.593
+Nigeria,Male,Under 15,Children,2021,4.338
+Rwanda,Female,15-24,Youth,2021,24.268
+Rwanda,Female,25+,Adults,2021,15.524
+Rwanda,Female,Under 15,Children,2021,17.466
+Rwanda,Male,15-24,Youth,2021,22.373
+Rwanda,Male,25+,Adults,2021,12.016
+Rwanda,Male,Under 15,Children,2021,14.301
+Sao Tome and Principe,Female,15-24,Youth,2021,36.307
+Sao Tome and Principe,Female,25+,Adults,2021,20.681
+Sao Tome and Principe,Female,Under 15,Children,2021,23.571
+Sao Tome and Principe,Male,15-24,Youth,2021,16.591
+Sao Tome and Principe,Male,25+,Adults,2021,9.411
+Sao Tome and Principe,Male,Under 15,Children,2021,10.947
+Senegal,Female,15-24,Youth,2021,7.554
+Senegal,Female,25+,Adults,2021,2.66
+Senegal,Female,Under 15,Children,2021,3.457
+Senegal,Male,15-24,Youth,2021,3.223
+Senegal,Male,25+,Adults,2021,3.238
+Senegal,Male,Under 15,Children,2021,3.235
+Sierra Leone,Female,15-24,Youth,2021,2.851
+Sierra Leone,Female,25+,Adults,2021,2.289
+Sierra Leone,Female,Under 15,Children,2021,2.41
+Sierra Leone,Male,15-24,Youth,2021,5.173
+Sierra Leone,Male,25+,Adults,2021,4.745
+Sierra Leone,Male,Under 15,Children,2021,4.823
+Somalia,Female,15-24,Youth,2021,39.137
+Somalia,Female,25+,Adults,2021,22.074
+Somalia,Female,Under 15,Children,2021,25.596
+Somalia,Male,15-24,Youth,2021,33.71
+Somalia,Male,25+,Adults,2021,14.18
+Somalia,Male,Under 15,Children,2021,17.348
+South Africa,Female,15-24,Youth,2021,54.883
+South Africa,Female,25+,Adults,2021,27.442
+South Africa,Female,Under 15,Children,2021,30.272
+South Africa,Male,15-24,Youth,2021,45.637
+South Africa,Male,25+,Adults,2021,25.298
+South Africa,Male,Under 15,Children,2021,27.464
+South Sudan,Female,15-24,Youth,2021,19.801
+South Sudan,Female,25+,Adults,2021,13.216
+South Sudan,Female,Under 15,Children,2021,15.319
+South Sudan,Male,15-24,Youth,2021,22.661
+South Sudan,Male,25+,Adults,2021,9.034
+South Sudan,Male,Under 15,Children,2021,13.216
+Sudan,Female,15-24,Youth,2021,47.878
+Sudan,Female,25+,Adults,2021,28.646
+Sudan,Female,Under 15,Children,2021,32.494
+Sudan,Male,15-24,Youth,2021,30.84
+Sudan,Male,25+,Adults,2021,9.999
+Sudan,Male,Under 15,Children,2021,13.455
+"Tanzania, United Republic of",Female,15-24,Youth,2021,4.868
+"Tanzania, United Republic of",Female,25+,Adults,2021,3.406
+"Tanzania, United Republic of",Female,Under 15,Children,2021,3.817
+"Tanzania, United Republic of",Male,15-24,Youth,2021,2.851
+"Tanzania, United Republic of",Male,25+,Adults,2021,1.578
+"Tanzania, United Republic of",Male,Under 15,Children,2021,1.959
+Togo,Female,15-24,Youth,2021,8.047
+Togo,Female,25+,Adults,2021,2.303
+Togo,Female,Under 15,Children,2021,3.199
+Togo,Male,15-24,Youth,2021,13.42
+Togo,Male,25+,Adults,2021,4.48
+Togo,Male,Under 15,Children,2021,5.524
+Tunisia,Female,15-24,Youth,2021,42.125
+Tunisia,Female,25+,Adults,2021,24.742
+Tunisia,Female,Under 15,Children,2021,26.839
+Tunisia,Male,15-24,Youth,2021,41.246
+Tunisia,Male,25+,Adults,2021,11.916
+Tunisia,Male,Under 15,Children,2021,15.079
+Uganda,Female,15-24,Youth,2021,6.516
+Uganda,Female,25+,Adults,2021,2.879
+Uganda,Female,Under 15,Children,2021,3.988
+Uganda,Male,15-24,Youth,2021,3.951
+Uganda,Male,25+,Adults,2021,2.368
+Uganda,Male,Under 15,Children,2021,2.862
+Zambia,Female,15-24,Youth,2021,10.009
+Zambia,Female,25+,Adults,2021,4.448
+Zambia,Female,Under 15,Children,2021,5.708
+Zambia,Male,15-24,Youth,2021,8.791
+Zambia,Male,25+,Adults,2021,3.558
+Zambia,Male,Under 15,Children,2021,4.766
+Zimbabwe,Female,15-24,Youth,2021,16.168
+Zimbabwe,Female,25+,Adults,2021,7.792
+Zimbabwe,Female,Under 15,Children,2021,9.853
+Zimbabwe,Male,15-24,Youth,2021,14.261
+Zimbabwe,Male,25+,Adults,2021,7.234
+Zimbabwe,Male,Under 15,Children,2021,9.223
+Algeria,Female,15-24,Youth,2022,47.635
+Algeria,Female,25+,Adults,2022,18.914
+Algeria,Female,Under 15,Children,2022,21.777
+Algeria,Male,15-24,Youth,2022,28.594
+Algeria,Male,25+,Adults,2022,8.053
+Algeria,Male,Under 15,Children,2022,10.283
+Angola,Female,15-24,Youth,2022,25.521
+Angola,Female,25+,Adults,2022,11.056
+Angola,Female,Under 15,Children,2022,14.597
+Angola,Male,15-24,Youth,2022,30.465
+Angola,Male,25+,Adults,2022,9.179
+Angola,Male,Under 15,Children,2022,14.361
+Benin,Female,15-24,Youth,2022,4.619
+Benin,Female,25+,Adults,2022,1.068
+Benin,Female,Under 15,Children,2022,1.756
+Benin,Male,15-24,Youth,2022,3.2
+Benin,Male,25+,Adults,2022,0.889
+Benin,Male,Under 15,Children,2022,1.241
+Botswana,Female,15-24,Youth,2022,50.836
+Botswana,Female,25+,Adults,2022,21.477
+Botswana,Female,Under 15,Children,2022,26.016
+Botswana,Male,15-24,Youth,2022,37.346
+Botswana,Male,25+,Adults,2022,18.294
+Botswana,Male,Under 15,Children,2022,21.451
+Burkina Faso,Female,15-24,Youth,2022,8.315
+Burkina Faso,Female,25+,Adults,2022,3.819
+Burkina Faso,Female,Under 15,Children,2022,4.99
+Burkina Faso,Male,15-24,Youth,2022,8.199
+Burkina Faso,Male,25+,Adults,2022,3.915
+Burkina Faso,Male,Under 15,Children,2022,5.127
+Burundi,Female,15-24,Youth,2022,1.273
+Burundi,Female,25+,Adults,2022,0.646
+Burundi,Female,Under 15,Children,2022,0.803
+Burundi,Male,15-24,Youth,2022,2.174
+Burundi,Male,25+,Adults,2022,0.638
+Burundi,Male,Under 15,Children,2022,1.012
+Cabo Verde,Female,15-24,Youth,2022,34.846
+Cabo Verde,Female,25+,Adults,2022,8.901
+Cabo Verde,Female,Under 15,Children,2022,11.827
+Cabo Verde,Male,15-24,Youth,2022,25.55
+Cabo Verde,Male,25+,Adults,2022,11.015
+Cabo Verde,Male,Under 15,Children,2022,12.931
+Cameroon,Female,15-24,Youth,2022,7.177
+Cameroon,Female,25+,Adults,2022,3.544
+Cameroon,Female,Under 15,Children,2022,4.329
+Cameroon,Male,15-24,Youth,2022,6.115
+Cameroon,Male,25+,Adults,2022,2.469
+Cameroon,Male,Under 15,Children,2022,3.288
+Central African Republic,Female,15-24,Youth,2022,12.056
+Central African Republic,Female,25+,Adults,2022,4.906
+Central African Republic,Female,Under 15,Children,2022,7.276
+Central African Republic,Male,15-24,Youth,2022,9.798
+Central African Republic,Male,25+,Adults,2022,3.849
+Central African Republic,Male,Under 15,Children,2022,5.566
+Chad,Female,15-24,Youth,2022,0.683
+Chad,Female,25+,Adults,2022,0.778
+Chad,Female,Under 15,Children,2022,0.753
+Chad,Male,15-24,Youth,2022,2.134
+Chad,Male,25+,Adults,2022,1.097
+Chad,Male,Under 15,Children,2022,1.336
+Comoros,Female,15-24,Youth,2022,12.103
+Comoros,Female,25+,Adults,2022,5.894
+Comoros,Female,Under 15,Children,2022,6.542
+Comoros,Male,15-24,Youth,2022,9.805
+Comoros,Male,25+,Adults,2022,4.849
+Comoros,Male,Under 15,Children,2022,5.269
+Congo,Female,15-24,Youth,2022,40.889
+Congo,Female,25+,Adults,2022,16.848
+Congo,Female,Under 15,Children,2022,21.814
+Congo,Male,15-24,Youth,2022,43.379
+Congo,Male,25+,Adults,2022,13.499
+Congo,Male,Under 15,Children,2022,19.158
+"Congo, Democratic Republic of the",Female,15-24,Youth,2022,6.827
+"Congo, Democratic Republic of the",Female,25+,Adults,2022,2.958
+"Congo, Democratic Republic of the",Female,Under 15,Children,2022,3.778
+"Congo, Democratic Republic of the",Male,15-24,Youth,2022,11.171
+"Congo, Democratic Republic of the",Male,25+,Adults,2022,4.441
+"Congo, Democratic Republic of the",Male,Under 15,Children,2022,5.536
+Ivory Coast,Female,15-24,Youth,2022,4.979
+Ivory Coast,Female,25+,Adults,2022,2.534
+Ivory Coast,Female,Under 15,Children,2022,3.123
+Ivory Coast,Male,15-24,Youth,2022,3.344
+Ivory Coast,Male,25+,Adults,2022,1.604
+Ivory Coast,Male,Under 15,Children,2022,2.005
+Djibouti,Female,15-24,Youth,2022,78.776
+Djibouti,Female,25+,Adults,2022,28.027
+Djibouti,Female,Under 15,Children,2022,36.715
+Djibouti,Male,15-24,Youth,2022,76.054
+Djibouti,Male,25+,Adults,2022,16.232
+Djibouti,Male,Under 15,Children,2022,22.535
+Egypt,Female,15-24,Youth,2022,35.676
+Egypt,Female,25+,Adults,2022,9.683
+Egypt,Female,Under 15,Children,2022,13.042
+Egypt,Male,15-24,Youth,2022,11.572
+Egypt,Male,25+,Adults,2022,3.807
+Egypt,Male,Under 15,Children,2022,4.898
+Equatorial Guinea,Female,15-24,Youth,2022,18.161
+Equatorial Guinea,Female,25+,Adults,2022,8.253
+Equatorial Guinea,Female,Under 15,Children,2022,9.747
+Equatorial Guinea,Male,15-24,Youth,2022,15.071
+Equatorial Guinea,Male,25+,Adults,2022,6.719
+Equatorial Guinea,Male,Under 15,Children,2022,7.737
+Eritrea,Female,15-24,Youth,2022,11.69
+Eritrea,Female,25+,Adults,2022,4.592
+Eritrea,Female,Under 15,Children,2022,6.853
+Eritrea,Male,15-24,Youth,2022,9.004
+Eritrea,Male,25+,Adults,2022,3.401
+Eritrea,Male,Under 15,Children,2022,5.2
+Eswatini,Female,15-24,Youth,2022,50.427
+Eswatini,Female,25+,Adults,2022,19.849
+Eswatini,Female,Under 15,Children,2022,24.477
+Eswatini,Male,15-24,Youth,2022,46.005
+Eswatini,Male,25+,Adults,2022,17.25
+Eswatini,Male,Under 15,Children,2022,21.012
+Ethiopia,Female,15-24,Youth,2022,7.26
+Ethiopia,Female,25+,Adults,2022,3.424
+Ethiopia,Female,Under 15,Children,2022,4.584
+Ethiopia,Male,15-24,Youth,2022,3.869
+Ethiopia,Male,25+,Adults,2022,1.765
+Ethiopia,Male,Under 15,Children,2022,2.389
+Gabon,Female,15-24,Youth,2022,43.301
+Gabon,Female,25+,Adults,2022,27.669
+Gabon,Female,Under 15,Children,2022,29.408
+Gabon,Male,15-24,Youth,2022,32.013
+Gabon,Male,25+,Adults,2022,13.012
+Gabon,Male,Under 15,Children,2022,14.829
+Gambia,Female,15-24,Youth,2022,6.555
+Gambia,Female,25+,Adults,2022,2.14
+Gambia,Female,Under 15,Children,2022,3.263
+Gambia,Male,15-24,Youth,2022,8.286
+Gambia,Male,25+,Adults,2022,4.268
+Gambia,Male,Under 15,Children,2022,5.151
+Ghana,Female,15-24,Youth,2022,6.42
+Ghana,Female,25+,Adults,2022,3.052
+Ghana,Female,Under 15,Children,2022,3.647
+Ghana,Male,15-24,Youth,2022,6.762
+Ghana,Male,25+,Adults,2022,2.645
+Ghana,Male,Under 15,Children,2022,3.399
+Guinea,Female,15-24,Youth,2022,8.458
+Guinea,Female,25+,Adults,2022,4.805
+Guinea,Female,Under 15,Children,2022,5.568
+Guinea,Male,15-24,Youth,2022,6.494
+Guinea,Male,25+,Adults,2022,5.321
+Guinea,Male,Under 15,Children,2022,5.496
+Guinea-Bissau,Female,15-24,Youth,2022,4.223
+Guinea-Bissau,Female,25+,Adults,2022,2.375
+Guinea-Bissau,Female,Under 15,Children,2022,2.758
+Guinea-Bissau,Male,15-24,Youth,2022,3.981
+Guinea-Bissau,Male,25+,Adults,2022,3.536
+Guinea-Bissau,Male,Under 15,Children,2022,3.633
+Kenya,Female,15-24,Youth,2022,16.172
+Kenya,Female,25+,Adults,2022,5.47
+Kenya,Female,Under 15,Children,2022,7.515
+Kenya,Male,15-24,Youth,2022,8.075
+Kenya,Male,25+,Adults,2022,2.815
+Kenya,Male,Under 15,Children,2022,3.795
+Lesotho,Female,15-24,Youth,2022,35.154
+Lesotho,Female,25+,Adults,2022,15.449
+Lesotho,Female,Under 15,Children,2022,18.959
+Lesotho,Male,15-24,Youth,2022,17.754
+Lesotho,Male,25+,Adults,2022,14.239
+Lesotho,Male,Under 15,Children,2022,14.931
+Liberia,Female,15-24,Youth,2022,2.188
+Liberia,Female,25+,Adults,2022,2.362
+Liberia,Female,Under 15,Children,2022,2.318
+Liberia,Male,15-24,Youth,2022,2.379
+Liberia,Male,25+,Adults,2022,4.101
+Liberia,Male,Under 15,Children,2022,3.671
+Libya,Female,15-24,Youth,2022,69.032
+Libya,Female,25+,Adults,2022,21.725
+Libya,Female,Under 15,Children,2022,25.364
+Libya,Male,15-24,Youth,2022,41.97
+Libya,Male,25+,Adults,2022,13.24
+Libya,Male,Under 15,Children,2022,15.932
+Madagascar,Female,15-24,Youth,2022,3.139
+Madagascar,Female,25+,Adults,2022,1.446
+Madagascar,Female,Under 15,Children,2022,1.916
+Madagascar,Male,15-24,Youth,2022,4.043
+Madagascar,Male,25+,Adults,2022,1.054
+Madagascar,Male,Under 15,Children,2022,1.883
+Malawi,Female,15-24,Youth,2022,7.277
+Malawi,Female,25+,Adults,2022,5.526
+Malawi,Female,Under 15,Children,2022,6.059
+Malawi,Male,15-24,Youth,2022,6.435
+Malawi,Male,25+,Adults,2022,3.184
+Malawi,Male,Under 15,Children,2022,4.226
+Mali,Female,15-24,Youth,2022,4.268
+Mali,Female,25+,Adults,2022,2.437
+Mali,Female,Under 15,Children,2022,2.991
+Mali,Male,15-24,Youth,2022,4.153
+Mali,Male,25+,Adults,2022,2.885
+Mali,Male,Under 15,Children,2022,3.232
+Mauritania,Female,15-24,Youth,2022,31.464
+Mauritania,Female,25+,Adults,2022,12.579
+Mauritania,Female,Under 15,Children,2022,15.631
+Mauritania,Male,15-24,Youth,2022,20.796
+Mauritania,Male,25+,Adults,2022,5.892
+Mauritania,Male,Under 15,Children,2022,8.372
+Mauritius,Female,15-24,Youth,2022,24.192
+Mauritius,Female,25+,Adults,2022,6.63
+Mauritius,Female,Under 15,Children,2022,8.502
+Mauritius,Male,15-24,Youth,2022,20.052
+Mauritius,Male,25+,Adults,2022,3.296
+Mauritius,Male,Under 15,Children,2022,4.922
+Morocco,Female,15-24,Youth,2022,24.056
+Morocco,Female,25+,Adults,2022,9.546
+Morocco,Female,Under 15,Children,2022,11.516
+Morocco,Male,15-24,Youth,2022,23.781
+Morocco,Male,25+,Adults,2022,7.456
+Morocco,Male,Under 15,Children,2022,9.558
+Mozambique,Female,15-24,Youth,2022,7.671
+Mozambique,Female,25+,Adults,2022,2.709
+Mozambique,Female,Under 15,Children,2022,4.062
+Mozambique,Male,15-24,Youth,2022,8.318
+Mozambique,Male,25+,Adults,2022,1.667
+Mozambique,Male,Under 15,Children,2022,3.502
+Namibia,Female,15-24,Youth,2022,39.686
+Namibia,Female,25+,Adults,2022,15.687
+Namibia,Female,Under 15,Children,2022,18.72
+Namibia,Male,15-24,Youth,2022,38.359
+Namibia,Male,25+,Adults,2022,18.314
+Namibia,Male,Under 15,Children,2022,21.218
+Niger,Female,15-24,Youth,2022,0.417
+Niger,Female,25+,Adults,2022,0.483
+Niger,Female,Under 15,Children,2022,0.463
+Niger,Male,15-24,Youth,2022,0.891
+Niger,Male,25+,Adults,2022,0.536
+Niger,Male,Under 15,Children,2022,0.648
+Nigeria,Female,15-24,Youth,2022,7.915
+Nigeria,Female,25+,Adults,2022,5.099
+Nigeria,Female,Under 15,Children,2022,5.52
+Nigeria,Male,15-24,Youth,2022,5.893
+Nigeria,Male,25+,Adults,2022,1.975
+Nigeria,Male,Under 15,Children,2022,2.516
+Rwanda,Female,15-24,Youth,2022,23.462
+Rwanda,Female,25+,Adults,2022,14.678
+Rwanda,Female,Under 15,Children,2022,16.61
+Rwanda,Male,15-24,Youth,2022,21.02
+Rwanda,Male,25+,Adults,2022,11.633
+Rwanda,Male,Under 15,Children,2022,13.707
+Sao Tome and Principe,Female,15-24,Youth,2022,34.18
+Sao Tome and Principe,Female,25+,Adults,2022,19.458
+Sao Tome and Principe,Female,Under 15,Children,2022,22.277
+Sao Tome and Principe,Male,15-24,Youth,2022,15.379
+Sao Tome and Principe,Male,25+,Adults,2022,8.55
+Sao Tome and Principe,Male,Under 15,Children,2022,10.057
+Senegal,Female,15-24,Youth,2022,6.918
+Senegal,Female,25+,Adults,2022,2.486
+Senegal,Female,Under 15,Children,2022,3.208
+Senegal,Male,15-24,Youth,2022,2.955
+Senegal,Male,25+,Adults,2022,2.869
+Senegal,Male,Under 15,Children,2022,2.888
+Sierra Leone,Female,15-24,Youth,2022,2.561
+Sierra Leone,Female,25+,Adults,2022,2.086
+Sierra Leone,Female,Under 15,Children,2022,2.187
+Sierra Leone,Male,15-24,Youth,2022,4.807
+Sierra Leone,Male,25+,Adults,2022,4.146
+Sierra Leone,Male,Under 15,Children,2022,4.264
+Somalia,Female,15-24,Youth,2022,37.85
+Somalia,Female,25+,Adults,2022,21.623
+Somalia,Female,Under 15,Children,2022,25.015
+Somalia,Male,15-24,Youth,2022,32.794
+Somalia,Male,25+,Adults,2022,13.584
+Somalia,Male,Under 15,Children,2022,16.694
+South Africa,Female,15-24,Youth,2022,54.332
+South Africa,Female,25+,Adults,2022,27.61
+South Africa,Female,Under 15,Children,2022,30.515
+South Africa,Male,15-24,Youth,2022,46.288
+South Africa,Male,25+,Adults,2022,24.776
+South Africa,Male,Under 15,Children,2022,27.377
+South Sudan,Female,15-24,Youth,2022,17.461
+South Sudan,Female,25+,Adults,2022,11.499
+South Sudan,Female,Under 15,Children,2022,13.484
+South Sudan,Male,15-24,Youth,2022,19.87
+South Sudan,Male,25+,Adults,2022,7.412
+South Sudan,Male,Under 15,Children,2022,11.353
+Sudan,Female,15-24,Youth,2022,44.718
+Sudan,Female,25+,Adults,2022,26.634
+Sudan,Female,Under 15,Children,2022,30.331
+Sudan,Male,15-24,Youth,2022,28.523
+Sudan,Male,25+,Adults,2022,8.873
+Sudan,Male,Under 15,Children,2022,12.168
+"Tanzania, United Republic of",Female,15-24,Youth,2022,4.44
+"Tanzania, United Republic of",Female,25+,Adults,2022,3.196
+"Tanzania, United Republic of",Female,Under 15,Children,2022,3.542
+"Tanzania, United Republic of",Male,15-24,Youth,2022,2.622
+"Tanzania, United Republic of",Male,25+,Adults,2022,1.332
+"Tanzania, United Republic of",Male,Under 15,Children,2022,1.712
+Togo,Female,15-24,Youth,2022,7.248
+Togo,Female,25+,Adults,2022,2.035
+Togo,Female,Under 15,Children,2022,2.858
+Togo,Male,15-24,Youth,2022,12.356
+Togo,Male,25+,Adults,2022,3.767
+Togo,Male,Under 15,Children,2022,4.768
+Tunisia,Female,15-24,Youth,2022,40.643
+Tunisia,Female,25+,Adults,2022,24.396
+Tunisia,Female,Under 15,Children,2022,26.298
+Tunisia,Male,15-24,Youth,2022,40.544
+Tunisia,Male,25+,Adults,2022,11.337
+Tunisia,Male,Under 15,Children,2022,14.304
+Uganda,Female,15-24,Youth,2022,5.759
+Uganda,Female,25+,Adults,2022,2.535
+Uganda,Female,Under 15,Children,2022,3.504
+Uganda,Male,15-24,Youth,2022,3.498
+Uganda,Male,25+,Adults,2022,1.895
+Uganda,Male,Under 15,Children,2022,2.385
+Zambia,Female,15-24,Youth,2022,9.256
+Zambia,Female,25+,Adults,2022,3.998
+Zambia,Female,Under 15,Children,2022,5.114
+Zambia,Male,15-24,Youth,2022,7.349
+Zambia,Male,25+,Adults,2022,2.833
+Zambia,Male,Under 15,Children,2022,3.776
+Zimbabwe,Female,15-24,Youth,2022,15.761
+Zimbabwe,Female,25+,Adults,2022,7.704
+Zimbabwe,Female,Under 15,Children,2022,9.67
+Zimbabwe,Male,15-24,Youth,2022,13.966
+Zimbabwe,Male,25+,Adults,2022,6.858
+Zimbabwe,Male,Under 15,Children,2022,8.842
+Algeria,Female,15-24,Youth,2023,47.168
+Algeria,Female,25+,Adults,2023,18.625
+Algeria,Female,Under 15,Children,2023,21.506
+Algeria,Male,15-24,Youth,2023,27.825
+Algeria,Male,25+,Adults,2023,7.784
+Algeria,Male,Under 15,Children,2023,10.004
+Angola,Female,15-24,Youth,2023,25.478
+Angola,Female,25+,Adults,2023,10.685
+Angola,Female,Under 15,Children,2023,14.321
+Angola,Male,15-24,Youth,2023,29.745
+Angola,Male,25+,Adults,2023,9.041
+Angola,Male,Under 15,Children,2023,14.126
+Benin,Female,15-24,Youth,2023,4.432
+Benin,Female,25+,Adults,2023,1.033
+Benin,Female,Under 15,Children,2023,1.688
+Benin,Male,15-24,Youth,2023,3.032
+Benin,Male,25+,Adults,2023,0.846
+Benin,Male,Under 15,Children,2023,1.179
+Botswana,Female,15-24,Youth,2023,49.696
+Botswana,Female,25+,Adults,2023,21.785
+Botswana,Female,Under 15,Children,2023,26.022
+Botswana,Male,15-24,Youth,2023,38.63
+Botswana,Male,25+,Adults,2023,17.951
+Botswana,Male,Under 15,Children,2023,21.423
+Burkina Faso,Female,15-24,Youth,2023,8.213
+Burkina Faso,Female,25+,Adults,2023,3.757
+Burkina Faso,Female,Under 15,Children,2023,4.919
+Burkina Faso,Male,15-24,Youth,2023,8.102
+Burkina Faso,Male,25+,Adults,2023,3.868
+Burkina Faso,Male,Under 15,Children,2023,5.068
+Burundi,Female,15-24,Youth,2023,1.2
+Burundi,Female,25+,Adults,2023,0.617
+Burundi,Female,Under 15,Children,2023,0.766
+Burundi,Male,15-24,Youth,2023,2.004
+Burundi,Male,25+,Adults,2023,0.609
+Burundi,Male,Under 15,Children,2023,0.956
+Cabo Verde,Female,15-24,Youth,2023,34.004
+Cabo Verde,Female,25+,Adults,2023,8.72
+Cabo Verde,Female,Under 15,Children,2023,11.486
+Cabo Verde,Male,15-24,Youth,2023,24.833
+Cabo Verde,Male,25+,Adults,2023,10.731
+Cabo Verde,Male,Under 15,Children,2023,12.535
+Cameroon,Female,15-24,Youth,2023,7.034
+Cameroon,Female,25+,Adults,2023,3.473
+Cameroon,Female,Under 15,Children,2023,4.241
+Cameroon,Male,15-24,Youth,2023,5.969
+Cameroon,Male,25+,Adults,2023,2.407
+Cameroon,Male,Under 15,Children,2023,3.209
+Central African Republic,Female,15-24,Youth,2023,11.897
+Central African Republic,Female,25+,Adults,2023,4.831
+Central African Republic,Female,Under 15,Children,2023,7.17
+Central African Republic,Male,15-24,Youth,2023,9.683
+Central African Republic,Male,25+,Adults,2023,3.788
+Central African Republic,Male,Under 15,Children,2023,5.497
+Chad,Female,15-24,Youth,2023,0.616
+Chad,Female,25+,Adults,2023,0.704
+Chad,Female,Under 15,Children,2023,0.68
+Chad,Male,15-24,Youth,2023,1.895
+Chad,Male,25+,Adults,2023,0.994
+Chad,Male,Under 15,Children,2023,1.203
+Comoros,Female,15-24,Youth,2023,11.977
+Comoros,Female,25+,Adults,2023,5.865
+Comoros,Female,Under 15,Children,2023,6.485
+Comoros,Male,15-24,Youth,2023,9.927
+Comoros,Male,25+,Adults,2023,4.801
+Comoros,Male,Under 15,Children,2023,5.222
+Congo,Female,15-24,Youth,2023,39.854
+Congo,Female,25+,Adults,2023,16.292
+Congo,Female,Under 15,Children,2023,21.2
+Congo,Male,15-24,Youth,2023,42.012
+Congo,Male,25+,Adults,2023,12.917
+Congo,Male,Under 15,Children,2023,18.534
+"Congo, Democratic Republic of the",Female,15-24,Youth,2023,6.529
+"Congo, Democratic Republic of the",Female,25+,Adults,2023,2.835
+"Congo, Democratic Republic of the",Female,Under 15,Children,2023,3.619
+"Congo, Democratic Republic of the",Male,15-24,Youth,2023,10.688
+"Congo, Democratic Republic of the",Male,25+,Adults,2023,4.276
+"Congo, Democratic Republic of the",Male,Under 15,Children,2023,5.326
+Ivory Coast,Female,15-24,Youth,2023,4.872
+Ivory Coast,Female,25+,Adults,2023,2.478
+Ivory Coast,Female,Under 15,Children,2023,3.052
+Ivory Coast,Male,15-24,Youth,2023,3.263
+Ivory Coast,Male,25+,Adults,2023,1.563
+Ivory Coast,Male,Under 15,Children,2023,1.953
+Djibouti,Female,15-24,Youth,2023,78.541
+Djibouti,Female,25+,Adults,2023,27.729
+Djibouti,Female,Under 15,Children,2023,36.27
+Djibouti,Male,15-24,Youth,2023,75.734
+Djibouti,Male,25+,Adults,2023,15.953
+Djibouti,Male,Under 15,Children,2023,22.143
+Egypt,Female,15-24,Youth,2023,36.599
+Egypt,Female,25+,Adults,2023,9.983
+Egypt,Female,Under 15,Children,2023,13.434
+Egypt,Male,15-24,Youth,2023,11.158
+Egypt,Male,25+,Adults,2023,3.568
+Egypt,Male,Under 15,Children,2023,4.631
+Equatorial Guinea,Female,15-24,Youth,2023,17.937
+Equatorial Guinea,Female,25+,Adults,2023,8.147
+Equatorial Guinea,Female,Under 15,Children,2023,9.654
+Equatorial Guinea,Male,15-24,Youth,2023,14.941
+Equatorial Guinea,Male,25+,Adults,2023,6.636
+Equatorial Guinea,Male,Under 15,Children,2023,7.678
+Eritrea,Female,15-24,Youth,2023,11.472
+Eritrea,Female,25+,Adults,2023,4.508
+Eritrea,Female,Under 15,Children,2023,6.713
+Eritrea,Male,15-24,Youth,2023,8.833
+Eritrea,Male,25+,Adults,2023,3.328
+Eritrea,Male,Under 15,Children,2023,5.093
+Eswatini,Female,15-24,Youth,2023,49.651
+Eswatini,Female,25+,Adults,2023,19.459
+Eswatini,Female,Under 15,Children,2023,24.023
+Eswatini,Male,15-24,Youth,2023,44.988
+Eswatini,Male,25+,Adults,2023,16.812
+Eswatini,Male,Under 15,Children,2023,20.549
+Ethiopia,Female,15-24,Youth,2023,7.092
+Ethiopia,Female,25+,Adults,2023,3.356
+Ethiopia,Female,Under 15,Children,2023,4.473
+Ethiopia,Male,15-24,Youth,2023,3.775
+Ethiopia,Male,25+,Adults,2023,1.724
+Ethiopia,Male,Under 15,Children,2023,2.326
+Gabon,Female,15-24,Youth,2023,43.02
+Gabon,Female,25+,Adults,2023,27.464
+Gabon,Female,Under 15,Children,2023,29.19
+Gabon,Male,15-24,Youth,2023,31.403
+Gabon,Male,25+,Adults,2023,12.704
+Gabon,Male,Under 15,Children,2023,14.518
+Gambia,Female,15-24,Youth,2023,6.369
+Gambia,Female,25+,Adults,2023,2.071
+Gambia,Female,Under 15,Children,2023,3.166
+Gambia,Male,15-24,Youth,2023,8.035
+Gambia,Male,25+,Adults,2023,4.139
+Gambia,Male,Under 15,Children,2023,4.999
+Ghana,Female,15-24,Youth,2023,6.477
+Ghana,Female,25+,Adults,2023,3.074
+Ghana,Female,Under 15,Children,2023,3.674
+Ghana,Male,15-24,Youth,2023,6.856
+Ghana,Male,25+,Adults,2023,2.683
+Ghana,Male,Under 15,Children,2023,3.448
+Guinea,Female,15-24,Youth,2023,8.305
+Guinea,Female,25+,Adults,2023,4.722
+Guinea,Female,Under 15,Children,2023,5.461
+Guinea,Male,15-24,Youth,2023,6.358
+Guinea,Male,25+,Adults,2023,5.19
+Guinea,Male,Under 15,Children,2023,5.362
+Guinea-Bissau,Female,15-24,Youth,2023,4.054
+Guinea-Bissau,Female,25+,Adults,2023,2.285
+Guinea-Bissau,Female,Under 15,Children,2023,2.65
+Guinea-Bissau,Male,15-24,Youth,2023,3.807
+Guinea-Bissau,Male,25+,Adults,2023,3.415
+Guinea-Bissau,Male,Under 15,Children,2023,3.501
+Kenya,Female,15-24,Youth,2023,16.178
+Kenya,Female,25+,Adults,2023,5.377
+Kenya,Female,Under 15,Children,2023,7.443
+Kenya,Male,15-24,Youth,2023,8.446
+Kenya,Male,25+,Adults,2023,2.696
+Kenya,Male,Under 15,Children,2023,3.774
+Lesotho,Female,15-24,Youth,2023,34.338
+Lesotho,Female,25+,Adults,2023,15.117
+Lesotho,Female,Under 15,Children,2023,18.487
+Lesotho,Male,15-24,Youth,2023,17.258
+Lesotho,Male,25+,Adults,2023,13.859
+Lesotho,Male,Under 15,Children,2023,14.524
+Liberia,Female,15-24,Youth,2023,2.045
+Liberia,Female,25+,Adults,2023,2.223
+Liberia,Female,Under 15,Children,2023,2.178
+Liberia,Male,15-24,Youth,2023,2.209
+Liberia,Male,25+,Adults,2023,3.889
+Liberia,Male,Under 15,Children,2023,3.465
+Libya,Female,15-24,Youth,2023,67.735
+Libya,Female,25+,Adults,2023,21.21
+Libya,Female,Under 15,Children,2023,24.737
+Libya,Male,15-24,Youth,2023,40.358
+Libya,Male,25+,Adults,2023,12.369
+Libya,Male,Under 15,Children,2023,15.042
+Madagascar,Female,15-24,Youth,2023,3.015
+Madagascar,Female,25+,Adults,2023,1.389
+Madagascar,Female,Under 15,Children,2023,1.837
+Madagascar,Male,15-24,Youth,2023,3.874
+Madagascar,Male,25+,Adults,2023,1.016
+Madagascar,Male,Under 15,Children,2023,1.804
+Malawi,Female,15-24,Youth,2023,7.135
+Malawi,Female,25+,Adults,2023,5.422
+Malawi,Female,Under 15,Children,2023,5.945
+Malawi,Male,15-24,Youth,2023,6.295
+Malawi,Male,25+,Adults,2023,3.154
+Malawi,Male,Under 15,Children,2023,4.161
+Mali,Female,15-24,Youth,2023,4.621
+Mali,Female,25+,Adults,2023,2.486
+Mali,Female,Under 15,Children,2023,3.141
+Mali,Male,15-24,Youth,2023,4.527
+Mali,Male,25+,Adults,2023,2.86
+Mali,Male,Under 15,Children,2023,3.322
+Mauritania,Female,15-24,Youth,2023,31.054
+Mauritania,Female,25+,Adults,2023,12.376
+Mauritania,Female,Under 15,Children,2023,15.385
+Mauritania,Male,15-24,Youth,2023,20.483
+Mauritania,Male,25+,Adults,2023,5.765
+Mauritania,Male,Under 15,Children,2023,8.239
+Mauritius,Female,15-24,Youth,2023,20.714
+Mauritius,Female,25+,Adults,2023,5.445
+Mauritius,Female,Under 15,Children,2023,7.039
+Mauritius,Male,15-24,Youth,2023,16.819
+Mauritius,Male,25+,Adults,2023,1.952
+Mauritius,Male,Under 15,Children,2023,3.481
+Morocco,Female,15-24,Youth,2023,23.79
+Morocco,Female,25+,Adults,2023,9.289
+Morocco,Female,Under 15,Children,2023,11.238
+Morocco,Male,15-24,Youth,2023,23.293
+Morocco,Male,25+,Adults,2023,7.309
+Morocco,Male,Under 15,Children,2023,9.349
+Mozambique,Female,15-24,Youth,2023,7.463
+Mozambique,Female,25+,Adults,2023,2.653
+Mozambique,Female,Under 15,Children,2023,3.955
+Mozambique,Male,15-24,Youth,2023,8.031
+Mozambique,Male,25+,Adults,2023,1.609
+Mozambique,Male,Under 15,Children,2023,3.377
+Namibia,Female,15-24,Youth,2023,39.159
+Namibia,Female,25+,Adults,2023,15.402
+Namibia,Female,Under 15,Children,2023,18.395
+Namibia,Male,15-24,Youth,2023,37.785
+Namibia,Male,25+,Adults,2023,17.929
+Namibia,Male,Under 15,Children,2023,20.829
+Niger,Female,15-24,Youth,2023,0.389
+Niger,Female,25+,Adults,2023,0.449
+Niger,Female,Under 15,Children,2023,0.43
+Niger,Male,15-24,Youth,2023,0.819
+Niger,Male,25+,Adults,2023,0.507
+Niger,Male,Under 15,Children,2023,0.606
+Nigeria,Female,15-24,Youth,2023,7.929
+Nigeria,Female,25+,Adults,2023,4.652
+Nigeria,Female,Under 15,Children,2023,5.143
+Nigeria,Male,15-24,Youth,2023,5.669
+Nigeria,Male,25+,Adults,2023,1.813
+Nigeria,Male,Under 15,Children,2023,2.355
+Rwanda,Female,15-24,Youth,2023,22.963
+Rwanda,Female,25+,Adults,2023,14.596
+Rwanda,Female,Under 15,Children,2023,16.458
+Rwanda,Male,15-24,Youth,2023,20.89
+Rwanda,Male,25+,Adults,2023,11.493
+Rwanda,Male,Under 15,Children,2023,13.587
+Sao Tome and Principe,Female,15-24,Youth,2023,33.892
+Sao Tome and Principe,Female,25+,Adults,2023,19.285
+Sao Tome and Principe,Female,Under 15,Children,2023,22.103
+Sao Tome and Principe,Male,15-24,Youth,2023,15.166
+Sao Tome and Principe,Male,25+,Adults,2023,8.436
+Sao Tome and Principe,Male,Under 15,Children,2023,9.956
+Senegal,Female,15-24,Youth,2023,6.758
+Senegal,Female,25+,Adults,2023,2.446
+Senegal,Female,Under 15,Children,2023,3.148
+Senegal,Male,15-24,Youth,2023,2.943
+Senegal,Male,25+,Adults,2023,2.822
+Senegal,Male,Under 15,Children,2023,2.849
+Sierra Leone,Female,15-24,Youth,2023,2.564
+Sierra Leone,Female,25+,Adults,2023,2.022
+Sierra Leone,Female,Under 15,Children,2023,2.137
+Sierra Leone,Male,15-24,Youth,2023,4.807
+Sierra Leone,Male,25+,Adults,2023,4.054
+Sierra Leone,Male,Under 15,Children,2023,4.188
+Somalia,Female,15-24,Youth,2023,37.703
+Somalia,Female,25+,Adults,2023,21.492
+Somalia,Female,Under 15,Children,2023,24.857
+Somalia,Male,15-24,Youth,2023,32.601
+Somalia,Male,25+,Adults,2023,13.534
+Somalia,Male,Under 15,Children,2023,16.62
+South Africa,Female,15-24,Youth,2023,55.231
+South Africa,Female,25+,Adults,2023,27.334
+South Africa,Female,Under 15,Children,2023,30.511
+South Africa,Male,15-24,Youth,2023,46.57
+South Africa,Male,25+,Adults,2023,23.701
+South Africa,Male,Under 15,Children,2023,26.521
+South Sudan,Female,15-24,Youth,2023,16.915
+South Sudan,Female,25+,Adults,2023,11.076
+South Sudan,Female,Under 15,Children,2023,13.072
+South Sudan,Male,15-24,Youth,2023,19.044
+South Sudan,Male,25+,Adults,2023,7.062
+South Sudan,Male,Under 15,Children,2023,10.96
+Sudan,Female,15-24,Youth,2023,48.918
+Sudan,Female,25+,Adults,2023,30.3
+Sudan,Female,Under 15,Children,2023,34.142
+Sudan,Male,15-24,Youth,2023,33.92
+Sudan,Male,25+,Adults,2023,11.471
+Sudan,Male,Under 15,Children,2023,15.216
+"Tanzania, United Republic of",Female,15-24,Youth,2023,4.435
+"Tanzania, United Republic of",Female,25+,Adults,2023,3.106
+"Tanzania, United Republic of",Female,Under 15,Children,2023,3.476
+"Tanzania, United Republic of",Male,15-24,Youth,2023,2.625
+"Tanzania, United Republic of",Male,25+,Adults,2023,1.284
+"Tanzania, United Republic of",Male,Under 15,Children,2023,1.681
+Togo,Female,15-24,Youth,2023,7.001
+Togo,Female,25+,Adults,2023,1.969
+Togo,Female,Under 15,Children,2023,2.761
+Togo,Male,15-24,Youth,2023,11.942
+Togo,Male,25+,Adults,2023,3.65
+Togo,Male,Under 15,Children,2023,4.623
+Tunisia,Female,15-24,Youth,2023,40.845
+Tunisia,Female,25+,Adults,2023,24.335
+Tunisia,Female,Under 15,Children,2023,26.255
+Tunisia,Male,15-24,Youth,2023,40.279
+Tunisia,Male,25+,Adults,2023,11.218
+Tunisia,Male,Under 15,Children,2023,14.21
+Uganda,Female,15-24,Youth,2023,5.503
+Uganda,Female,25+,Adults,2023,2.511
+Uganda,Female,Under 15,Children,2023,3.398
+Uganda,Male,15-24,Youth,2023,3.486
+Uganda,Male,25+,Adults,2023,1.809
+Uganda,Male,Under 15,Children,2023,2.316
+Zambia,Female,15-24,Youth,2023,8.654
+Zambia,Female,25+,Adults,2023,3.917
+Zambia,Female,Under 15,Children,2023,4.922
+Zambia,Male,15-24,Youth,2023,7.302
+Zambia,Male,25+,Adults,2023,2.696
+Zambia,Male,Under 15,Children,2023,3.651
+Zimbabwe,Female,15-24,Youth,2023,15.627
+Zimbabwe,Female,25+,Adults,2023,7.597
+Zimbabwe,Female,Under 15,Children,2023,9.518
+Zimbabwe,Male,15-24,Youth,2023,13.675
+Zimbabwe,Male,25+,Adults,2023,6.757
+Zimbabwe,Male,Under 15,Children,2023,8.713
+Algeria,Female,15-24,Youth,2024,46.95
+Algeria,Female,25+,Adults,2024,18.4
+Algeria,Female,Under 15,Children,2024,21.343
+Algeria,Male,15-24,Youth,2024,27.461
+Algeria,Male,25+,Adults,2024,7.615
+Algeria,Male,Under 15,Children,2024,9.875
+Angola,Female,15-24,Youth,2024,25.462
+Angola,Female,25+,Adults,2024,10.451
+Angola,Female,Under 15,Children,2024,14.159
+Angola,Male,15-24,Youth,2024,29.351
+Angola,Male,25+,Adults,2024,8.866
+Angola,Male,Under 15,Children,2024,13.947
+Benin,Female,15-24,Youth,2024,4.361
+Benin,Female,25+,Adults,2024,1.013
+Benin,Female,Under 15,Children,2024,1.656
+Benin,Male,15-24,Youth,2024,2.976
+Benin,Male,25+,Adults,2024,0.818
+Benin,Male,Under 15,Children,2024,1.145
+Botswana,Female,15-24,Youth,2024,48.526
+Botswana,Female,25+,Adults,2024,21.928
+Botswana,Female,Under 15,Children,2024,25.898
+Botswana,Male,15-24,Youth,2024,39.253
+Botswana,Male,25+,Adults,2024,17.602
+Botswana,Male,Under 15,Children,2024,21.259
+Burkina Faso,Female,15-24,Youth,2024,8.091
+Burkina Faso,Female,25+,Adults,2024,3.699
+Burkina Faso,Female,Under 15,Children,2024,4.846
+Burkina Faso,Male,15-24,Youth,2024,8.015
+Burkina Faso,Male,25+,Adults,2024,3.789
+Burkina Faso,Male,Under 15,Children,2024,4.987
+Burundi,Female,15-24,Youth,2024,1.162
+Burundi,Female,25+,Adults,2024,0.588
+Burundi,Female,Under 15,Children,2024,0.738
+Burundi,Male,15-24,Youth,2024,1.912
+Burundi,Male,25+,Adults,2024,0.57
+Burundi,Male,Under 15,Children,2024,0.911
+Cabo Verde,Female,15-24,Youth,2024,33.74
+Cabo Verde,Female,25+,Adults,2024,8.657
+Cabo Verde,Female,Under 15,Children,2024,11.319
+Cabo Verde,Male,15-24,Youth,2024,24.67
+Cabo Verde,Male,25+,Adults,2024,10.612
+Cabo Verde,Male,Under 15,Children,2024,12.354
+Cameroon,Female,15-24,Youth,2024,6.974
+Cameroon,Female,25+,Adults,2024,3.435
+Cameroon,Female,Under 15,Children,2024,4.196
+Cameroon,Male,15-24,Youth,2024,5.909
+Cameroon,Male,25+,Adults,2024,2.372
+Cameroon,Male,Under 15,Children,2024,3.168
+Central African Republic,Female,15-24,Youth,2024,11.776
+Central African Republic,Female,25+,Adults,2024,4.798
+Central African Republic,Female,Under 15,Children,2024,7.1
+Central African Republic,Male,15-24,Youth,2024,9.622
+Central African Republic,Male,25+,Adults,2024,3.737
+Central African Republic,Male,Under 15,Children,2024,5.442
+Chad,Female,15-24,Youth,2024,0.591
+Chad,Female,25+,Adults,2024,0.671
+Chad,Female,Under 15,Children,2024,0.65
+Chad,Male,15-24,Youth,2024,1.805
+Chad,Male,25+,Adults,2024,0.946
+Chad,Male,Under 15,Children,2024,1.145
+Comoros,Female,15-24,Youth,2024,11.843
+Comoros,Female,25+,Adults,2024,5.835
+Comoros,Female,Under 15,Children,2024,6.429
+Comoros,Male,15-24,Youth,2024,9.987
+Comoros,Male,25+,Adults,2024,4.754
+Comoros,Male,Under 15,Children,2024,5.173
+Congo,Female,15-24,Youth,2024,39.307
+Congo,Female,25+,Adults,2024,15.951
+Congo,Female,Under 15,Children,2024,20.868
+Congo,Male,15-24,Youth,2024,41.252
+Congo,Male,25+,Adults,2024,12.533
+Congo,Male,Under 15,Children,2024,18.172
+"Congo, Democratic Republic of the",Female,15-24,Youth,2024,6.491
+"Congo, Democratic Republic of the",Female,25+,Adults,2024,2.797
+"Congo, Democratic Republic of the",Female,Under 15,Children,2024,3.583
+"Congo, Democratic Republic of the",Male,15-24,Youth,2024,10.585
+"Congo, Democratic Republic of the",Male,25+,Adults,2024,4.247
+"Congo, Democratic Republic of the",Male,Under 15,Children,2024,5.291
+Ivory Coast,Female,15-24,Youth,2024,4.81
+Ivory Coast,Female,25+,Adults,2024,2.446
+Ivory Coast,Female,Under 15,Children,2024,3.01
+Ivory Coast,Male,15-24,Youth,2024,3.218
+Ivory Coast,Male,25+,Adults,2024,1.537
+Ivory Coast,Male,Under 15,Children,2024,1.921
+Djibouti,Female,15-24,Youth,2024,78.644
+Djibouti,Female,25+,Adults,2024,27.576
+Djibouti,Female,Under 15,Children,2024,35.947
+Djibouti,Male,15-24,Youth,2024,75.935
+Djibouti,Male,25+,Adults,2024,15.778
+Djibouti,Male,Under 15,Children,2024,21.858
+Egypt,Female,15-24,Youth,2024,37.586
+Egypt,Female,25+,Adults,2024,10.282
+Egypt,Female,Under 15,Children,2024,13.842
+Egypt,Male,15-24,Youth,2024,11.002
+Egypt,Male,25+,Adults,2024,3.483
+Egypt,Male,Under 15,Children,2024,4.531
+Equatorial Guinea,Female,15-24,Youth,2024,17.771
+Equatorial Guinea,Female,25+,Adults,2024,8.077
+Equatorial Guinea,Female,Under 15,Children,2024,9.607
+Equatorial Guinea,Male,15-24,Youth,2024,14.885
+Equatorial Guinea,Male,25+,Adults,2024,6.577
+Equatorial Guinea,Male,Under 15,Children,2024,7.65
+Eritrea,Female,15-24,Youth,2024,11.33
+Eritrea,Female,25+,Adults,2024,4.467
+Eritrea,Female,Under 15,Children,2024,6.629
+Eritrea,Male,15-24,Youth,2024,8.744
+Eritrea,Male,25+,Adults,2024,3.279
+Eritrea,Male,Under 15,Children,2024,5.025
+Eswatini,Female,15-24,Youth,2024,49.303
+Eswatini,Female,25+,Adults,2024,19.257
+Eswatini,Female,Under 15,Children,2024,23.793
+Eswatini,Male,15-24,Youth,2024,44.598
+Eswatini,Male,25+,Adults,2024,16.585
+Eswatini,Male,Under 15,Children,2024,20.319
+Ethiopia,Female,15-24,Youth,2024,7.068
+Ethiopia,Female,25+,Adults,2024,3.352
+Ethiopia,Female,Under 15,Children,2024,4.45
+Ethiopia,Male,15-24,Youth,2024,3.78
+Ethiopia,Male,25+,Adults,2024,1.71
+Ethiopia,Male,Under 15,Children,2024,2.313
+Gabon,Female,15-24,Youth,2024,42.852
+Gabon,Female,25+,Adults,2024,27.326
+Gabon,Female,Under 15,Children,2024,29.047
+Gabon,Male,15-24,Youth,2024,31.088
+Gabon,Male,25+,Adults,2024,12.532
+Gabon,Male,Under 15,Children,2024,14.343
+Gambia,Female,15-24,Youth,2024,6.248
+Gambia,Female,25+,Adults,2024,2.027
+Gambia,Female,Under 15,Children,2024,3.104
+Gambia,Male,15-24,Youth,2024,7.894
+Gambia,Male,25+,Adults,2024,4.047
+Gambia,Male,Under 15,Children,2024,4.899
+Ghana,Female,15-24,Youth,2024,6.499
+Ghana,Female,25+,Adults,2024,3.084
+Ghana,Female,Under 15,Children,2024,3.685
+Ghana,Male,15-24,Youth,2024,6.921
+Ghana,Male,25+,Adults,2024,2.698
+Ghana,Male,Under 15,Children,2024,3.471
+Guinea,Female,15-24,Youth,2024,8.238
+Guinea,Female,25+,Adults,2024,4.687
+Guinea,Female,Under 15,Children,2024,5.413
+Guinea,Male,15-24,Youth,2024,6.294
+Guinea,Male,25+,Adults,2024,5.125
+Guinea,Male,Under 15,Children,2024,5.295
+Guinea-Bissau,Female,15-24,Youth,2024,3.994
+Guinea-Bissau,Female,25+,Adults,2024,2.245
+Guinea-Bissau,Female,Under 15,Children,2024,2.604
+Guinea-Bissau,Male,15-24,Youth,2024,3.747
+Guinea-Bissau,Male,25+,Adults,2024,3.355
+Guinea-Bissau,Male,Under 15,Children,2024,3.44
+Kenya,Female,15-24,Youth,2024,16.112
+Kenya,Female,25+,Adults,2024,5.303
+Kenya,Female,Under 15,Children,2024,7.367
+Kenya,Male,15-24,Youth,2024,8.644
+Kenya,Male,25+,Adults,2024,2.609
+Kenya,Male,Under 15,Children,2024,3.743
+Lesotho,Female,15-24,Youth,2024,33.954
+Lesotho,Female,25+,Adults,2024,14.945
+Lesotho,Female,Under 15,Children,2024,18.239
+Lesotho,Male,15-24,Youth,2024,17.049
+Lesotho,Male,25+,Adults,2024,13.652
+Lesotho,Male,Under 15,Children,2024,14.311
+Liberia,Female,15-24,Youth,2024,2.003
+Liberia,Female,25+,Adults,2024,2.169
+Liberia,Female,Under 15,Children,2024,2.127
+Liberia,Male,15-24,Youth,2024,2.155
+Liberia,Male,25+,Adults,2024,3.802
+Liberia,Male,Under 15,Children,2024,3.384
+Libya,Female,15-24,Youth,2024,67.018
+Libya,Female,25+,Adults,2024,20.827
+Libya,Female,Under 15,Children,2024,24.272
+Libya,Male,15-24,Youth,2024,39.407
+Libya,Male,25+,Adults,2024,11.933
+Libya,Male,Under 15,Children,2024,14.564
+Madagascar,Female,15-24,Youth,2024,2.956
+Madagascar,Female,25+,Adults,2024,1.357
+Madagascar,Female,Under 15,Children,2024,1.794
+Madagascar,Male,15-24,Youth,2024,3.798
+Madagascar,Male,25+,Adults,2024,0.989
+Madagascar,Male,Under 15,Children,2024,1.759
+Malawi,Female,15-24,Youth,2024,7.086
+Malawi,Female,25+,Adults,2024,5.381
+Malawi,Female,Under 15,Children,2024,5.9
+Malawi,Male,15-24,Youth,2024,6.267
+Malawi,Male,25+,Adults,2024,3.129
+Malawi,Male,Under 15,Children,2024,4.134
+Mali,Female,15-24,Youth,2024,4.677
+Mali,Female,25+,Adults,2024,2.473
+Mali,Female,Under 15,Children,2024,3.156
+Mali,Male,15-24,Youth,2024,4.54
+Mali,Male,25+,Adults,2024,2.807
+Mali,Male,Under 15,Children,2024,3.292
+Mauritania,Female,15-24,Youth,2024,30.757
+Mauritania,Female,25+,Adults,2024,12.21
+Mauritania,Female,Under 15,Children,2024,15.194
+Mauritania,Male,15-24,Youth,2024,20.255
+Mauritania,Male,25+,Adults,2024,5.655
+Mauritania,Male,Under 15,Children,2024,8.127
+Mauritius,Female,15-24,Youth,2024,19.341
+Mauritius,Female,25+,Adults,2024,4.681
+Mauritius,Female,Under 15,Children,2024,6.197
+Mauritius,Male,15-24,Youth,2024,15.282
+Mauritius,Male,25+,Adults,2024,1.459
+Mauritius,Male,Under 15,Children,2024,2.866
+Morocco,Female,15-24,Youth,2024,23.707
+Morocco,Female,25+,Adults,2024,9.187
+Morocco,Female,Under 15,Children,2024,11.123
+Morocco,Male,15-24,Youth,2024,23.122
+Morocco,Male,25+,Adults,2024,7.214
+Morocco,Male,Under 15,Children,2024,9.233
+Mozambique,Female,15-24,Youth,2024,7.465
+Mozambique,Female,25+,Adults,2024,2.645
+Mozambique,Female,Under 15,Children,2024,3.942
+Mozambique,Male,15-24,Youth,2024,7.972
+Mozambique,Male,25+,Adults,2024,1.61
+Mozambique,Male,Under 15,Children,2024,3.356
+Namibia,Female,15-24,Youth,2024,38.887
+Namibia,Female,25+,Adults,2024,15.227
+Namibia,Female,Under 15,Children,2024,18.191
+Namibia,Male,15-24,Youth,2024,37.552
+Namibia,Male,25+,Adults,2024,17.703
+Namibia,Male,Under 15,Children,2024,20.604
+Niger,Female,15-24,Youth,2024,0.352
+Niger,Female,25+,Adults,2024,0.404
+Niger,Female,Under 15,Children,2024,0.388
+Niger,Male,15-24,Youth,2024,0.73
+Niger,Male,25+,Adults,2024,0.452
+Niger,Male,Under 15,Children,2024,0.541
+Nigeria,Female,15-24,Youth,2024,8.082
+Nigeria,Female,25+,Adults,2024,4.482
+Nigeria,Female,Under 15,Children,2024,5.022
+Nigeria,Male,15-24,Youth,2024,5.548
+Nigeria,Male,25+,Adults,2024,1.769
+Nigeria,Male,Under 15,Children,2024,2.306
+Rwanda,Female,15-24,Youth,2024,22.569
+Rwanda,Female,25+,Adults,2024,14.544
+Rwanda,Female,Under 15,Children,2024,16.34
+Rwanda,Male,15-24,Youth,2024,20.85
+Rwanda,Male,25+,Adults,2024,11.379
+Rwanda,Male,Under 15,Children,2024,13.491
+Sao Tome and Principe,Female,15-24,Youth,2024,33.81
+Sao Tome and Principe,Female,25+,Adults,2024,19.198
+Sao Tome and Principe,Female,Under 15,Children,2024,22.028
+Sao Tome and Principe,Male,15-24,Youth,2024,15.089
+Sao Tome and Principe,Male,25+,Adults,2024,8.344
+Sao Tome and Principe,Male,Under 15,Children,2024,9.889
+Senegal,Female,15-24,Youth,2024,6.541
+Senegal,Female,25+,Adults,2024,2.388
+Senegal,Female,Under 15,Children,2024,3.063
+Senegal,Male,15-24,Youth,2024,2.89
+Senegal,Male,25+,Adults,2024,2.72
+Senegal,Male,Under 15,Children,2024,2.758
+Sierra Leone,Female,15-24,Youth,2024,2.55
+Sierra Leone,Female,25+,Adults,2024,1.986
+Sierra Leone,Female,Under 15,Children,2024,2.104
+Sierra Leone,Male,15-24,Youth,2024,4.823
+Sierra Leone,Male,25+,Adults,2024,3.976
+Sierra Leone,Male,Under 15,Children,2024,4.126
+Somalia,Female,15-24,Youth,2024,37.601
+Somalia,Female,25+,Adults,2024,21.424
+Somalia,Female,Under 15,Children,2024,24.76
+Somalia,Male,15-24,Youth,2024,32.548
+Somalia,Male,25+,Adults,2024,13.491
+Somalia,Male,Under 15,Children,2024,16.565
+South Africa,Female,15-24,Youth,2024,55.756
+South Africa,Female,25+,Adults,2024,27.594
+South Africa,Female,Under 15,Children,2024,30.779
+South Africa,Male,15-24,Youth,2024,46.855
+South Africa,Male,25+,Adults,2024,23.88
+South Africa,Male,Under 15,Children,2024,26.702
+South Sudan,Female,15-24,Youth,2024,16.666
+South Sudan,Female,25+,Adults,2024,10.832
+South Sudan,Female,Under 15,Children,2024,12.863
+South Sudan,Male,15-24,Youth,2024,18.618
+South Sudan,Male,25+,Adults,2024,6.844
+South Sudan,Male,Under 15,Children,2024,10.742
+Sudan,Female,15-24,Youth,2024,48.882
+Sudan,Female,25+,Adults,2024,30.532
+Sudan,Female,Under 15,Children,2024,34.285
+Sudan,Male,15-24,Youth,2024,34.094
+Sudan,Male,25+,Adults,2024,11.301
+Sudan,Male,Under 15,Children,2024,15.101
+"Tanzania, United Republic of",Female,15-24,Youth,2024,4.432
+"Tanzania, United Republic of",Female,25+,Adults,2024,3.057
+"Tanzania, United Republic of",Female,Under 15,Children,2024,3.441
+"Tanzania, United Republic of",Male,15-24,Youth,2024,2.631
+"Tanzania, United Republic of",Male,25+,Adults,2024,1.254
+"Tanzania, United Republic of",Male,Under 15,Children,2024,1.662
+Togo,Female,15-24,Youth,2024,6.917
+Togo,Female,25+,Adults,2024,1.94
+Togo,Female,Under 15,Children,2024,2.722
+Togo,Male,15-24,Youth,2024,11.83
+Togo,Male,25+,Adults,2024,3.597
+Togo,Male,Under 15,Children,2024,4.566
+Tunisia,Female,15-24,Youth,2024,40.859
+Tunisia,Female,25+,Adults,2024,24.255
+Tunisia,Female,Under 15,Children,2024,26.182
+Tunisia,Male,15-24,Youth,2024,40.158
+Tunisia,Male,25+,Adults,2024,11.108
+Tunisia,Male,Under 15,Children,2024,14.141
+Uganda,Female,15-24,Youth,2024,5.375
+Uganda,Female,25+,Adults,2024,2.514
+Uganda,Female,Under 15,Children,2024,3.351
+Uganda,Male,15-24,Youth,2024,3.526
+Uganda,Male,25+,Adults,2024,1.753
+Uganda,Male,Under 15,Children,2024,2.284
+Zambia,Female,15-24,Youth,2024,8.367
+Zambia,Female,25+,Adults,2024,3.901
+Zambia,Female,Under 15,Children,2024,4.85
+Zambia,Male,15-24,Youth,2024,7.374
+Zambia,Male,25+,Adults,2024,2.621
+Zambia,Male,Under 15,Children,2024,3.603
+Zimbabwe,Female,15-24,Youth,2024,15.555
+Zimbabwe,Female,25+,Adults,2024,7.528
+Zimbabwe,Female,Under 15,Children,2024,9.414
+Zimbabwe,Male,15-24,Youth,2024,13.485
+Zimbabwe,Male,25+,Adults,2024,6.703
+Zimbabwe,Male,Under 15,Children,2024,8.632
